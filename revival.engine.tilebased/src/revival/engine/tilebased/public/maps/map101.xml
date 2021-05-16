@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map xmlns="http://ailis.de/wlandsuite" mapSize="32" msqSize="5739" tilemapOffset="4991" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ailis.de/wlandsuite http://www.ailis.de/~k/software/projects/wlandsuite/schemas/wlandsuite.xsd">
+  <actionClassMap>
+    aaaaaaaaaabbbbbbbbbaaaaaaaaaaaaa
+    a.........babbabbab.........bbba
+    bb.1...............8........baba
+    ba.8.......1.......1....2......a
+    bb...........bbbbab............a
+    a....22......babbbb......2.....a
+    a...........1..................a
+    a.....bbb..........1..2........a
+    a.....bab....babbbb.......2....a
+    a..1.........bbbbab............a
+    a..........1.bb................a
+    a...bab..bb..ba....1.......2...a
+    a...bbb..ba..bbbab..1..........a
+    a.....2..bb....bbb..8.......1.2a
+    a2..............bb...bab.bab...a
+    a..1............ab...bbbabbb...a
+    a..8......1.....bb..1..........a
+    a....bab....bb..2bb.........1..a
+    a....bbb2...ba...ba..bbbbbab...a
+    a...........bb...bb..bbabbbb...a
+    a...bbbbbb......bbb.1..........a
+    bb..babbab......bab............a
+    ba.1.......1...1.....bbbab.....a
+    bb........1..........abbbb2222.a
+    a...babbab..bbb.bab..bb...2112.a
+    bb..bbbbbb..bab.bbb.......2112.a
+    ba..bbbbbb.1.......81.....2.32.a
+    bb..babbab................2312.a
+    a..1................babb..2112.a
+    a.18..........2.....bbab..2bb2.a
+    a.......2.........2............a
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  </actionClassMap>
+  <actionMap>
+    58 55 55 55 55 55 55 55 55 55 01 01 01 01 01 01 01 01 01 01 01 56 56 56 56 56 56 56 56 56 56 57
+    58 .. .. .. .. .. .. .. .. .. 01 29 01 01 28 01 01 27 01 .. .. .. .. .. .. .. .. .. 01 01 01 57
+    01 01 .. 23 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 .. .. .. .. .. .. .. .. 01 26 01 57
+    01 4f .. 02 .. .. .. .. .. .. .. 22 .. .. .. .. .. .. .. 21 .. .. .. .. 05 .. .. .. .. .. .. 57
+    01 01 .. .. .. .. .. .. .. .. .. .. .. 01 01 01 01 2b 01 .. .. .. .. .. .. .. .. .. .. .. .. 57
+    58 .. .. .. .. 05 05 .. .. .. .. .. .. 01 2c 01 01 01 01 .. .. .. .. .. .. 05 .. .. .. .. .. 57
+    58 .. .. .. .. .. .. .. .. .. .. .. 20 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 57
+    58 .. .. .. .. .. 01 01 01 .. .. .. .. .. .. .. .. .. .. 1f .. .. 05 .. .. .. .. .. .. .. .. 57
+    58 .. .. .. .. .. 01 03 01 .. .. .. .. 01 2f 01 01 01 01 .. .. .. .. .. .. .. 05 .. .. .. .. 57
+    58 .. .. 1a .. .. .. .. .. .. .. .. .. 01 01 01 01 33 01 .. .. .. .. .. .. .. .. .. .. .. .. 57
+    58 .. .. .. .. .. .. .. .. .. .. 1b .. 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 57
+    58 .. .. .. 01 4e 01 .. .. 01 01 .. .. 01 35 .. .. .. .. 1c .. .. .. .. .. .. .. 05 .. .. .. 57
+    58 .. .. .. 01 01 01 .. .. 01 54 .. .. 01 02 01 36 01 .. .. 1d .. .. .. .. .. .. .. .. .. .. 57
+    58 .. .. .. .. .. 05 .. .. 01 01 .. .. .. .. 01 01 01 .. .. 06 .. .. .. .. .. .. .. 1e .. 05 57
+    58 05 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 .. .. .. 01 1f 01 .. 01 11 01 .. .. .. 57
+    58 .. .. 19 .. .. .. .. .. .. .. .. .. .. .. .. 10 01 .. .. .. 01 01 01 5c 01 01 01 .. .. .. 57
+    59 .. .. 05 .. .. .. .. .. .. 18 .. .. .. .. .. 01 01 .. .. 17 .. .. .. .. .. .. .. .. .. .. 57
+    59 .. .. .. .. 01 51 01 .. .. .. .. 01 01 .. .. 05 01 01 .. .. .. .. .. .. .. .. .. 14 .. .. 05
+    59 .. .. .. .. 01 01 01 05 .. .. .. 01 3f .. .. .. 01 47 .. .. 01 01 01 01 01 1e 01 .. .. .. 05
+    59 .. .. .. .. .. .. .. .. .. .. .. 01 01 .. .. .. 01 01 .. .. 01 01 14 01 01 01 01 .. .. .. 05
+    59 .. .. .. 01 01 01 01 01 01 .. .. .. .. .. .. 01 01 01 .. 16 .. .. .. .. .. .. .. .. .. .. 05
+    01 01 .. .. 01 52 01 01 53 01 .. .. .. .. .. .. 01 42 01 .. .. .. .. .. .. .. .. .. .. .. .. 05
+    01 50 .. 0f .. .. .. .. .. .. .. 10 .. .. .. 11 .. .. .. .. .. 01 01 01 17 01 .. .. .. .. .. 05
+    01 01 .. .. .. .. .. .. .. .. 10 .. .. .. .. .. .. .. .. .. .. 19 01 01 01 01 00 00 00 00 .. 05
+    59 .. .. .. 01 4c 01 01 4d 01 .. .. 01 01 01 .. 01 45 01 .. .. 01 01 .. .. .. 00 02 03 00 .. 05
+    01 01 .. .. 01 01 01 01 01 01 .. .. 01 44 01 .. 01 01 01 .. .. .. .. .. .. .. 00 04 06 00 .. 05
+    01 04 .. .. 01 01 01 01 01 01 .. 0d .. .. .. .. .. .. .. 09 0c .. .. .. .. .. 01 .. 00 00 .. 05
+    01 01 .. .. 01 4b 01 01 4a 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 07 00 .. 05
+    59 .. .. 0e .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 12 01 01 .. .. 00 05 09 00 .. 05
+    59 .. 0e 08 .. .. .. .. .. .. .. .. .. .. 05 .. .. .. .. .. 01 01 13 01 .. .. 00 01 01 00 .. 05
+    59 .. .. .. .. .. .. .. 05 .. .. .. .. .. .. .. .. .. 05 .. .. .. .. .. .. .. .. .. .. .. .. 05
+    5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 06 06 06 06 06 06 06 06 06 06 06 5b 5b 5b 5b 5b 5b 5b 5b 5b 5b 05
+  </actionMap>
+  <info tileset="3" backgroundTile="35" timeFactor="128" encounterFrequency="30" lastMonster="7" maxEncounters="8" unknown0="0x35" unknown1="0x39" unknown9="0x2"/>
+  <battleStrings s0="66" s1="67" s2="68" s3="69" s4="70" s5="71" s6="72" s7="73" s8="74" s9="75" s10="74" s11="76" s12="77" s13="78" s14="74" s15="79" s16="74" s17="80" s18="74" s19="81" s20="82" s21="83" s22="84" s23="85" s24="86" s25="87" s26="88" s27="89" s28="90" s29="91" s30="92" s31="93" s32="94" s33="95" s34="96" s35="97" s36="98"/>
+  <actions actionClass="0x1">
+    <print id="0x2">
+      <message>26</message>
+    </print>
+    <print id="0x3">
+      <message>27</message>
+    </print>
+    <print id="0x4">
+      <message>28</message>
+    </print>
+    <print id="0x5">
+      <message>29</message>
+    </print>
+    <print id="0x6">
+      <message>30</message>
+    </print>
+    <print id="0x7">
+      <message>31</message>
+    </print>
+    <print id="0x9">
+      <message>34</message>
+    </print>
+    <print id="0xa">
+      <message>5</message>
+      <message>36</message>
+      <message>9</message>
+      <message>40</message>
+    </print>
+    <print id="0xb">
+      <message>5</message>
+      <message>36</message>
+      <message>9</message>
+      <message>40</message>
+    </print>
+    <print id="0xc">
+      <message>5</message>
+      <message>37</message>
+      <message>9</message>
+      <message>40</message>
+    </print>
+    <print id="0xd">
+      <message>5</message>
+      <message>38</message>
+      <message>9</message>
+      <message>40</message>
+    </print>
+    <print id="0xe">
+      <message>5</message>
+      <message>39</message>
+      <message>9</message>
+      <message>40</message>
+    </print>
+    <print id="0xf">
+      <message>5</message>
+      <message>39</message>
+      <message>9</message>
+      <message>41</message>
+    </print>
+    <print id="0x10">
+      <message>5</message>
+      <message>38</message>
+      <message>9</message>
+      <message>41</message>
+    </print>
+    <print id="0x11">
+      <message>5</message>
+      <message>42</message>
+      <message>9</message>
+      <message>41</message>
+    </print>
+    <print id="0x12">
+      <message>5</message>
+      <message>43</message>
+      <message>9</message>
+      <message>44</message>
+    </print>
+    <print id="0x13">
+      <message>5</message>
+      <message>36</message>
+      <message>9</message>
+      <message>44</message>
+    </print>
+    <print id="0x14">
+      <message>5</message>
+      <message>36</message>
+      <message>9</message>
+      <message>45</message>
+    </print>
+    <print id="0x15">
+      <message>5</message>
+      <message>43</message>
+      <message>9</message>
+      <message>35</message>
+    </print>
+    <print id="0x16">
+      <message>5</message>
+      <message>37</message>
+      <message>9</message>
+      <message>35</message>
+    </print>
+    <print id="0x17">
+      <message>5</message>
+      <message>37</message>
+      <message>9</message>
+      <message>45</message>
+    </print>
+    <print id="0x18">
+      <message>5</message>
+      <message>38</message>
+      <message>9</message>
+      <message>46</message>
+    </print>
+    <print id="0x19">
+      <message>5</message>
+      <message>39</message>
+      <message>9</message>
+      <message>46</message>
+    </print>
+    <print id="0x1a">
+      <message>5</message>
+      <message>39</message>
+      <message>9</message>
+      <message>47</message>
+    </print>
+    <print id="0x1b">
+      <message>5</message>
+      <message>38</message>
+      <message>9</message>
+      <message>47</message>
+    </print>
+    <print id="0x1c">
+      <message>5</message>
+      <message>37</message>
+      <message>9</message>
+      <message>48</message>
+    </print>
+    <print id="0x1d">
+      <message>5</message>
+      <message>37</message>
+      <message>9</message>
+      <message>49</message>
+    </print>
+    <print id="0x1e">
+      <message>5</message>
+      <message>36</message>
+      <message>9</message>
+      <message>49</message>
+    </print>
+    <print id="0x1f">
+      <message>5</message>
+      <message>37</message>
+      <message>9</message>
+      <message>50</message>
+    </print>
+    <print id="0x20">
+      <message>5</message>
+      <message>38</message>
+      <message>9</message>
+      <message>50</message>
+    </print>
+    <print id="0x21">
+      <message>5</message>
+      <message>37</message>
+      <message>9</message>
+      <message>51</message>
+    </print>
+    <print id="0x22">
+      <message>5</message>
+      <message>38</message>
+      <message>9</message>
+      <message>51</message>
+    </print>
+    <print id="0x23">
+      <message>5</message>
+      <message>39</message>
+      <message>9</message>
+      <message>51</message>
+    </print>
+  </actions>
+  <actions actionClass="0x2">
+    <check id="0x0" startMessage="17" passMessage="18" failMessage="19" modifierTarget="0x0">
+      <skill value="2" difficulty="1"/>
+      <item value="54"/>
+    </check>
+    <check id="0x1" startMessage="23" passMessage="24" failMessage="25" passNewActionClass="0x0" passNewAction="0x0" modifierTarget="0x0">
+      <skill value="15" difficulty="2" newActionClass="0x0" newAction="0x0"/>
+      <attribute value="14" difficulty="2" newActionClass="0x0" newAction="0x0"/>
+      <item value="45" newActionClass="0x0" newAction="0x0"/>
+      <item value="53" newActionClass="0x0" newAction="0x0"/>
+      <item value="56" newActionClass="0x0" newAction="0x0"/>
+      <item value="7" newActionClass="0x4" newAction="0x0"/>
+      <item value="6" newActionClass="0x4" newAction="0x0"/>
+      <item value="11" newActionClass="0x4" newAction="0x0"/>
+      <item value="9" newActionClass="0x4" newAction="0x0"/>
+      <item value="10" newActionClass="0x4" newAction="0x0"/>
+      <item value="12" newActionClass="0x4" newAction="0x0"/>
+      <item value="8" newActionClass="0x4" newAction="0x0"/>
+    </check>
+    <check id="0x5" passable="true" autoCheck="true" party="true" failMessage="7" modifier="-1">
+      <skill value="37" difficulty="2"/>
+    </check>
+  </actions>
+  <actions actionClass="0x3">
+    <encounter id="0x0" visibleDistance="15" hitDistance="15" message="22" monster1="8" maxGroupSize1="3" random1="true" properName="true" newActionClass="0x5" newAction="0x0"/>
+    <encounter id="0x1" visibleDistance="15" hitDistance="15" message="22" monster1="8" maxGroupSize1="3" random1="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+  </actions>
+  <actions actionClass="0x4">
+    <mask id="0x0" tile="25"/>
+  </actions>
+  <actions actionClass="0x5">
+    <loot id="0x0" newActionClass="0x0" newAction="0x0">
+      <item value="64"/>
+      <randomMoney quantity="300"/>
+    </loot>
+  </actions>
+  <actions actionClass="0x6">
+    <doctor id="0x0" name="Q. Emergency" message="65" healPrice="5" examinePrice="30" curePrice="70" newActionClass="0xfd" newAction="0xfd"/>
+    <store id="0x1" name="Q. Emporium " message="64" sellFactor="1" itemList="2" newActionClass="0xfd" newAction="0xfd">
+      <itemType>1</itemType>
+      <itemType>13</itemType>
+      <itemType>8</itemType>
+      <itemType>9</itemType>
+      <itemType>2</itemType>
+      <itemType>3</itemType>
+      <itemType>4</itemType>
+      <itemType>5</itemType>
+      <itemType>6</itemType>
+      <itemType>7</itemType>
+      <itemType>10</itemType>
+      <itemType>11</itemType>
+      <itemType>12</itemType>
+      <itemType>14</itemType>
+      <itemType>15</itemType>
+      <itemType>16</itemType>
+      <itemType>17</itemType>
+    </store>
+  </actions>
+  <actions actionClass="0x8">
+    <dialogue id="0x2" menu="true" message="54">
+      <answer message="60" newActionClass="0xa" newAction="0xa"/>
+      <answer message="61" newActionClass="0xa" newAction="0x8"/>
+    </dialogue>
+    <dialogue id="0x3" menu="true" message="55">
+      <answer message="60" newActionClass="0xa" newAction="0xb"/>
+      <answer message="62" newActionClass="0xa" newAction="0x7"/>
+    </dialogue>
+    <dialogue id="0x5" menu="true" message="56">
+      <answer message="52" newActionClass="0xa" newAction="0x7"/>
+      <answer message="60" newActionClass="0xa" newAction="0xd"/>
+      <answer message="61" newActionClass="0xa" newAction="0xb"/>
+    </dialogue>
+    <dialogue id="0x6" menu="true" message="57">
+      <answer message="52" newActionClass="0xa" newAction="0x8"/>
+      <answer message="60" newActionClass="0xa" newAction="0xe"/>
+      <answer message="62" newActionClass="0xa" newAction="0xa"/>
+    </dialogue>
+    <dialogue id="0x8" menu="true" message="58">
+      <answer message="52" newActionClass="0xa" newAction="0xa"/>
+      <answer message="61" newActionClass="0xa" newAction="0xe"/>
+    </dialogue>
+    <dialogue id="0x9" menu="true" message="59">
+      <answer message="52" newActionClass="0xa" newAction="0xb"/>
+      <answer message="62" newActionClass="0xa" newAction="0xd"/>
+    </dialogue>
+  </actions>
+  <actions actionClass="0xa">
+    <transition id="0x1" confirm="true" message="4" targetX="29" targetY="42" targetMap="0"/>
+    <transition id="0x2" confirm="true" targetX="62" targetY="62" targetMap="1"/>
+    <transition id="0x3" relative="true" confirm="true" message="1" targetMap="1" newActionClass="0x6" newAction="0x0"/>
+    <transition id="0x4" relative="true" confirm="true" message="33" targetMap="1" newActionClass="0x6" newAction="0x1"/>
+    <transition id="0x5" confirm="true" message="4" targetX="31" targetY="44" targetMap="0"/>
+    <transition id="0x6" confirm="true" message="4" targetX="29" targetY="45" targetMap="0"/>
+    <transition id="0x7" message="32" targetX="3" targetY="3" targetMap="1" newActionClass="0xfe"/>
+    <transition id="0x8" message="32" targetX="19" targetY="2" targetMap="1" newActionClass="0xfe"/>
+    <transition id="0x9" message="32" targetX="58" targetY="10" targetMap="1" newActionClass="0xfe"/>
+    <transition id="0xa" message="32" targetX="3" targetY="16" targetMap="1" newActionClass="0xfe"/>
+    <transition id="0xb" message="32" targetX="20" targetY="13" targetMap="1" newActionClass="0xfe"/>
+    <transition id="0xc" message="32" targetX="57" targetY="33" targetMap="1" newActionClass="0xfe"/>
+    <transition id="0xd" message="32" targetX="3" targetY="29" targetMap="1" newActionClass="0xfe"/>
+    <transition id="0xe" message="32" targetX="19" targetY="26" targetMap="1" newActionClass="0xfe"/>
+    <transition id="0xf" message="32" targetX="57" targetY="56" targetMap="1" newActionClass="0xfe"/>
+    <transition id="0x10" confirm="true" message="2" targetX="1" targetY="29" targetMap="3"/>
+    <transition id="0x11" confirm="true" message="10" targetX="21" targetY="1" targetMap="4"/>
+    <transition id="0x12" confirm="true" message="6" targetX="13" targetY="1" targetMap="2"/>
+    <transition id="0x13" confirm="true" message="15" targetX="28" targetY="28" targetMap="2"/>
+    <transition id="0x14" confirm="true" message="16" targetX="30" targetY="30" targetMap="6"/>
+    <transition id="0x15" confirm="true" message="10" targetX="6" targetY="30" targetMap="128"/>
+    <transition id="0x16" confirm="true" message="3" targetX="6" targetY="30" targetMap="129"/>
+    <transition id="0x17" confirm="true" message="8" targetX="25" targetY="19" targetMap="130"/>
+    <transition id="0x18" confirm="true" message="10" targetX="25" targetY="19" targetMap="131"/>
+    <transition id="0x19" confirm="true" message="3" targetX="1" targetY="7" targetMap="132"/>
+    <transition id="0x1a" confirm="true" message="8" targetX="30" targetY="7" targetMap="133"/>
+    <transition id="0x1b" confirm="true" message="10" targetX="30" targetY="7" targetMap="134"/>
+    <transition id="0x1c" confirm="true" message="3" targetX="25" targetY="19" targetMap="135"/>
+    <transition id="0x1d" confirm="true" message="8" targetX="6" targetY="30" targetMap="136"/>
+    <transition id="0x1e" confirm="true" message="10" targetX="25" targetY="19" targetMap="137"/>
+    <transition id="0x1f" confirm="true" message="3" targetX="25" targetY="19" targetMap="138"/>
+    <transition id="0x20" confirm="true" message="8" targetX="6" targetY="30" targetMap="139"/>
+    <transition id="0x21" confirm="true" message="10" targetX="6" targetY="30" targetMap="140"/>
+    <transition id="0x22" confirm="true" message="3" targetX="6" targetY="30" targetMap="141"/>
+    <transition id="0x23" confirm="true" message="8" targetX="25" targetY="19" targetMap="142"/>
+    <transition id="0x24" confirm="true" message="10" targetX="25" targetY="19" targetMap="143"/>
+    <transition id="0x25" confirm="true" message="3" targetX="6" targetY="30" targetMap="144"/>
+    <transition id="0x26" confirm="true" message="8" targetX="6" targetY="30" targetMap="145"/>
+    <transition id="0x27" confirm="true" message="10" targetX="6" targetY="30" targetMap="146"/>
+    <transition id="0x28" confirm="true" message="3" targetX="6" targetY="30" targetMap="147"/>
+    <transition id="0x29" confirm="true" message="8" targetX="6" targetY="30" targetMap="148"/>
+    <transition id="0x2a" confirm="true" message="10" targetX="25" targetY="19" targetMap="149"/>
+    <transition id="0x2b" confirm="true" message="3" targetX="25" targetY="19" targetMap="150"/>
+    <transition id="0x2c" confirm="true" message="8" targetX="6" targetY="30" targetMap="151"/>
+    <transition id="0x2d" confirm="true" message="10" targetX="6" targetY="30" targetMap="152"/>
+    <transition id="0x2e" confirm="true" message="3" targetX="6" targetY="30" targetMap="153"/>
+    <transition id="0x2f" confirm="true" message="8" targetX="25" targetY="19" targetMap="154"/>
+    <transition id="0x30" confirm="true" message="10" targetX="25" targetY="19" targetMap="155"/>
+    <transition id="0x31" confirm="true" message="3" targetX="30" targetY="7" targetMap="156"/>
+    <transition id="0x32" confirm="true" message="8" targetX="6" targetY="30" targetMap="157"/>
+    <transition id="0x33" confirm="true" message="10" targetX="6" targetY="30" targetMap="158"/>
+    <transition id="0x34" confirm="true" message="3" targetX="30" targetY="7" targetMap="159"/>
+    <transition id="0x35" confirm="true" message="8" targetX="30" targetY="7" targetMap="160"/>
+    <transition id="0x36" confirm="true" message="10" targetX="25" targetY="19" targetMap="161"/>
+    <transition id="0x37" confirm="true" message="3" targetX="25" targetY="19" targetMap="162"/>
+    <transition id="0x38" confirm="true" message="8" targetX="30" targetY="7" targetMap="163"/>
+    <transition id="0x39" confirm="true" message="10" targetX="30" targetY="7" targetMap="164"/>
+    <transition id="0x3a" confirm="true" message="3" targetX="6" targetY="30" targetMap="165"/>
+    <transition id="0x3b" confirm="true" message="8" targetX="30" targetY="7" targetMap="166"/>
+    <transition id="0x3c" confirm="true" message="10" targetX="30" targetY="7" targetMap="167"/>
+    <transition id="0x3d" confirm="true" message="3" targetX="1" targetY="7" targetMap="168"/>
+    <transition id="0x3e" confirm="true" message="8" targetX="1" targetY="7" targetMap="169"/>
+    <transition id="0x3f" confirm="true" message="10" targetX="30" targetY="7" targetMap="170"/>
+    <transition id="0x40" confirm="true" message="3" targetX="30" targetY="7" targetMap="171"/>
+    <transition id="0x41" confirm="true" message="8" targetX="1" targetY="7" targetMap="172"/>
+    <transition id="0x42" confirm="true" message="10" targetX="6" targetY="30" targetMap="173"/>
+    <transition id="0x43" confirm="true" message="3" targetX="6" targetY="30" targetMap="174"/>
+    <transition id="0x44" confirm="true" message="8" targetX="6" targetY="30" targetMap="175"/>
+    <transition id="0x45" confirm="true" message="10" targetX="25" targetY="19" targetMap="176"/>
+    <transition id="0x46" confirm="true" message="3" targetX="30" targetY="7" targetMap="177"/>
+    <transition id="0x47" confirm="true" message="8" targetX="30" targetY="7" targetMap="178"/>
+    <transition id="0x48" confirm="true" message="10" targetX="30" targetY="7" targetMap="179"/>
+    <transition id="0x49" confirm="true" message="3" targetX="25" targetY="19" targetMap="180"/>
+    <transition id="0x4a" confirm="true" message="8" targetX="6" targetY="30" targetMap="181"/>
+    <transition id="0x4b" confirm="true" message="10" targetX="6" targetY="30" targetMap="182"/>
+    <transition id="0x4c" confirm="true" message="3" targetX="25" targetY="19" targetMap="183"/>
+    <transition id="0x4d" confirm="true" message="8" targetX="25" targetY="19" targetMap="184"/>
+    <transition id="0x4e" confirm="true" message="10" targetX="25" targetY="19" targetMap="185"/>
+    <transition id="0x4f" confirm="true" message="3" targetX="30" targetY="7" targetMap="186"/>
+    <transition id="0x50" confirm="true" message="8" targetX="30" targetY="7" targetMap="187"/>
+    <transition id="0x51" confirm="true" message="10" targetX="25" targetY="19" targetMap="188"/>
+    <transition id="0x52" confirm="true" message="3" targetX="6" targetY="30" targetMap="189"/>
+    <transition id="0x53" confirm="true" message="8" targetX="6" targetY="30" targetMap="190"/>
+    <transition id="0x54" confirm="true" message="10" targetX="30" targetY="7" targetMap="191"/>
+    <transition id="0x55" confirm="true" message="4" targetX="28" targetY="42" targetMap="0"/>
+    <transition id="0x56" confirm="true" message="4" targetX="30" targetY="42" targetMap="0"/>
+    <transition id="0x57" confirm="true" message="4" targetX="31" targetY="43" targetMap="0"/>
+    <transition id="0x58" confirm="true" message="4" targetX="27" targetY="43" targetMap="0"/>
+    <transition id="0x59" confirm="true" message="4" targetX="27" targetY="44" targetMap="0"/>
+    <transition id="0x5a" confirm="true" message="4" targetX="28" targetY="45" targetMap="0"/>
+    <transition id="0x5b" confirm="true" message="4" targetX="30" targetY="45" targetMap="0"/>
+    <transition id="0x5c" confirm="true" targetX="1" targetY="2" targetMap="4"/>
+  </actions>
+  <actions actionClass="0xb">
+    <impassable id="0x1" message="63"/>
+    <impassable id="0x2" message="53"/>
+  </actions>
+  <actions actionClass="0xf">
+    <encounter id="0x0" message="11" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x1" message="12" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x2" message="13" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x3" message="14" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x4" message="11" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x5" message="12" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x6" message="13" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x7" message="14" newActionClass="0x0" newAction="0x0"/>
+  </actions>
+  <npcs/>
+  <monsters>
+    <monster id="0"/>
+    <monster id="1" name="Biker Scum" experience="10" skill="1" randomDamage="1" maxGroupSize="4" weaponType="1" monsterType="3" picture="38"/>
+    <monster id="2" name="Rib Cracker\n\ns\n" experience="11" skill="1" randomDamage="1" maxGroupSize="4" weaponType="1" monsterType="3" picture="38"/>
+    <monster id="3" name="Cutthroat\n\ns\n" experience="13" skill="1" randomDamage="1" maxGroupSize="4" weaponType="1" monsterType="3" picture="38"/>
+    <monster id="4" name="Leather Thug\n\ns\n" experience="10" ac="1" skill="1" randomDamage="1" maxGroupSize="4" weaponType="1" monsterType="3" picture="38"/>
+    <monster id="5" name="Deserter\n\ns\n" experience="10" ac="1" skill="10" randomDamage="1" maxGroupSize="4" weaponType="2" monsterType="3" picture="50"/>
+    <monster id="6" name="Gunsel\n\ns\n" experience="13" ac="1" skill="12" randomDamage="1" maxGroupSize="3" weaponType="2" monsterType="3" picture="44"/>
+    <monster id="7" name="Gunm\na\ne\nn" experience="15" ac="2" skill="14" randomDamage="1" maxGroupSize="3" weaponType="2" monsterType="3" picture="44"/>
+    <monster id="8" name="Shambler Ghoul\n\ns\n" experience="20" ac="1" skill="1" randomDamage="1" maxGroupSize="2" weaponType="1" monsterType="2" picture="7"/>
+  </monsters>
+  <strings>
+    <string id="0"></string>
+    <string id="1">\rEntering Dr. Quack's emergency clinic.\r</string>
+    <string id="2">\rEntering Stage Coach Inn.\r</string>
+    <string id="3">\rAn old abandoned shack.\r</string>
+    <string id="4">\rLeaving Quartz.\r</string>
+    <string id="5">\rN-S </string>
+    <string id="6">\rEntering Scott's Bar.\r</string>
+    <string id="7">\rYou've walked into a cactus. The spines poke you and hurt a lot.\r</string>
+    <string id="8">\rIt looks dark in here.\r</string>
+    <string id="9">E-W </string>
+    <string id="10">\rThis doesn't look like a safe place to enter.\r</string>
+    <string id="11">Something just leaped out from nowhere.\r</string>
+    <string id="12">Unfriendly foes stand before you.\r</string>
+    <string id="13">These guys don't want to invite you to a party.\r</string>
+    <string id="14">It seems you have wandered where you shouldn't.\r</string>
+    <string id="15">\rEntering from the rear of Scott's Bar.\r</string>
+    <string id="16">\rEntering the Courthouse.\r</string>
+    <string id="17">\rA high stone wall surrounds the cemetery.\r</string>
+    <string id="18">\rYou climb on the top and help anyone else that needs it.\r</string>
+    <string id="19">\rIt is too difficult for you.\r</string>
+    <string id="20">\rThe desert burial ground inside looks serene enough...\r</string>
+    <string id="21">\rThe old cemetery is an eerie place. Wait! Something just moved inside!\r</string>
+    <string id="22">Spirits pop out from a grave.\r</string>
+    <string id="23">\rThe cemetery gates are chained shut and locked.\r</string>
+    <string id="24">\rThe padlock opens. You unchain the gates and enter.\r</string>
+    <string id="25">\rThe lock is rusted shut and won't come open.\r</string>
+    <string id="26">\rThe gravestone is inscribed: Ken St. Andre, 4/28/47--4/28/87.\r</string>
+    <string id="27">\rThe headstone says: Lester More, shot by a .44. No Les, no more.\r</string>
+    <string id="28">\rThe grave reads: Grave of the Unknown Mutant.\r</string>
+    <string id="29">\rThe grave reads: R.I.P. Mediocre Phred.\r</string>
+    <string id="30">\rThe headstone says: Reserved for Finster.\r</string>
+    <string id="31">\rThe headstone says: In memory of Richard Pickman.\r</string>
+    <string id="32">\rYou crawl through the slimy underground.\r</string>
+    <string id="33">\rEntering Quartz Emporium.\r</string>
+    <string id="34">\rYou are in the graveyard. How grisly!\r</string>
+    <string id="35">Quail Trail\r</string>
+    <string id="36">Finster Way\r</string>
+    <string id="37">Hell's Highway\r</string>
+    <string id="38">Mountain Road\r</string>
+    <string id="39">Moon Road\r</string>
+    <string id="40">Loop Drive\r</string>
+    <string id="41">Gray Bear Road\r</string>
+    <string id="42">Target Trail\r</string>
+    <string id="43">Lizard Lane\r</string>
+    <string id="44">Short Street\r</string>
+    <string id="45">Hubcap Blvd.\r</string>
+    <string id="46">Possum Place\r</string>
+    <string id="47">Pyramid Drive\r</string>
+    <string id="48">Loco Lane\r</string>
+    <string id="49">Devastation Row\r</string>
+    <string id="50">Lowest Lane\r</string>
+    <string id="51">Ryson Drive\r</string>
+    <string id="52">N</string>
+    <string id="53">\rThe power of the force stopped you, you hoser.\r</string>
+    <string id="54">This manhole leads:\r\r\x11\x10South\r\x10East\r</string>
+    <string id="55">This manhole leads:\r\r\x11\x10South\r\x10West\r</string>
+    <string id="56">This manhole leads:\r\r\x11\x10North\r\x10South\r\x10East\r</string>
+    <string id="57">This manhole leads:\r\r\x11\x10North\r\x10South\r\x10West\r</string>
+    <string id="58">This manhole leads:\r\r\x11\x10North\r\x10East\r</string>
+    <string id="59">This manhole leads:\r\r\x11\x10North\r\x10West\r</string>
+    <string id="60">S</string>
+    <string id="61">E</string>
+    <string id="62">W</string>
+    <string id="63">\rOuch!\r</string>
+    <string id="64">\x07Welcome to the Quartz Emporium.\r</string>
+    <string id="65">\x07Dr. Quack's emergency clinic.\r</string>
+    <string id="66">\x0b attacks</string>
+    <string id="67">\x0b triggers</string>
+    <string id="68">\x0b discharges a burst</string>
+    <string id="69">Sub-atomic particles burst from \x0b</string>
+    <string id="70">\x0b fires full auto</string>
+    <string id="71">\x0b chucks an explosive charge</string>
+    <string id="72">\x0b lauches a shell</string>
+    <string id="73">hits \x0f </string>
+    <string id="74"> for </string>
+    <string id="75">hits \x0f </string>
+    <string id="76">\x0f </string>
+    <string id="77"> \nis\nare\n raked in a crossfire of bullets for </string>
+    <string id="78">bores through \x0f </string>
+    <string id="79">tears a jagged rent in \x0f </string>
+    <string id="80">inflames \x0f </string>
+    <string id="81"> but fail\ns\n\n to inflict any damage</string>
+    <string id="82"> drills </string>
+    <string id="83"> blazes away at </string>
+    <string id="84"> sprays </string>
+    <string id="85"> triggers a burst at </string>
+    <string id="86"> fries </string>
+    <string id="87"> toasts </string>
+    <string id="88"> and hits for </string>
+    <string id="89"> beat\ns\n\n </string>
+    <string id="90"> hammer\ns\n\n </string>
+    <string id="91"> thrashes </string>
+    <string id="92"> mauls </string>
+    <string id="93"> whomps on </string>
+    <string id="94"> pounds at </string>
+    <string id="95"> and rips \x0ehim\x0eher\x0eit\x0e to shreds</string>
+    <string id="96"> and shreds \x0ehim\x0eher\x0eit\x0e</string>
+    <string id="97"> spinning \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n into a dance of death</string>
+    <string id="98"> reducing \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n to a thin red paste</string>
+  </strings>
+  <tileMap unknown="0x16f3">
+    61 66 5c 5c 63 66 61 60 60 61 50 58 4d 71 67 70 44 1d 41 5c 5c 61 61 61 60 60 60 60 61 61 66 66
+    60 61 3f 3d 66 61 60 60 61 1e 4f 3a 4e 6e 6d 6f 43 39 42 3f 3d 60 60 61 61 60 22 60 44 1d 41 63
+    44 41 3f 1a 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 34 3d 1e 60 61 63 61 60 60 43 39 42 63
+    4a 37 3f 34 3e 3e 3e 3e 3e 3e 3e 1b 0e 3e 3e 3e 3e 3e 3e 1b 3d 60 61 66 65 66 61 60 2f 2d 66 63
+    43 42 3f 3d 62 62 62 62 63 63 66 3f 3d 44 1d 41 50 36 4d 3f 3d 61 61 61 66 63 66 61 3f 3d 63 62
+    60 60 3f 3d 62 65 64 63 66 66 61 3f 3d 43 39 42 4f 54 4e 3f 3d 66 66 61 61 64 63 63 3f 3d 62 62
+    60 61 3f 3d 62 63 66 1e 60 61 60 3f 1a 40 40 40 40 40 40 0e 3d 63 63 66 1e 61 63 62 3f 3d 62 65
+    61 66 3f 3d 63 66 50 26 4d 60 60 3f 0e 3e 3e 3e 3e 3e 3e 1b 3d 63 65 61 60 61 63 63 3f 3d 62 63
+    66 66 3f 3d 66 61 4f 3a 4e 1f 60 3f 3d 50 36 4d 71 67 70 3f 3d 66 66 61 1f 61 64 66 3f 3d 63 66
+    66 66 3f 1a 40 40 40 40 40 40 40 0e 3d 4f 54 4e 6e 6d 6f 3f 3d 61 61 60 1e 21 1e 66 3f 3d 66 61
+    66 63 3f 0e 3e 3e 3e 3e 3e 3e 3e 1b 3d 44 41 2f 40 40 40 0e 3d 61 60 60 61 61 63 63 3f 3d 61 61
+    63 63 3f 3d 44 35 41 60 60 50 4d 3f 3d 4a 37 2c 3e 3e 3e 1b 3d 60 61 61 66 63 62 64 3f 3d 63 66
+    63 62 3f 3d 43 48 42 1e 60 56 38 3f 3d 43 42 50 36 4d 18 3f 1a 40 40 40 40 40 40 40 0e 3d 62 63
+    62 62 3f 3d 63 62 65 66 61 4f 4e 3f 3d 60 22 4f 54 4e 18 3f 34 3e 3e 3e 3e 3e 3e 3e 1b 3d 64 62
+    62 64 3f 3d 66 63 62 63 66 61 60 3f 3d 18 2f 2d 50 4d 18 3f 3d 44 35 41 18 71 6b 70 3f 3d 63 63
+    66 63 3f 1a 40 40 40 40 40 40 40 0e 3d 60 3f 3d 3c 52 60 3f 3d 43 48 42 0e 6e 72 6f 3f 3d 66 66
+    61 66 3f 34 3e 3e 3e 3e 3e 3e 1b 0e 2e 61 3f 3d 4f 4e 60 3f 1a 40 40 40 0e 40 40 40 0e 3d 61 61
+    60 61 3f 3d 60 50 36 4d 66 63 3f 3d 44 41 3f 3d 64 44 41 3f 0e 3e 3e 3e 3e 3e 3e 3e 1b 3d 1e 60
+    18 60 3f 3d 60 4f 54 4e 65 63 3f 3d 4a 37 3f 3d 63 4a 37 3f 3d 50 58 58 4d 44 35 41 3f 3d 18 18
+    18 18 3f 3d 61 61 66 66 63 66 3f 3d 43 42 3f 3d 61 43 42 3f 3d 4f 54 3a 4e 43 48 42 3f 3d 18 18
+    18 1e 3f 3d 71 67 70 44 4c 41 3f 3d 18 1e 3f 3d 71 57 70 3f 1a 40 40 40 40 40 40 40 0e 3d 18 18
+    44 41 3f 3d 6e 6d 6f 43 39 42 3f 3d 18 18 3f 3d 6e 6d 6f 3f 0e 3e 3e 3e 3e 3e 3e 3e 3e 2e 18 18
+    4a 37 3f 1a 40 40 40 40 40 40 0e 1a 40 40 0e 1a 40 2d 18 3f 3d 50 4d 44 35 41 18 18 18 18 18 18
+    43 42 3f 0e 3e 3e 3e 3e 3e 3e 1b 0e 3e 3e 3e 3e 3e 2e 18 3f 3d 3c 52 43 48 42 13 17 17 10 18 18
+    60 60 3f 3d 50 36 51 44 35 45 3f 3d 44 1d 41 18 44 35 41 3f 3d 4f 4e 66 61 61 16 33 33 15 18 18
+    50 51 3f 3d 4f 54 4e 43 48 42 3f 3d 43 39 42 18 43 48 42 3f 3d 66 61 61 61 60 16 33 33 15 18 18
+    56 38 3f 3d 44 1d 45 50 26 4d 3f 1a 40 40 40 40 40 40 40 34 1a 40 40 40 2d 60 14 33 33 15 18 18
+    4f 4e 3f 3d 43 39 42 4f 3a 4e 3f 0e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 2e 60 5a 33 33 15 18 18
+    5c 40 0e 1a 40 40 40 40 40 40 0e 3d 1e 61 66 63 66 61 60 1e 50 36 58 4d 60 60 16 33 33 15 18 18
+    5c 3e 1b 34 3e 3e 3e 3e 3e 3e 3e 2e 61 66 64 63 66 66 1e 1f 4f 54 3a 4e 60 60 12 22 22 11 18 18
+    61 1f 3f 3d 1e 61 66 63 65 63 66 61 61 61 66 62 63 63 65 61 60 61 66 66 61 60 60 60 18 18 18 18
+    60 61 5c 5c 61 60 61 66 62 62 63 66 61 60 61 66 66 62 63 66 66 66 63 66 61 61 60 60 60 60 18 18
+  </tileMap>
+</map>

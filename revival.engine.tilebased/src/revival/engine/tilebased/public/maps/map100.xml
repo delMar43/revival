@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map xmlns="http://ailis.de/wlandsuite" mapSize="64" msqSize="10958" tilemapOffset="8577" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ailis.de/wlandsuite http://www.ailis.de/~k/software/projects/wlandsuite/schemas/wlandsuite.xsd">
+  <actionClassMap>
+    bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    b.bbbbbb..............66666666666666666666666..............22..b
+    b.bbbbbbbbb...........66666666666666666666................22...b
+    b.4bbbbbbb............66666666666666666666................1....b
+    b.bbbbbb............66666666666666666666..............bbb.2....b
+    b..................66666666666666666666...............bbbb2bb..b
+    b..................66666666666666666..................bbbb2bb..b
+    b................666666666666666666...................bbbb24...b
+    b..................666666666666.......................bbbb2bbb.b
+    b..................666666666.............................22bbb.b
+    b................6..666666..............................22.....b
+    b..66.6........666666666...............................22......b
+    b6666666.....6.66666666.....................222222222222.......b
+    b66666666666666666666666...................22..................b
+    b6666666666666666666666...................22...................b
+    b666666666666666666666..............2222222....................b
+    b66666666666666666666aaa.....22222222..........................b
+    b6666666666666666666.a1a....222..................66666666......b
+    b66666666666666666666aaa....22..................6666666666.....b
+    b6666666666666666666.......22..................666666666666....b
+    b66666666666666666666......2..................666666666666666..b
+    b66666666666666666666......2................666666666666666666.b
+    b6666666666666666666.......22..............6666666666666666666.b
+    b666666666666666666.........2.............66666666666666666666.b
+    b6666666666666666...........2...........6666666666666666666666.b
+    b66666666666666666..........2...........666666666666666666666..b
+    b666666666666666666.........2............666666666666666bbbb...b
+    b66666666666666666666.......22..........6666666666bbbbb66bbbb..b
+    b6666666666666666666........22..........66666666666bbb66bbbbb.bb
+    b6666666666666666666.......22..........66666666666bb666bbbbbb.bb
+    b66666666666666666......aa.2..........66666666666666666bbbbbb..b
+    b66666666666666666666...aa1111.......666666666666666666bbbbb..bb
+    b666666666666666666........2.1......666666666666666666666bb...bb
+    b666666666666666666.......22.1.....666666666666666666666.bb.bbbb
+    b6666666666666666666......22.1....6666666666666666666.9bbb..bbbb
+    b66666666666666666.......22..1....666666666666666666..99....bbbb
+    b66666666666666666.......22..1....666666666666666666..99.aa.b99b
+    b6..6666...666.66.........2..1.....6666666666666666..999.aa.999b
+    b.........................2..1......66bbbb6666666....999....999b
+    b.........................2..1......6bbbb6666666.....9999999999b
+    b.........................2..1......bbbbb6666666......9999999..b
+    b.........................2..2....bbbbb6666666.............666.b
+    b........................22......bbbb....66666.............6666b
+    b........................2..aaa.bbbbbbbb...............66666666b
+    b........................22.aaa..bbb..bb.......66......66666666b
+    b.........................22.......bb..........6666.66666666666b
+    b.........................22..bbbb.bb......a..66666666666666666b
+    b..........................2...bbb..bbb...666666666666666666666b
+    b..........................2...bbbb.a...66666666666666666666666b
+    b..........................2..bbbbbb...666666666666666666666666b
+    b..........................1....bbbb...666666666666666666666666b
+    b..........................2....bbbbb...66666666666666666666666b
+    b..........................2..bbabb.......666666666666666666666b
+    b..........................2.....bbb.........666666666666666666b
+    b..........................2....bbbbbbbb.....666666666666666666b
+    b.........................22...bbbb1a...........666666666666666b
+    b........................2222....bbbbb.............666666666...b
+    b........................22222.....bbbbbb.............66.......b
+    b............a..........2222222...........6.bbb.bbbb...........b
+    b6666..................222222222.........66bbb.a..bbb..........b
+    b66666................22222222222......666bbbbbbbbbbbb...bbbbb.b
+    b6666666666.........2222222222222......6666666.........cbbbbbb.b
+    bb66666666..........2222222222222.......66666666....bbbac.bbbb.b
+    ccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  </actionClassMap>
+  <actionMap>
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00
+    00 .. 01 01 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 01 01 02 02 03 03 03 03 03 03 03 03 03 02 03 03 02 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 03 .. .. 00
+    00 .. 01 01 01 01 01 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. 01 01 01 02 03 03 03 03 03 03 03 03 03 03 03 02 02 02 02 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 03 .. .. .. 00
+    00 .. 01 01 01 01 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. 01 01 02 02 03 03 03 03 03 03 03 03 03 03 03 03 02 02 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 .. .. .. .. 00
+    00 .. 01 01 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. 01 01 01 02 02 03 03 03 03 03 03 03 03 03 02 02 02 02 02 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 01 .. 02 .. .. .. .. 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 02 02 02 02 02 03 03 03 03 03 03 03 02 01 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 01 01 02 01 01 .. .. 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 02 02 02 02 02 02 02 03 02 02 02 02 02 02 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 01 01 02 01 01 .. .. 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 01 02 02 02 02 02 02 02 02 02 01 01 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 01 01 0d 01 .. .. .. 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 02 02 02 02 02 02 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 01 01 02 01 01 01 .. 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 02 02 02 02 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 03 01 01 01 .. 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 .. .. 01 02 02 02 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 03 .. .. .. .. .. 00
+    00 .. .. 01 01 .. 01 .. .. .. .. .. .. .. .. 01 01 01 01 01 01 02 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 03 .. .. .. .. .. .. 00
+    00 01 01 01 01 01 01 01 .. .. .. .. .. 01 .. 01 01 01 02 02 02 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 03 03 03 0e 03 03 03 03 03 03 03 .. .. .. .. .. .. .. 00
+    00 01 01 01 02 01 01 01 01 01 01 01 01 01 01 01 01 02 02 02 02 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00
+    00 01 02 01 01 02 01 01 02 01 01 02 01 01 01 02 02 02 02 02 02 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00
+    00 02 02 02 01 02 02 02 01 01 01 01 02 02 02 02 02 01 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 03 03 0e 03 03 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00
+    00 01 01 02 02 02 02 01 01 01 02 02 02 02 03 03 03 02 01 01 01 0d 0e 0f .. .. .. .. .. 02 02 03 0e 03 03 03 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00
+    00 01 02 02 02 02 02 02 02 02 02 02 03 03 03 03 03 02 01 01 .. 14 00 10 .. .. .. .. 02 02 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 01 01 01 01 01 01 .. .. .. .. .. .. 00
+    00 03 03 03 03 02 02 02 02 03 03 03 03 03 03 03 03 02 01 01 01 13 12 11 .. .. .. .. 02 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 02 02 02 02 02 02 01 01 .. .. .. .. .. 00
+    00 03 03 03 03 03 02 02 02 03 03 03 03 03 03 03 03 02 02 01 .. .. .. .. .. .. .. 02 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 02 02 03 03 03 03 03 03 02 01 01 .. .. .. .. 00
+    00 03 03 03 03 03 03 03 02 02 03 03 03 03 03 03 03 02 02 01 01 .. .. .. .. .. .. 0d .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 02 02 03 03 03 03 03 03 03 03 02 02 01 01 .. .. 00
+    00 03 03 03 03 03 03 03 03 02 02 03 03 03 03 03 03 02 01 01 01 .. .. .. .. .. .. 02 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 02 03 03 03 03 03 03 03 03 03 03 03 02 02 01 01 .. 00
+    00 03 03 03 03 03 03 03 02 02 03 03 03 03 03 03 03 02 02 01 .. .. .. .. .. .. .. 05 02 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 02 02 03 03 03 03 03 03 03 03 03 03 03 03 02 02 02 01 .. 00
+    00 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 02 01 01 .. .. .. .. .. .. .. .. .. 02 .. .. .. .. .. .. .. .. .. .. .. .. .. 01 02 02 03 03 03 03 03 03 03 03 03 03 03 03 03 02 02 02 01 .. 00
+    00 03 03 03 03 03 03 03 03 03 03 03 03 03 03 02 01 .. .. .. .. .. .. .. .. .. .. .. 02 .. .. .. .. .. .. .. .. .. .. .. 01 01 02 02 02 03 03 03 03 03 03 03 03 03 03 03 03 03 02 02 01 01 .. 00
+    00 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 02 01 .. .. .. .. .. .. .. .. .. .. 0d .. .. .. .. .. .. .. .. .. .. .. 01 01 02 02 03 03 03 03 03 03 03 03 03 03 03 03 02 02 02 01 01 .. .. 00
+    00 03 03 03 03 03 03 03 03 03 03 03 03 03 03 02 02 02 01 .. .. .. .. .. .. .. .. .. 02 .. .. .. .. .. .. .. .. .. .. .. .. 01 02 03 03 03 03 03 03 03 03 02 02 03 03 02 01 01 01 01 .. .. .. 00
+    00 03 03 03 03 03 03 03 03 03 03 03 03 03 03 02 02 02 01 01 01 .. .. .. .. .. .. .. 05 02 .. .. .. .. .. .. .. .. .. .. 01 02 02 03 03 03 03 03 03 03 01 01 01 01 01 02 02 01 01 01 01 .. .. 00
+    00 03 03 03 03 03 03 03 03 03 03 03 03 03 03 02 02 02 02 01 .. .. .. .. .. .. .. .. 02 03 .. .. .. .. .. .. .. .. .. .. 01 01 02 02 03 03 03 03 03 03 01 01 01 01 02 01 01 01 01 01 01 .. 01 01
+    00 03 03 03 03 03 03 03 03 03 03 03 03 03 02 01 01 01 01 01 .. .. .. .. .. .. .. 02 03 .. .. .. .. .. .. .. .. .. .. 01 01 02 02 02 03 03 03 03 03 03 01 01 01 02 01 01 01 01 01 01 01 .. 01 01
+    00 03 03 03 03 03 03 03 03 03 03 03 03 03 03 02 02 01 .. .. .. .. .. .. 09 0a .. 04 .. .. .. .. .. .. .. .. .. .. 01 02 02 02 03 03 03 03 03 03 03 03 03 02 02 01 01 01 01 01 01 01 01 .. .. 00
+    00 03 02 02 03 03 03 03 03 03 03 03 03 03 03 03 02 01 01 01 01 .. .. .. 0c 0b 00 01 00 00 .. .. .. .. .. .. .. 01 02 02 03 03 03 03 03 03 03 03 03 03 03 02 02 02 01 01 01 01 01 01 .. .. 01 01
+    00 03 02 02 02 03 03 03 03 03 03 03 03 03 03 03 02 02 01 .. .. .. .. .. .. .. .. 0d .. 00 .. .. .. .. .. .. 01 02 02 03 03 03 03 03 03 03 03 03 03 03 02 02 01 01 01 02 02 01 01 .. .. .. 01 01
+    00 03 02 02 02 03 03 03 03 03 03 03 03 03 03 02 02 01 01 .. .. .. .. .. .. .. 02 02 .. 00 .. .. .. .. .. 01 02 02 03 03 03 03 03 03 03 03 03 03 03 02 02 01 01 01 01 01 .. 01 01 .. 01 01 01 01
+    00 01 02 02 02 02 02 03 03 03 03 02 02 03 02 02 01 01 01 01 .. .. .. .. .. .. 02 03 .. 00 .. .. .. .. 01 02 02 03 03 03 03 03 03 03 03 03 03 03 02 02 02 01 01 .. 00 01 01 01 .. .. 01 01 01 01
+    00 02 01 02 01 01 01 02 02 02 02 02 01 02 01 01 01 01 .. .. .. .. .. .. .. 02 03 .. .. 00 .. .. .. .. 01 02 02 03 03 03 03 03 03 03 03 03 03 03 02 02 01 01 .. .. 00 00 .. .. .. .. 01 01 01 01
+    00 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 .. .. .. .. .. .. .. 05 02 .. .. 00 .. .. .. .. 01 02 02 03 03 03 03 03 03 03 03 03 03 03 01 01 01 01 .. .. 00 01 .. 1e 1f .. 01 00 00 00
+    00 01 .. .. 01 01 01 01 .. .. .. 01 01 01 .. 01 01 .. .. .. .. .. .. .. .. .. 02 .. .. 00 .. .. .. .. .. 01 02 02 03 03 03 03 03 03 03 03 03 02 02 01 01 .. .. 00 01 01 .. 1c 1d .. 00 00 00 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0d .. .. 00 .. .. .. .. .. .. 01 02 01 01 01 01 03 03 03 03 02 02 01 .. .. .. .. 00 01 01 .. .. .. .. 01 01 01 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 .. .. 00 .. .. .. .. .. .. 01 01 01 01 01 03 03 03 03 02 02 01 .. .. .. .. .. 00 01 01 01 01 01 01 00 00 00 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 .. .. 00 .. .. .. .. .. .. 01 01 01 01 01 02 02 02 02 02 01 01 .. .. .. .. .. .. 00 00 00 00 00 00 00 .. .. 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 .. .. 00 .. .. .. .. 01 01 01 01 01 01 01 01 01 02 02 01 .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 01 .. 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 03 .. .. .. .. .. .. 01 01 01 01 .. .. .. .. 01 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 01 01 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 .. .. 03 04 05 .. 01 01 01 01 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 01 01 01 01 01 01 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 05 02 .. 02 01 00 .. .. 01 01 01 .. .. 01 01 .. .. .. .. .. .. .. 01 01 .. .. .. .. .. .. 01 01 01 01 01 01 02 01 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0d 02 .. .. .. .. .. .. .. 01 01 .. .. .. .. .. .. .. .. .. .. 01 01 01 01 .. 01 01 01 01 01 01 01 02 02 02 02 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 05 02 .. .. 01 01 01 01 .. 01 01 .. .. .. .. .. .. 06 .. .. 01 01 01 01 01 01 01 01 01 02 02 02 02 02 02 02 02 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 .. .. .. 01 01 01 .. .. 01 01 01 .. .. .. 01 01 01 01 01 01 01 01 01 01 01 02 02 02 02 02 02 02 02 02 02 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 .. .. .. 01 01 01 01 .. 1b .. .. .. 01 01 01 01 01 01 01 01 01 01 01 02 02 02 02 02 02 02 02 02 02 03 03 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 .. .. 01 01 01 01 01 01 .. .. .. 01 01 01 01 01 02 02 02 02 02 01 01 02 02 02 02 02 03 03 03 03 03 03 03 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 .. .. .. .. 01 01 01 01 .. .. .. 01 01 01 01 02 02 02 02 02 02 02 02 02 03 02 03 03 03 03 03 03 03 03 03 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 .. .. .. .. 01 01 01 01 01 .. .. .. 01 01 02 02 02 02 02 02 02 02 02 03 03 03 03 03 03 03 03 03 03 03 02 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0d .. .. 01 01 19 01 01 .. .. .. .. .. .. .. 01 01 01 02 02 02 02 02 02 02 03 03 03 03 03 03 03 03 02 02 01 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 .. .. .. .. .. 01 01 01 .. .. .. .. .. .. .. .. .. 01 01 02 02 02 02 03 03 03 03 03 03 02 02 02 02 01 01 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 .. .. .. .. 01 01 01 01 01 01 01 01 .. .. .. .. .. 01 01 01 01 02 02 02 02 03 03 03 02 02 02 01 01 01 01 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 02 .. .. .. 01 01 01 01 00 07 .. .. .. .. .. .. .. .. .. .. .. 01 01 01 01 02 02 02 02 02 02 01 01 01 01 01 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 02 02 02 .. .. .. .. 01 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 01 02 02 01 01 01 01 .. .. .. 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 02 02 02 02 .. .. .. .. .. 01 01 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. 01 01 .. .. .. .. .. .. .. 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. 1a .. .. .. .. .. .. .. .. .. .. 02 02 06 06 06 02 02 .. .. .. .. .. .. .. .. .. .. .. 01 .. 01 01 01 .. 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. 00
+    00 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 02 06 06 06 06 06 02 02 .. .. .. .. .. .. .. .. .. 01 01 01 01 01 .. 08 .. .. 01 01 01 .. .. .. .. .. .. .. .. .. .. 00
+    00 01 02 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 06 06 06 06 06 06 06 06 06 06 06 .. .. .. .. .. .. 01 02 01 01 01 01 01 01 01 01 01 01 01 01 01 .. .. .. 01 01 01 01 01 .. 00
+    00 02 02 01 01 01 01 01 01 01 01 .. .. .. .. .. .. .. .. .. 06 06 06 06 06 06 06 06 06 06 06 06 06 .. .. .. .. .. .. 01 01 02 02 02 01 01 .. .. .. .. .. .. .. .. .. 02 01 01 01 01 01 01 .. 00
+    01 01 02 02 01 01 01 01 01 01 .. .. .. .. .. .. .. .. .. .. 06 06 06 06 06 06 06 06 06 06 06 06 06 .. .. .. .. .. .. .. 01 02 02 02 02 01 01 01 .. .. .. .. 01 01 01 27 02 .. 01 01 01 01 .. 00
+    01 03 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+  </actionMap>
+  <info tileset="0" backgroundTile="29" timeFactor="1024" encounterFrequency="100" lastMonster="5" maxEncounters="10" unknown0="0xf7" unknown1="0xfe" unknown9="0x10"/>
+  <battleStrings s0="33" s1="34" s2="35" s3="36" s4="37" s5="38" s6="39" s7="40" s8="41" s9="42" s10="41" s11="43" s12="44" s13="45" s14="41" s15="46" s16="41" s17="47" s18="41" s19="48" s20="49" s21="50" s22="51" s23="52" s24="53" s25="54" s26="55" s27="56" s28="57" s29="58" s30="59" s31="60" s32="61" s33="62" s34="63" s35="64" s36="65"/>
+  <actions actionClass="0x1">
+    <print id="0x0">
+      <message>0</message>
+    </print>
+    <print id="0x1">
+      <message>14</message>
+    </print>
+  </actions>
+  <actions actionClass="0x2">
+    <check id="0x0" passable="true" autoCheck="true" party="true" passAll="true" startMessage="29" passMessage="30" failMessage="31" passNewActionClass="0x6" passNewAction="0x4" modifierTarget="0x0">
+      <skill value="38"/>
+    </check>
+    <check id="0x2" passable="true" autoCheck="true" party="true" bypassArmor="true" passMessage="16" failMessage="15" failNewActionClass="0xa" failNewAction="0x22" fixedModifier="true" modifier="-1">
+      <skill value="7" difficulty="6"/>
+    </check>
+    <check id="0x3" passable="true" autoCheck="true" party="true" bypassArmor="true" passMessage="16" failMessage="15" failNewActionClass="0xa" failNewAction="0x23" fixedModifier="true" modifier="-1">
+      <skill value="7" difficulty="6"/>
+    </check>
+    <check id="0x4" passable="true" autoCheck="true" party="true" bypassArmor="true" passMessage="16" failMessage="15" failNewActionClass="0xa" failNewAction="0x24" fixedModifier="true" modifier="-1">
+      <skill value="7" difficulty="6"/>
+    </check>
+    <check id="0x5" passable="true" autoCheck="true" party="true" bypassArmor="true" passMessage="16" failMessage="15" failNewActionClass="0xa" failNewAction="0x25" fixedModifier="true" modifier="-1">
+      <skill value="7" difficulty="6"/>
+    </check>
+    <check id="0x6" passable="true" autoCheck="true" party="true" bypassArmor="true" passMessage="17" failMessage="18" fixedModifier="true" modifier="-1">
+      <skill value="7" difficulty="1"/>
+    </check>
+    <check id="0x7" passable="true" autoCheck="true" party="true" bypassArmor="true" startMessage="19" failMessage="21" passNewActionClass="0xfd" passNewAction="0xfd" failNewActionClass="0xfd" failNewAction="0xfd" modifier="-2">
+      <item value="44"/>
+      <attribute value="14" difficulty="1"/>
+    </check>
+    <check id="0x8" passable="true" autoCheck="true" party="true" bypassArmor="true" startMessage="20" failMessage="21" passNewActionClass="0xfd" passNewAction="0xfd" failNewActionClass="0xfd" failNewAction="0xfd" modifier="-4">
+      <item value="44"/>
+      <attribute value="14" difficulty="2"/>
+    </check>
+    <check id="0x9" passable="true" autoCheck="true" party="true" bypassArmor="true" startMessage="22" failMessage="21" passNewActionClass="0xfd" passNewAction="0xfd" failNewActionClass="0xfd" failNewAction="0xfd" modifier="-6">
+      <item value="44"/>
+      <attribute value="14" difficulty="4"/>
+    </check>
+    <check id="0xa" passable="true" autoCheck="true" party="true" bypassArmor="true" startMessage="19" failMessage="21" passNewActionClass="0xfd" passNewAction="0xfd" failNewActionClass="0xfd" failNewAction="0xfd" modifier="-1">
+      <item value="44"/>
+      <attribute value="14" difficulty="1"/>
+    </check>
+    <check id="0xb" passable="true" autoCheck="true" party="true" bypassArmor="true" startMessage="20" failMessage="21" passNewActionClass="0xfd" passNewAction="0xfd" failNewActionClass="0xfd" failNewAction="0xfd" modifier="-2">
+      <item value="44"/>
+      <attribute value="14" difficulty="2"/>
+    </check>
+    <check id="0xc" passable="true" autoCheck="true" party="true" bypassArmor="true" startMessage="22" failMessage="21" passNewActionClass="0xfd" passNewAction="0xfd" failNewActionClass="0xfd" failNewAction="0xfd" modifier="-3">
+      <item value="44"/>
+      <attribute value="14" difficulty="4"/>
+    </check>
+    <check id="0xd" passable="true" autoCheck="true" party="true" bypassArmor="true" passMessage="16" failMessage="15" failNewActionClass="0xa" failNewAction="0x22" fixedModifier="true" modifier="-1">
+      <attribute value="16" difficulty="1"/>
+    </check>
+    <check id="0xe" passable="true" autoCheck="true" party="true" bypassArmor="true" passMessage="16" failMessage="15" failNewActionClass="0xa" failNewAction="0x23" fixedModifier="true" modifier="-1">
+      <attribute value="16" difficulty="1"/>
+    </check>
+  </actions>
+  <actions actionClass="0x4">
+    <mask id="0x0" tile="28"/>
+    <mask id="0x1" tile="32"/>
+    <mask id="0x2" tile="75" impassable="true" message="26"/>
+  </actions>
+  <actions actionClass="0x6">
+    <rangerCenter id="0x0" name="Ranger Ctr. " newActionClass="0xff" newAction="0xff"/>
+    <special id="0x1" action="0x3">00 00 02 07 02 0a</special>
+    <special id="0x2" action="0x3">00 00 02 08 02 0b</special>
+    <special id="0x3" action="0x3">00 00 02 09 02 0c</special>
+    <special id="0x4" action="0x2">0c 00 07 2c</special>
+    <special id="0x5" action="0x2">0a 15 07 2c</special>
+  </actions>
+  <actions actionClass="0x9">
+    <radiation id="0x0" ignoreArmor="true" message="23" damage="3"/>
+    <radiation id="0x1" ignoreArmor="true" message="23" damage="5"/>
+  </actions>
+  <actions actionClass="0xa">
+    <transition id="0x0" confirm="true" message="1" targetX="30" targetY="30" targetMap="1"/>
+    <transition id="0x1" confirm="true" message="1" targetX="16" targetY="30" targetMap="1"/>
+    <transition id="0x2" confirm="true" message="1" targetX="2" targetY="30" targetMap="1"/>
+    <transition id="0x3" confirm="true" message="1" targetX="3" targetY="1" targetMap="1"/>
+    <transition id="0x4" confirm="true" message="1" targetX="19" targetY="1" targetMap="1"/>
+    <transition id="0x5" confirm="true" message="1" targetX="30" targetY="3" targetMap="1"/>
+    <transition id="0x6" confirm="true" message="2" targetX="30" targetY="8" targetMap="8"/>
+    <transition id="0x7" confirm="true" message="3" targetX="29" targetY="13" targetMap="9"/>
+    <transition id="0x8" confirm="true" message="4" targetX="7" targetY="1" targetMap="10"/>
+    <transition id="0x9" confirm="true" message="5" targetX="1" targetY="1" targetMap="26"/>
+    <transition id="0xa" confirm="true" message="5" targetX="62" targetY="1" targetMap="26"/>
+    <transition id="0xb" confirm="true" message="5" targetX="62" targetY="62" targetMap="26"/>
+    <transition id="0xc" confirm="true" message="5" targetX="1" targetY="62" targetMap="26"/>
+    <transition id="0xd" confirm="true" message="6" targetX="1" targetY="1" targetMap="12"/>
+    <transition id="0xe" confirm="true" message="6" targetX="30" targetY="1" targetMap="12"/>
+    <transition id="0xf" confirm="true" message="6" targetX="62" targetY="1" targetMap="12"/>
+    <transition id="0x10" confirm="true" message="6" targetX="62" targetY="39" targetMap="12"/>
+    <transition id="0x11" confirm="true" message="6" targetX="62" targetY="61" targetMap="12"/>
+    <transition id="0x12" confirm="true" message="6" targetX="34" targetY="62" targetMap="12"/>
+    <transition id="0x13" confirm="true" message="6" targetX="1" targetY="60" targetMap="12"/>
+    <transition id="0x14" confirm="true" message="6" targetX="1" targetY="15" targetMap="12"/>
+    <transition id="0x15" targetX="1" targetY="17" targetMap="34" newActionClass="0x0" newAction="0x0"/>
+    <transition id="0x16" relative="true" targetY="-1" targetMap="0" newActionClass="0x0" newAction="0x0"/>
+    <transition id="0x17" relative="true" targetX="-1" targetMap="0" newActionClass="0x0" newAction="0x0"/>
+    <transition id="0x18" relative="true" targetY="-1" targetMap="0" newActionClass="0x4" newAction="0x0"/>
+    <transition id="0x19" confirm="true" message="7" targetX="23" targetY="30" targetMap="43"/>
+    <transition id="0x1a" confirm="true" message="8" targetX="15" targetY="30" targetMap="49"/>
+    <transition id="0x1b" confirm="true" message="9" targetX="8" targetY="30" targetMap="35"/>
+    <transition id="0x1c" confirm="true" message="10" targetX="2" targetY="30" targetMap="21"/>
+    <transition id="0x1d" confirm="true" message="10" targetX="29" targetY="30" targetMap="21"/>
+    <transition id="0x1e" confirm="true" message="10" targetX="2" targetY="18" targetMap="21"/>
+    <transition id="0x1f" confirm="true" message="10" targetX="29" targetY="19" targetMap="21"/>
+    <transition id="0x20" confirm="true" message="11" targetX="14" targetY="1" targetMap="7" newActionClass="0xa" newAction="0x29"/>
+    <transition id="0x21" confirm="true" message="11" targetX="16" targetY="30" targetMap="16" newActionClass="0xa" newAction="0x2a"/>
+    <transition id="0x22" relative="true" targetY="1" targetMap="0" newActionClass="0xfd"/>
+    <transition id="0x23" relative="true" targetX="-1" targetMap="0" newActionClass="0xfd"/>
+    <transition id="0x24" relative="true" targetY="2" targetMap="0" newActionClass="0xfd"/>
+    <transition id="0x25" relative="true" targetX="1" targetMap="0" newActionClass="0xfd"/>
+    <transition id="0x26" targetX="25" targetY="17" targetMap="0" newActionClass="0x1" newAction="0x0"/>
+    <transition id="0x27" relative="true" confirm="true" message="24" targetMap="0" newActionClass="0x6" newAction="0x0"/>
+    <transition id="0x28" targetY="31" targetMap="16" newActionClass="0x1" newAction="0x0"/>
+    <transition id="0x29" confirm="true" message="28" targetX="14" targetY="1" targetMap="7"/>
+    <transition id="0x2a" confirm="true" message="27" targetX="16" targetY="30" targetMap="16"/>
+  </actions>
+  <actions actionClass="0xb">
+    <impassable id="0x0" message="25"/>
+    <impassable id="0x1" message="13"/>
+  </actions>
+  <actions actionClass="0xc">
+    <alteration id="0x0" newActionClass="0xa" newAction="0x18">
+      <alter x="29" y="40" newActionClass="0xa" newAction="0x16"/>
+      <alter x="29" y="39" newActionClass="0xa" newAction="0x16"/>
+      <alter x="29" y="38" newActionClass="0xa" newAction="0x16"/>
+      <alter x="29" y="37" newActionClass="0xa" newAction="0x16"/>
+      <alter x="29" y="36" newActionClass="0xa" newAction="0x16"/>
+      <alter x="29" y="35" newActionClass="0xa" newAction="0x16"/>
+      <alter x="29" y="34" newActionClass="0xa" newAction="0x16"/>
+      <alter x="29" y="33" newActionClass="0xa" newAction="0x16"/>
+      <alter x="29" y="32" newActionClass="0xa" newAction="0x16"/>
+      <alter x="29" y="31" newActionClass="0xa" newAction="0x17"/>
+      <alter x="28" y="31" newActionClass="0xa" newAction="0x17"/>
+      <alter x="27" y="31" newActionClass="0xa" newAction="0x17"/>
+      <alter x="26" y="31" newActionClass="0x6" newAction="0x5"/>
+    </alteration>
+    <alteration id="0x1" newActionClass="0xa" newAction="0x26">
+      <alter x="2" y="3" newActionClass="0xa" newAction="0x21"/>
+      <alter unknown="0x40" x="59" y="7" newActionClass="0xa" newAction="0x20"/>
+    </alteration>
+    <alteration id="0x2">
+      <alter unknown="0x40" x="55" y="62" newActionClass="0xa" newAction="0x27"/>
+    </alteration>
+    <alteration id="0x3" newActionClass="0xa" newAction="0x28">
+      <alter unknown="0x40" x="2" y="3" newActionClass="0xa" newAction="0x21"/>
+    </alteration>
+  </actions>
+  <actions actionClass="0xf">
+    <encounter id="0x0" message="12" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x1" message="12" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x2" message="12" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x3" message="12" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x4" message="12" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x5" message="12" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x6" message="12" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x7" message="12" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x8" message="12" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x9" message="12" newActionClass="0x0" newAction="0x0"/>
+  </actions>
+  <npcs/>
+  <monsters>
+    <monster id="0"/>
+    <monster id="1" name="Desert Dweller\n\ns\n" experience="14" skill="2" fixedDamage="3" randomDamage="3" maxGroupSize="4" weaponType="1" monsterType="2" picture="17"/>
+    <monster id="2" name="Wasteland Warrior\n\ns\n" experience="18" ac="2" skill="17" randomDamage="2" maxGroupSize="2" weaponType="2" monsterType="3" picture="6"/>
+    <monster id="3" name="Radioactive Vermin" experience="5" skill="1" fixedDamage="1" randomDamage="1" maxGroupSize="5" weaponType="1" monsterType="1" picture="16"/>
+    <monster id="4" name="Wild Canine\n\ns\n" experience="14" skill="2" fixedDamage="2" randomDamage="2" maxGroupSize="4" weaponType="1" monsterType="1" picture="10"/>
+    <monster id="5" name="Slithering Iguana\n\ns\n" experience="7" ac="1" skill="2" fixedDamage="4" randomDamage="2" maxGroupSize="3" weaponType="1" monsterType="1" picture="54"/>
+  </monsters>
+  <strings>
+    <string id="0"></string>
+    <string id="1">\rEntering Quartz.\r</string>
+    <string id="2">\rEntering Desert Nomads.\r</string>
+    <string id="3">\rEntering Agricultural Center.\r</string>
+    <string id="4">\rEntering Highpool.\r</string>
+    <string id="5">\rEntering Needles.\r</string>
+    <string id="6">\rEntering Las Vegas.\r</string>
+    <string id="7">\rEntering a mine shaft.\r</string>
+    <string id="8">\rEntering Savage Village.\r</string>
+    <string id="9">\rEntering the Guardian's Citadel.\r</string>
+    <string id="10">\rEntering Darwin Village.\r</string>
+    <string id="11">\rYou come upon a little used trail which leads you to a place that you never knew existed before.\r</string>
+    <string id="12">From the depths of the wasteland appears a hostile adversary.\r</string>
+    <string id="13">\rThis mountain is in your way. Go around.\r</string>
+    <string id="14">\rThe river below you is a torrent waiting to suck you down.\r</string>
+    <string id="15">\rYou are caught by the river's current.\r</string>
+    <string id="16">\rYou wade through the rushing water.\r</string>
+    <string id="17">\rYou easily swim through the bay.\r</string>
+    <string id="18">As calm as the water is here, you have trouble keeping your head above water.\r</string>
+    <string id="19">\rIt is very warm.\r</string>
+    <string id="20">\rIt's getting warmer.\r</string>
+    <string id="21">\rYou are overcome by heat exhaustion.\r</string>
+    <string id="22">\rIt's VERY hot!\r</string>
+    <string id="23">\rThe ground seems to glow here.\r</string>
+    <string id="24">\rEntering Ranger Center.\r</string>
+    <string id="25">\rYou see miles and miles of endless wasteland. You decide that further progress would be hazardous to your health.\r</string>
+    <string id="26">\rThe debris littered here is the fireblackened ruins of Base Cochise.\r</string>
+    <string id="27">\rEntering Base Cochise.\r</string>
+    <string id="28">\rEntering Sleeper Base.\r</string>
+    <string id="29">\rYou see a broken down jeep.\r</string>
+    <string id="30">\rAce fixes the jeep and you're on your way.\r</string>
+    <string id="31">\rYou have no idea what is wrong with it.\r</string>
+    <string id="32">\x07</string>
+    <string id="33">\x0b attacks</string>
+    <string id="34">\x0b shoots</string>
+    <string id="35">\x0b triggers a burst</string>
+    <string id="36">Waves of energy flash from \x0b</string>
+    <string id="37">\x0b rips a clip</string>
+    <string id="38">\x0b throws a deadly charge</string>
+    <string id="39">\x0b launches a shell</string>
+    <string id="40">hits \x0f </string>
+    <string id="41"> for </string>
+    <string id="42">nails \x0f </string>
+    <string id="43">\x0f </string>
+    <string id="44"> \nis\nare\n filled full of lead taking </string>
+    <string id="45">melts into \x0f </string>
+    <string id="46">shreds through \x0f </string>
+    <string id="47">inflames \x0f </string>
+    <string id="48"> but fail\ns\n\n to inflict any damage</string>
+    <string id="49"> drills </string>
+    <string id="50"> blazes away at </string>
+    <string id="51"> sprays </string>
+    <string id="52"> triggers a burst at </string>
+    <string id="53"> fries </string>
+    <string id="54"> toasts </string>
+    <string id="55"> and hits for </string>
+    <string id="56"> hammer\ns\n\n </string>
+    <string id="57"> brutally pummel\ns\n\n </string>
+    <string id="58"> claws </string>
+    <string id="59"> thrashes </string>
+    <string id="60"> pounces on </string>
+    <string id="61"> whomps on </string>
+    <string id="62"> and peppers \x0ehim\x0eher\x0eit\x0e</string>
+    <string id="63"> and rips \x0ehim\x0eher\x0eit\x0e to shreds</string>
+    <string id="64"> spinning \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n into a dance of death</string>
+    <string id="65"> sending \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n to meet \n\x0ehis\x0eher\x0eits\x0e\ntheir\n maker</string>
+  </strings>
+  <tileMap unknown="0x49fe">
+    11 11 2e 31 3a 3b 37 20 20 20 15 15 1c 1c 13 1e 1e 17 17 1a 1a 10 19 12 12 .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. .. 1b 12 12 19 19 19 19 19 14 14 10 10 10 1a 17 13 15 20 3c 15 1c 17
+    11 11 2e 32 31 34 2f 30 11 11 20 20 15 1c 1c 13 1e 1e 17 1a 10 19 12 12 1b 1b .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f .. 1f 1f .. 1b 1b 12 12 19 19 19 19 14 14 10 10 1a 1e 13 1c 15 20 47 48 20 13 17
+    11 11 2e 31 32 42 3a 3b 31 32 34 20 15 1c 13 1e 1e 17 1a 1a 10 19 12 1b 1b .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. .. .. 1b 19 19 19 19 14 14 14 10 10 10 10 1a 13 15 15 20 47 48 15 13 1a 1a
+    20 20 2a 35 31 35 36 37 31 34 15 1c 1c 13 1e 1e 17 1a 1a 1a 10 19 12 1b .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1b 12 19 19 19 14 14 10 10 10 1a 1a 17 1e 15 20 20 20 3f 20 13 1a 10 14
+    15 20 31 32 33 34 2f 30 15 1c 1c 1c 13 1e 17 17 17 1a 10 19 12 12 1b .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. .. .. .. 1b 19 19 19 14 14 14 10 10 1a 1a 1a 17 17 1c 2f 30 33 20 3c 20 13 1a 10 19
+    1c 15 15 15 15 15 15 15 1c 1c 1e 1e 1e 17 17 17 1a 10 19 12 1b .. .. .. .. .. 1f 1f 1f 1f 1f 1f 1f .. 1b 1b 1b 1b 12 19 19 19 14 14 10 10 10 10 1a 17 17 13 1c 15 35 32 33 2e 3c 35 34 1a 10 19
+    1e 1c 13 1c 1c 1c 13 1e 17 1e 1e 17 17 17 17 10 10 19 19 1b .. .. .. .. .. .. .. 1f .. .. .. .. .. .. 1b 12 19 19 19 19 14 10 10 10 10 10 1a 1a 1a 1e 1e 13 15 20 35 31 42 39 3d 41 18 1a 1a 14
+    17 13 17 17 1c 17 1a 1a 17 17 17 17 17 1a 1a 10 19 12 12 1b .. .. .. .. .. .. .. .. .. 1b 1b 1b 1b 1b 12 19 14 10 10 10 10 1a 1a 1a 1a 1a 17 17 1e 1e 1e 1c 15 20 33 2e 34 35 3c 0d 1c 13 1e 1a
+    1a 17 1a 1a 1a 1a 10 10 10 1a 1a 1a 1a 10 10 14 19 19 19 1b 1b .. .. .. .. .. .. 1b 1b 12 12 19 19 19 19 14 10 1a 1a 1a 1a 1a 17 17 17 1e 1e 1e 13 13 13 13 1c 20 35 33 36 34 3d 31 32 18 17 17
+    10 17 10 1a 1a 10 10 14 10 10 10 10 10 10 10 14 19 19 19 12 .. .. .. .. 1b 1b 1b 12 19 19 19 14 10 10 10 1a 17 17 1a 1a 1a 17 1e 1e 1e 1c 1c 1c 1c 1c 1c 1c 15 15 20 20 11 47 48 2e 36 18 1a 14
+    19 10 19 19 19 19 19 14 14 10 10 10 14 14 14 19 19 12 19 19 12 .. .. .. 1b 12 19 19 14 10 10 1a 17 17 17 17 1e 1e 17 17 1e 1e 1e 13 1c 15 15 15 15 15 15 15 15 15 20 20 47 2d 15 13 1a 10 19 19
+    12 19 19 12 12 19 12 19 19 19 19 19 19 19 19 12 12 1b 12 12 1b .. 1b 1b 19 19 19 14 10 1a 17 17 1e 17 17 1e 1e 1e 1e 13 13 13 1c 15 20 20 20 20 20 20 20 20 11 20 11 47 48 15 1c 17 1a 10 19 19
+    12 12 12 1b 1b 1b 1b 12 19 19 19 19 19 12 19 12 1b 1b .. .. .. 1b 12 19 19 14 10 1a 1a 17 1e 1e 13 1e 1e 1e 1e 1c 1c 1c 20 20 15 20 47 28 29 28 29 28 28 29 29 28 29 48 15 1c 17 1a 10 1a 10 14
+    12 12 1b 1b .. 1b 1b 1b 12 12 12 12 12 1b 12 1b 1b .. .. .. .. 1b 12 12 19 10 1a 1a 17 1e 1e 1c 15 15 1c 1c 1c 15 15 15 15 15 20 47 48 20 20 20 20 20 20 15 1c 1c 15 15 15 17 1a 10 1a 1a 1a 10
+    12 1b .. 1b 1b .. 1b 1b .. 1b 1b .. 1b 1b 1b .. .. .. .. .. .. 1b 12 19 10 10 1c 1c 1e 1c 15 15 20 15 15 15 15 20 20 20 20 20 47 2d 20 15 15 15 15 15 15 1e 17 13 13 17 17 1a 1a 1a 1a 17 1e 1a
+    1b .. .. .. 1b .. .. .. 1b 1b 1b 1b .. .. .. .. .. 1b 1b 1b 1b 12 19 10 1a 1c 1e 17 15 15 20 20 11 20 20 2b 47 29 28 29 28 28 48 20 15 1c 1c 13 13 1e 17 1a 10 10 1a 1a 10 10 10 1a 17 17 1e 17
+    1b 1b 1b .. .. .. .. 1b 1b 1b .. .. .. .. 1f 1f 1f .. 1b 12 12 0e 0c 0c 10 1a 1c 17 15 47 3e 28 29 29 28 28 48 20 20 20 20 20 15 15 1c 1c 1c 17 1a 10 19 19 19 19 19 19 19 14 10 10 1a 1a 1e 17
+    .. 1b .. .. .. .. .. .. .. .. .. .. 1f 1f 1f 1f 1f .. 1b 12 19 0e 0d 0b 1a 17 20 15 47 3e 48 20 20 20 20 20 15 15 15 15 15 15 15 1c 1e 17 17 10 19 12 1b 1b 1b 1b 1b 1b 12 19 14 10 10 1a 1a 17
+    1f 1f 1f 1f 1f .. .. .. .. 1f 1f 1f 1f 1f 1f 1f 1f .. 1b 12 12 0d 0c 0e 1a 17 1c 15 3d 48 20 15 15 15 15 15 1c 1c 1c 1c 1e 1e 1e 17 17 17 10 19 12 1b .. .. .. .. .. .. 1b 12 19 14 10 1a 17 17
+    1f 1f 1f 1f 1f 1f .. .. .. 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1b 19 1a 1a 17 1a 13 15 47 2d 15 15 15 15 1c 1c 1c 13 1e 1e 1e 1e 1a 17 17 1a 10 10 1b .. .. 1f 1f 1f 1f 1f 1f .. 1b 12 19 14 10 1a 17
+    1f 1f 1f 1f 1f 1f 1f 1f .. .. 1f 1f 1f 1f 1f 1f 1f .. .. 1b 12 10 1a 17 1e 1c 15 3d 20 15 15 15 1c 13 13 13 1e 1e 17 17 17 1a 17 1a 19 19 1b .. .. 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1b 12 19 10 1a
+    1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1f 1f 1f 1f 1f 1f 1f 1b 12 12 10 1a 17 1e 13 1c 3d 20 15 15 1c 13 13 13 1e 1e 17 17 17 17 1a 1a 10 12 1b .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1b 12 19 10
+    1f 1f 1f 1f 1f 1f 1f 1f .. .. 1f 1f 1f 1f 1f 1f 1f .. .. 1b 19 10 10 1a 17 1e 13 49 4a 15 1c 13 13 13 1e 1e 1e 17 1a 1a 10 10 19 1b .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. .. 1b 19 14
+    1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. 1b 12 19 10 1a 1a 17 1e 13 1c 15 3c 15 1c 13 13 1c 1e 1e 1e 1a 1a 10 19 19 1b .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. .. 1b 19 14
+    1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1b 12 19 19 10 1a 17 17 1e 13 1c 15 20 3d 15 1c 1c 13 13 1e 1e 1e 1a 10 19 12 1b .. .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1b 12 14 10
+    1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. 1b 19 10 1a 17 1e 1e 13 1c 15 20 3c 20 15 1c 1c 1c 1e 1e 1e 17 17 10 12 1b .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. .. 1b 12 10 1a 1a
+    1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. .. 1b 19 19 10 1a 1e 13 1c 15 20 3c 20 20 15 1c 1e 1e 1e 1e 17 17 10 19 1b .. 1f 1f 1f 1f 1f 1f 1f 1f .. 1f 1f 1f .. 44 45 38 18 1a 17 1e 1e
+    1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. .. 1b 12 12 10 17 1e 13 1c 15 20 49 4a 20 20 15 1c 13 1e 17 1a 1a 10 1b .. .. 1f 1f 1f 1f 1f 1f 1f 44 0f 27 44 45 .. .. 44 31 32 34 15 1c 1c
+    1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. .. .. 1b 19 10 1a 17 1e 1c 15 20 47 2d 11 20 15 1c 13 17 1a 1a 10 19 12 1b .. .. 1f 1f 1f 1f 1f 1f 1b 44 0f 27 .. 1b 44 2e 31 42 34 20 33 31
+    1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. 1b 1b 1b 12 12 19 14 10 17 13 1c 15 47 48 11 20 15 1c 13 1e 17 1a 10 19 1b 1b .. .. .. 1f 1f 1f 1f 1f 1f 44 45 1b .. 1b 44 46 3b 35 36 37 11 33 2e
+    1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1b 19 19 19 10 1a 1e 0e 0b 20 3d 20 20 15 1c 1c 1e 17 17 10 19 1b .. .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1b 1b 44 0f 38 33 31 39 11 11 11
+    1f 1f .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. 1b 12 12 12 1a 17 1e 0d 0c 20 3f 20 15 1c 1c 1e 17 17 10 19 1b .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. .. 1b 27 38 3a 3b 39 20 11 33 3a
+    1f 1f .. .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1b 19 10 1a 17 1e 1c 15 20 3d 20 15 1c 13 1e 17 10 19 1b .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1b 1b 1b .. .. 38 39 20 11 20 35 3a
+    .. 1f .. .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1b 12 19 10 17 17 1e 1c 15 47 3e 20 15 1c 13 17 10 19 1b .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1b 12 12 12 12 10 22 43 20 35 33 34 2e
+    .. 1b .. .. .. .. .. 1f 1f 1f 1f .. .. 1f .. .. 1b 1b 12 12 10 1a 1e 13 1c 15 3e 48 15 15 1c 1e 17 10 1b .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. .. 1b 12 19 19 44 36 37 15 20 35 34 31 33
+    1b .. 1b .. 1b 1b 1b .. .. .. .. .. 1b .. 1b 1b 1b 12 19 10 10 1a 1e 13 15 47 48 11 15 1c 13 1e 10 19 1b .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1b 12 19 14 10 1c 15 15 15 15 35 31 32 31
+    1b 12 12 12 12 12 12 12 12 12 12 1b 1b 1b 12 1b 12 12 10 1a 1a 1e 13 1c 15 49 4a 20 15 1c 1e 17 10 19 1b .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1b 1b 12 12 19 10 1a 17 15 0b 0d 15 2e 20 20 20
+    12 12 19 19 12 12 12 12 19 19 19 12 12 12 19 12 12 19 10 1a 17 1e 13 1c 15 13 3c 20 15 1c 1e 17 1a 10 19 1b .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1b 12 19 10 1a 17 17 1c 0c 0c 15 15 15 15 15
+    19 19 10 10 19 19 19 19 10 10 14 19 19 19 19 19 19 14 10 1a 1a 17 1e 13 1c 15 3c 20 15 1c 1e 17 1a 10 10 19 1b .. 44 45 44 45 1f 1f 1f 1f .. .. 1b 19 14 10 1a 1a 17 17 1e 1e 17 17 1e 1e 1c 1c
+    10 10 1a 1a 10 10 10 10 1a 1a 1a 10 14 14 10 14 14 14 10 10 1a 17 1e 13 1c 15 3d 20 15 1c 13 17 17 1a 10 19 1b 44 0f 0f 27 1f 1f 1f 1f .. .. 1b 19 14 10 1a 1a 1a 1a 17 17 17 1a 10 10 1a 1a 17
+    1a 1a 17 17 1a 1a 1a 1a 17 17 17 1a 1a 1a 1a 10 10 14 10 10 1a 17 1e 13 1c 15 3d 20 15 1c 1e 13 1e 1a 1a 10 44 0f 44 45 27 .. .. .. .. .. 1b 12 19 10 1a 17 17 17 1a 1a 17 10 10 19 19 19 10 1a
+    17 17 17 1e 1e 1e 17 17 17 17 17 17 17 17 17 1a 10 10 10 10 1a 1e 1e 13 1c 15 3c 20 15 2c 13 13 13 1e 2e 18 16 44 45 12 12 1b 1b .. .. 1b 19 19 10 1a 1a 17 17 17 1a 10 10 10 19 12 12 12 19 10
+    1e 1e 1e 1e 1e 1e 1e 1e 17 17 1e 1e 1e 17 17 17 1a 1a 10 10 10 17 1e 13 15 47 48 20 15 15 1c 1c 15 2e 2e 2f 30 1a 10 19 19 12 12 1b 1b 12 19 14 14 10 1a 1a 1a 17 1a 14 19 19 19 12 1b 12 12 19
+    13 13 13 13 13 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 17 1a 1a 1a 10 1a 1e 1c 15 3d 11 20 0c 0e 0b 15 2e 35 31 32 36 33 32 18 1a 10 14 19 19 19 19 19 19 14 10 10 10 10 14 12 12 12 12 1b 1b 1b 1b 12
+    13 1c 1c 1c 1c 13 1e 1e 1e 1e 1e 13 1e 13 1e 1e 1e 1e 17 1a 1a 17 1e 13 15 49 4a 20 0c 0e 0e 15 15 2e 33 37 20 15 2f 30 1e 17 1a 1a 10 19 19 12 12 19 19 19 19 19 19 12 1b 1b 1b 1b 1b .. 1b 1b
+    1c 15 15 1c 13 1c 1e 1e 1c 1c 1e 13 13 1c 1e 13 13 1e 1e 17 1a 17 1e 13 15 20 3d 4a 20 15 1c 15 15 13 13 35 34 1c 1a 1e 1c 13 1e 17 10 14 19 12 12 12 12 19 12 12 1b 1b 1b 1b 1b .. .. .. .. 1b
+    1c 15 1c 13 13 13 13 1c 15 1c 1c 13 13 13 13 13 1c 13 13 13 1e 1e 1e 1c 1c 20 49 3c 20 11 35 36 31 34 1c 35 34 17 10 1a 1a 1a 17 21 10 19 12 12 12 12 12 12 12 1b 1b .. .. .. .. .. .. .. .. ..
+    13 1c 13 1c 1c 13 1c 15 15 1c 13 13 15 13 13 1c 15 1c 13 13 15 1c 1c 13 1c 15 20 3d 20 15 20 2e 33 31 1c 15 31 35 18 10 10 19 12 12 12 12 12 12 12 12 12 1b 1b .. .. .. .. .. .. .. .. .. .. ..
+    13 13 1c 15 15 15 15 15 1c 1c 15 15 13 13 15 15 15 1c 13 1c 15 15 1c 13 1c 15 20 3c 20 15 20 2e 31 33 34 15 0d 1a 10 19 12 12 12 1b 1b 1b 1b 1b 1b 1b 1b .. .. .. .. .. .. .. .. .. .. 1f 1f 1f
+    1c 1c 15 15 15 15 1c 1c 1c 15 15 1c 13 1c 15 15 1c 13 1c 15 15 15 15 13 13 15 20 3d 20 15 35 33 32 31 2e 18 1a 10 19 12 12 12 1b 1b .. .. .. .. .. 1b 1b .. .. .. .. .. 1f 1f 1f 1f 1f 1f 1f 1f
+    1c 15 15 15 1c 1c 1c 15 15 15 1c 13 13 15 15 1c 13 1c 15 1c 1c 1c 13 13 1c 15 20 3f 20 15 20 11 33 3a 3b 18 1a 10 19 12 12 1b 1b .. .. .. .. .. .. .. .. .. 1f .. 1f 1f 1f 1f 1f 1f 1f 1f 1f ..
+    1e 1c 1c 1c 1c 1c 1c 1c 15 15 1c 1c 13 13 1c 13 1c 15 13 1e 1e 17 1e 17 1e 15 20 3d 20 15 20 11 35 32 32 33 18 1a 10 19 12 1b .. .. .. .. .. .. .. .. .. 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f .. ..
+    17 1e 13 1c 15 15 15 1c 1c 15 1c 13 13 13 13 1c 13 13 1e 1e 17 17 17 1e 13 15 20 3d 20 20 41 2e 26 32 39 15 1c 1e 1a 10 14 19 12 1b 1b .. .. .. .. .. .. .. 1f 1f 1f 1f 1f 1f 1f 1f .. .. 1b 1b
+    1a 1e 1e 13 1c 1c 1c 15 13 1c 13 13 13 1c 1c 1c 13 1e 1e 17 1a 17 17 1e 1c 15 20 3c 20 20 15 20 11 35 36 30 15 1c 1a 17 1a 10 19 19 19 1b 1b .. .. .. .. 1f 1f 1f 1f 1f 1f .. .. .. .. 1b 1b 12
+    1a 17 17 1e 1e 1e 13 1c 1c 13 1e 1e 1e 1e 13 1e 1e 17 1a 1a 17 17 1e 1c 15 20 11 3c 11 15 15 20 35 3a 3b 33 34 31 32 18 17 1a 10 10 19 12 12 1b 1b .. .. .. .. 1f 1f 1f .. .. .. 1b 1b 12 12 12
+    10 1a 17 17 17 1e 1e 1e 1e 17 17 17 1e 1e 17 1a 1a 1a 1a 17 17 1e 1c 15 20 11 47 3d 11 20 15 35 32 31 2e 23 0e 11 20 15 13 1e 17 17 1a 10 10 10 12 1b 1b 1b .. .. .. .. .. .. 1b 1b 12 12 12 19
+    19 10 1a 17 17 17 17 17 17 1a 1a 17 17 1a 1a 10 10 1a 17 1e 1e 1c 15 15 11 47 3e 3e 4a 11 20 15 20 35 36 37 33 34 15 1c 13 17 1a 17 1a 17 17 17 10 10 19 12 1b 1b .. .. 1b 1b 1b 12 19 19 10 10
+    19 14 10 10 10 1a 1a 1a 1a 1a 17 1a 1a 10 19 10 1a 1a 17 1e 1c 15 15 20 11 3e 3e 3e 3e 4a 11 20 15 20 20 2e 32 33 3a 3b 18 10 1a 10 17 13 13 13 1e 1e 1c 10 19 19 1b 1b 19 19 12 19 10 1a 17 1a
+    12 19 19 19 14 10 10 1a 1a 10 1a 10 14 0d 19 10 1a 17 1e 1c 15 20 20 11 47 3e 3e 3e 3e 3e 4a 11 20 15 20 15 15 1c 1e 1a 14 19 12 19 38 31 33 1c 2e 33 42 18 1a 1a 10 14 10 10 1a 17 17 13 13 1e
+    1b 12 1b 12 12 19 14 10 10 10 10 19 19 14 10 1a 1e 1e 1c 15 20 20 11 47 3e 3e 3e 3e 3e 3e 3e 4a 11 20 15 1c 13 17 1a 19 19 1b 1b 38 32 33 24 0d 24 25 31 32 18 17 1a 1a 1a 1e 1e 1e 13 13 1c 13
+    .. 1b .. 1b 1b 12 19 19 19 19 19 19 10 1a 17 1e 1e 1c 15 20 20 2b 47 3e 3e 3e 3e 3e 3e 3e 3e 3e 4a 11 20 1c 1e 10 19 1b .. .. 44 46 3b 40 41 42 43 2f 30 2e 40 18 1c 1c 1c 2e 3a 3b 32 34 15 1c
+    1f .. .. 1b 1b 1b 12 12 12 12 12 14 1a 1a 17 1e 13 1c 15 20 47 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 11 20 15 13 17 10 12 1b .. .. .. 1b 12 19 10 1a 1e 13 1e 13 1c 15 15 33 32 32 34 2e 32 20 15
+    44 45 .. .. 1b 1b 1b 1b 1b 12 19 10 1a 17 1e 13 1c 15 20 11 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 48 11 20 15 13 1e 10 19 1b .. .. .. .. 1b 12 12 19 10 17 1e 22 31 37 0c 20 11 35 34 35 37 11 20
+    46 0a 45 1b 1b 1b 1b 1b 1b 12 19 14 10 1a 17 1e 1c 15 20 11 49 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 48 11 20 15 1c 13 1a 14 19 12 1b .. .. 1b 12 12 19 10 1a 1e 1c 35 2e 31 33 3a 3b 2e 3a 3b 31 11 11
+  </tileMap>
+</map>

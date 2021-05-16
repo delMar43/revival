@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map xmlns="http://ailis.de/wlandsuite" mapSize="64" msqSize="10507" tilemapOffset="8464" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ailis.de/wlandsuite http://www.ailis.de/~k/software/projects/wlandsuite/schemas/wlandsuite.xsd">
+  <actionClassMap>
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    a..............................................................a
+    a..............................................................a
+    a...................................bb.....................bb..a
+    a...................................bbbbbbbbbbbbbbbbbbbbbbbbb..a
+    a......bbbbb...........9.............b.....................b...a
+    a......bbbbb.........................b.....................b...a
+    a......bbbba..........9..............b...bbbb.......bb.....b...a
+    a......bbabb........9...9............b...bbab.......bb.....b...a
+    a.................9.......9.......2..b..............ba.....b...a
+    a..................9...9.............b..............bb.....b...a
+    a...............9.9..9...............b.....................b...a
+    a........1111..9...9.................b....bbbbb............b...a
+    a..........9.....999...9.............b....babbb............1...a
+    a.........9999..99999...............111...........11.......1...a
+    a.......9999...999..................111...........a1...........a
+    a............9.......9...............b................11.......a
+    a........9.999.......................b..11.....11..............a
+    a......9999999.......................bbb111....................a
+    a....9.99.99...........2.............b..11.....................a
+    a....................................b.........................a
+    a...................................111........................a
+    a..........2........................111........................a
+    a..............................................................a
+    a...........................................................2..a
+    a...................................bbbbbbaaaabbbbbbbbbbbbbbb..a
+    a.....................bbbb..........bbbbbbbbbbbbbbbbbbbbbbbbb..a
+    a.....................babb..........bbbbbbbbbbbbbbbbbbbbbbbbb..a
+    a...................................abbbbbbbbbbbbbbbbbbbbbbba..a
+    a...................................abbbbbbbbbbbbbbbbbbbbbbba..a
+    a...................................abbbbbbbbbbbbbbbbbbbbbbba..a
+    a...................................abbbbbbbbbbbbbbbbbbbbbbba..a
+    a...................................bbbbbbbbbbbbbbbbbbbbbbbbb..a
+    a...................................bbbbbbbbbbbbbbbbbbbbbbbbb..a
+    a...................................bbbbbbbbbbbbbbbbbbbbbbbbb..a
+    a...................................bbbbabbbbbbbbbbbbbaaaaaaa..a
+    a..............................................................a
+    a............................2.................................a
+    a............................................2.................a
+    a.................................................bb...........a
+    a1111111111441111111111111111111111111111111111111111111111111.a
+    a..........bb..................................................a
+    a..............................................................a
+    a......................................................2.......a
+    a...............................1111...........................a
+    a..............................12221...........................a
+    a.............................122221............111............a
+    a...................2........122221............12221...........a
+    a............................12221............122221...........a
+    a............................1111............1222221...........a
+    a..2........................................1221221............a
+    a......bbb...bbb...........................1222221.............a
+    a......b.......b...........................122221..............a
+    a......b..222..b...........................12221...............a
+    a......b.2...2.b...........................1111............2...a
+    a......b.2..a1.b....................................bbbbb......a
+    a......b.2.9.2.b....2...............................bbbbb......a
+    a......b.9222..b..............111...................bbbbb......a
+    a......b...b...b.............1221...................bbbbb......a
+    a......bbbbbbbbb............12221...................bbabb......a
+    a..........................12221...............................a
+    a..........................1221.........................2......a
+    a..........................111.................................a
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  </actionClassMap>
+  <actionMap>
+    07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 02
+    07 28 a9 .. c9 02 90 22 a9 53 20 59 61 a9 51 20 59 61 20 25 08 c9 ce f0 11 c9 9b f0 2f c9 d9 d0 f1 ad eb 77 20 9a 08 4c 8c 78 a0 1e b1 69 30 6a 88 11 69 f0 70 20 73 08 ad eb 77 a6 06 a0 .. 02
+    07 79 90 11 a9 16 20 59 61 4c 1b 78 ad 7e 78 20 1d 7a 4c 5b 8e ee 9c 78 20 49 08 a0 .. c8 c4 05 d0 e7 20 5b 8e ad 9c 78 d0 01 60 20 f6 99 b0 dc 48 e6 09 a0 01 8c eb 77 ad 7e 78 20 76 08 b1 02
+    07 0b 20 49 79 ac eb 77 c8 c0 08 d0 e8 ad 7e 78 20 97 79 68 20 a8 8f 4c 3d 8e 20 73 08 a9 17 20 59 61 4c .. 00 00 53 20 59 61 a9 52 20 59 61 20 25 08 c9 ce f0 0b c9 9b f0 92 c9 00 00 f1 4c 02
+    07 4c 0b 78 8c 21 79 48 8a 20 76 08 68 a8 b1 6b f0 19 48 a2 02 a0 0b b1 6b 9d 46 79 c8 ca 10 f7 a9 .. 20 .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 91 6b 02
+    07 10 f7 68 18 60 .. 02 02 02 02 02 20 76 08 68 20 88 08 4c 5c 79 b1 00 88 91 6b c8 c8 c0 08 d0 f5 a9 .. 88 .. 00 c6 05 60 a5 06 8d 72 79 8d 7f 79 a0 .. c4 09 f0 02 c8 2c a0 .. 00 72 79 c0 02
+    07 0c 98 20 97 79 b0 02 02 02 02 02 55 8e 20 03 91 ad 7f 79 4c 83 79 aa a5 07 48 a5 06 8d d6 79 8a 20 dc 79 .. 00 09 d0 0c 20 8b 08 a9 0e 20 59 61 68 4c d5 79 68 c5 07 f0 16 20 00 08 a9 1a 02
+    07 61 20 25 08 c9 ce 02 02 02 02 0f f5 20 7b 09 20 5b 8e 18 60 a9 00 20 dc 79 38 60 48 a5 06 20 76 08 20 0a .. 00 85 06 20 02 02 02 02 a0 08 b1 6b 85 5a 38 02 02 .. .. a0 09 b1 00 85 5b 38 02
+    07 85 01 a0 0a b1 6b 02 02 0c 02 02 a5 5a 91 6b a0 09 a5 5b 00 6b a0 0a 00 07 91 6b 60 20 76 08 a0 0d a9 .. .. 00 88 10 fb 02 02 1a 02 f1 9d 20 fa 7c 90 01 02 02 .. 8e 79 7a a5 00 20 b9 9c 02
+    07 b1 7c f0 2e a0 03 b1 7c 8d ab 7a 20 67 9c a2 02 8e 00 7a a9 .. 8d 6f 7b 20 00 7d b0 15 bc db 9b b1 02 d0 .. 00 6e 7b 20 .. .. 20 95 7d 20 ea 09 90 03 4c 02 19 a5 06 a2 .. a0 00 20 91 9c 02
+    07 8c 91 7a a0 13 8c 65 7b b1 7c 88 11 7c d0 09 a0 .. b1 00 30 .. .. 00 7b .. 91 7a b1 7c f0 f6 a9 .. 91 7c .. 00 8e 20 b1 09 a9 0e ae 7b 7a 20 2a 89 20 b4 02 02 .. 09 20 c3 09 00 04 90 31 02
+    07 09 ae 7b 7a 20 4d 7d 20 b0 7d a2 .. 20 ae 09 00 95 00 .. 02 00 05 f0 06 ca c9 04 f0 01 ca 8e 0d 7b 8a 0a .. 00 a2 .. 20 ae 09 20 bd 09 b0 06 ee 6f 7b 4c 61 7b 20 b7 09 8d 9d 00 8e 9e 7b 02
+    07 08 a9 01 85 3b ae 7b 7a 02 02 02 02 .. f0 00 c9 01 f0 00 .. 4d 8d 2f .. a9 0c 20 9d 8b 4c 2b 7b a9 4b 8d .. 00 a9 03 20 34 02 02 02 02 02 .. 20 17 9e ad 9d 7b ae 9e 7b ac 7b 00 20 9f 7b 02
+    07 20 fa 7c b0 27 ce 9c 7b f0 16 00 2e 7b a9 49 20 00 01 00 9d 7b .. 00 7b ac 7b 7a 20 9f 7b b0 f2 ce 91 7a .. 00 88 88 30 04 02 09 02 02 02 .. f0 18 85 3b 20 49 08 a5 3b 20 c7 06 20 dc 08 02
+    07 7a 20 24 7d a9 1e 20 59 61 00 01 01 00 30 03 00 01 01 01 00 7a ca 30 d4 4c 37 7a .. .. .. 8d c8 7b 8e c4 06 06 06 20 82 7d 8d e6 7b 8e e7 7b a5 05 02 02 08 8d bc 7b 20 fd 08 06 .. b1 8c 02
+    07 d0 0a a9 .. d0 06 a9 00 01 01 00 0f ad e6 00 01 00 .. .. .. .. 20 .. .. b0 d5 60 20 73 08 a9 61 20 59 61 06 06 06 .. a5 06 20 f1 9d a2 03 8e 19 7c 13 02 20 b9 9c a0 .. b1 7c f0 72 aa c8 02
+    07 a8 20 d8 09 c9 10 b0 66 20 67 9c 20 00 .. b0 5e .. .. .. .. 00 a5 06 a2 .. 20 91 9c a2 .. 20 4d 7d 20 95 .. 00 ea 09 90 45 a2 .. 8e 66 7c 20 b1 09 20 ab 09 a0 05 05 48 b1 7c 88 11 7c f0 02
+    07 4a 18 69 0a 69 0a a8 b1 00 f0 00 01 00 91 7c .. .. .. 20 1a 8e ae 1e 7c 20 82 7d 20 b4 09 68 a8 88 88 10 .. 00 .. d0 06 06 1e 7c 88 10 a4 05 05 7c ca 30 03 4c ef 7b 60 20 8a 9e a0 .. 8c 02
+    07 c8 8c 8f 7c 98 20 00 00 00 01 01 00 00 .. .. a9 01 99 82 9e ee .. 7c ac 8f 7c c8 c4 05 90 e2 f0 e0 a2 .. .. 00 00 00 06 06 06 a3 7c 20 e4 09 8d f8 7c 8e f9 7c 20 49 08 a0 01 8c 8f 7c b9 02
+    07 f0 28 98 20 00 08 00 00 85 00 00 .. .. .. 1e 7c 20 19 7d a9 54 20 02 9e ae 1e 7c 20 4d 7d ac 8f 7c ad f8 .. 00 f9 7c 06 06 8a ac 8f 7c c8 c4 05 90 c8 f0 c6 4c 69 7c .. .. a9 01 8d 08 7d 02
+    07 08 20 91 08 d0 0d a9 .. .. .. .. .. .. .. ec f0 ea 38 60 18 60 a9 47 2c a9 19 a8 8a 48 98 20 59 61 68 aa .. 00 b1 7a 4a b0 0c 20 4d 7d 20 a2 7d 18 69 56 4c 5e 61 a0 02 b1 64 85 46 c8 b1 02
+    07 47 bc db 9b b1 .. 20 .. .. 4c .. .. bc db 9b b1 7a 48 a0 04 b1 64 85 48 c8 b1 64 85 49 a2 08 86 4f 68 20 06 06 06 9f 7d a8 b9 70 7d 85 cd 60 02 02 02 02 02 .. .. 02 .. 02 02 .. .. 01 02 02
+    07 02 20 4d 7d a0 03 b1 19 aa a0 02 b1 19 4a 4a 4a 4a 4c e7 09 a0 05 2c a0 04 b1 19 29 0f 60 a0 07 2c a0 06 06 06 06 a0 01 b1 19 aa 88 b1 fb 60 a0 02 b1 19 a2 .. 60 a0 09 b1 7a 4a 4a 60 a5 02
+    07 f1 9d a0 01 8c cf 7d 98 20 8e 08 b0 16 a0 07 b1 8c 0a a8 b9 f2 7d 85 15 b9 f3 7d 85 16 ad cf 7d 20 ef 7d ac cf 7d c8 c4 05 90 d9 f0 d7 60 6c 15 .. ee 7d 83 85 73 7e 73 7e 48 84 ee 7d 61 02
+    07 85 78 85 ee 7d a9 .. 8d 1a 7e 8d 31 7e 20 76 08 a0 0a b1 6b c5 90 d0 0b a9 01 20 dc 79 20 33 7e ee 31 7e ee 1a 7e ad 1a 7e c5 09 90 e0 f0 de a9 01 60 6c d3 .. a5 06 20 f1 9d a0 02 8c 47 02
+    07 20 8e 08 b0 22 a0 07 b1 8c c9 03 f0 04 c9 02 d0 16 ad 47 7e 20 fd 08 ad 47 7e 20 6a 9d c9 10 90 06 ad 47 02 02 02 02 02 02 17 17 17 17 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 9d c9 02
+    07 7a 7e 90 01 60 8d 91 7e a8 b1 8c c9 02 f0 05 a9 .. 4c f5 81 20 02 02 02 02 4c d4 7f ad 91 7e 20 0d 8e ac 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 d0 02
+    07 94 86 c9 .. d0 18 a9 .. 20 8e 08 b0 11 ad c8 7e 20 55 87 ee 5b 02 0a 02 02 a9 01 99 82 9e ac c8 7e c8 c4 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 09 20 02
+    07 a9 .. 8d 68 7f 20 b1 09 a0 1d 8c 1b 7f a0 13 8c c8 7e b1 7c 88 11 7c f0 15 a0 .. b1 7c f0 0c a9 .. 91 7c 14 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 0b 05 b0 02
+    07 92 7f 20 49 08 20 30 9e 20 ea 8d ae 25 7f 20 16 7d a9 22 20 59 61 4c d4 7f a9 .. 85 3b 20 49 08 20 30 9e 14 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 0b 8c c9 02
+    07 03 4c d4 7f a8 ad c4 7e ae 5b 7f 20 eb 8b 4c dc 7f 20 ba 09 ac 5b 7f 20 e4 09 8d 0f 80 8e 10 80 a9 01 85 14 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 0b 9e ad 02
+    07 ae 10 80 ac c8 7e 20 .. 8a ac c8 7e c8 c4 05 90 d9 f0 d7 a9 .. 85 1f 85 20 85 21 ac 91 7e 8c c8 7e b9 82 14 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 0b 09 ad 02
+    06 05 80 e2 80 ad 16 c0 8d c8 80 ad 12 c0 8d c9 80 2c 83 c0 ad 60 a5 4a 49 04 d0 43 8d 73 c0 8d 08 c0 90 03 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 08 c0 03
+    06 8d 09 c0 84 3c a9 f8 85 3d a2 .. 2c 83 c0 bd .. ff 2c 81 c0 dd .. ff d0 06 e8 d0 ef f0 0c 60 b1 3c 91 3c 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 85 42 03
+    06 85 43 20 2c fe 2c 16 c0 8d 08 c0 30 03 8d 09 c0 a9 ee 8d 01 d1 a9 9d 8d 05 d1 ad 16 c0 4d c8 80 10 0b 2c 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 b1 0a 03
+    06 d0 02 91 0a e6 0b 60 4c 4c .. 2c 16 c0 8d 08 c0 30 03 8d 09 c0 4c 08 d1 ad .. c0 10 fb 2c 10 c0 60 4c 08 02 02 02 02 18 02 02 02 02 02 02 02 02 02 02 02 02 02 16 16 16 16 16 16 16 d9 89 03
+    06 c6 d8 c2 ce df cc da 8a 8b d1 b8 ad b9 bd c4 d7 d2 .. 89 87 8f bb 22 1e 07 c4 55 27 .. aa a5 b5 c9 d8 27 d9 a9 da e2 db e2 db 83 db 77 da be d9 3d d1 a5 db ad db b9 da f2 da 73 db 6d db 03
+    06 75 d8 78 d8 72 d8 6f d8 b6 db 76 da 9d d8 a2 28 2c 83 c0 2c 83 c0 bd 8d d0 9d 0f 02 02 d0 f7 f0 0b a2 1e bd b5 d0 9d 0f 02 ca d0 f7 4c 10 02 2c 16 c0 8d 08 c0 30 03 8d 09 c0 ad 07 d0 ac 03
+    06 85 c5 84 cc b5 .. 2c 16 c0 8d 08 c0 30 03 8d 09 c0 95 .. e8 d0 d9 60 b5 .. 2c 16 c0 8d 08 c0 30 03 8d 09 c0 95 .. 2c 16 c0 8d 08 c0 02 03 8d 09 c0 e8 d0 e3 60 ad 13 c0 0d 14 c0 0d 61 c0 03
+    06 c0 30 13 ad .. c0 10 0e 2c 10 c0 c6 1c 10 08 a4 1c 99 .. 02 a0 .. 60 e6 1c 60 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 20 6d d0 a2 03 b5 c0 95 02 02 10 f9 a9 8c 20 ed fd a5 7e 4a 4a 03
+    06 01 01 01 01 01 01 01 01 01 00 00 01 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 01 01 01 01 01 01 01 01 d0 03
+    06 01 dd a9 a0 85 54 29 3f 09 40 02 02 dd 20 6b d4 20 46 d4 a4 5a a5 54 99 .. dd a6 49 e4 7e 90 04 c6 5a b0 d2 20 e9 d2 2c 61 c0 30 1c c9 8a f0 24 c9 9b f0 1d c9 8b f0 46 20 d2 d1 c9 8d d0 03
+    06 b9 d1 20 e3 db 4c 51 d1 20 79 d6 24 50 30 a0 10 a5 20 23 dc 20 b9 d1 4c 4e d1 20 72 d5 20 25 d5 a4 5b c8 c4 7f 90 09 e6 14 d0 02 e6 15 4c 8e fd 84 5b 60 38 26 51 b0 05 48 20 0c db 68 60 03
+    06 d5 38 26 51 a5 5b f0 13 b0 0d 20 6b d4 a5 44 c5 16 a5 45 e5 17 66 51 c6 5b 10 26 a4 15 a6 14 d0 01 88 ca d0 03 98 f0 af 86 14 84 15 24 c4 10 23 20 6b d4 ad 0c c3 02 87 f0 1f 78 a9 96 20 03
+    06 58 a5 14 18 65 5b 85 16 a9 .. 65 15 85 17 20 ac d3 d0 84 20 85 d3 4c 20 d2 a5 21 c9 29 f0 24 03 03 03 03 e5 7e 8d 03 07 b0 03 ce 02 07 a0 0d 8c b6 c0 8d be c0 88 8c b6 c0 ad 02 07 8d be 03
+    06 9d d0 ba ad fb 06 e5 ad 8d fb 06 aa 4a 4a 4a 4a a0 0c 8c b0 c0 8d b1 c0 c8 8c b0 c0 8a 0a 03 01 01 00 03 c0 4c 5e d2 a0 12 a2 07 2c a2 10 20 29 db a2 .. a9 20 20 cd d2 18 20 fe d2 9d c0 03
+    06 8d f0 29 c9 ff f0 19 c9 88 f0 15 cd 14 d0 d0 04 20 01 dc 4a c9 a0 90 db 20 ed fd e8 e0 03 01 01 00 00 03 20 cb d2 20 ed fd 4c 92 d2 a9 a0 c9 03 03 03 29 7f 20 57 d5 a9 88 c8 4c ed fd 30 03
+    06 21 09 80 20 ed fd 88 d0 fa 60 a4 5b 20 29 db 20 96 dc 20 02 d3 a5 54 09 80 20 68 d3 03 01 01 00 00 03 4c d3 86 3c c9 e0 90 40 c5 55 b0 3c 03 01 01 00 03 36 24 42 10 30 86 42 ae .. dd e0 03
+    06 29 e0 bb .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 01 00 00 03 .. .. .. .. .. .. .. .. .. .. .. 60 03 01 01 01 00 03 .. .. .. .. .. .. .. .. .. .. .. 03
+    06 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 03 03 03 .. .. .. .. .. .. .. .. .. .. .. .. 03 01 01 00 00 00 03 .. .. .. .. .. ae .. .. .. .. .. 03
+    06 .. .. 02 .. .. .. .. .. 02 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 01 01 07 00 00 03 .. .. .. .. .. 85 .. .. .. .. .. .. 03
+    06 .. .. .. .. .. .. 01 01 01 .. .. .. 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 01 01 00 00 00 03 .. .. .. .. .. .. .. .. .. .. .. .. .. 03
+    06 .. .. f0 .. .. .. 01 .. .. .. .. .. .. .. 01 .. .. .. fb .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 01 01 00 00 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03
+    06 .. .. .. .. .. .. 01 .. .. 03 03 03 .. .. 01 .. 86 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 01 01 00 03 .. .. .. .. .. .. .. .. .. .. .. d0 .. .. .. 03
+    06 .. .. .. .. .. .. 01 .. 03 .. .. .. 03 .. 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 03 03 03 .. .. .. .. .. .. .. .. .. .. .. .. 02 .. .. .. 03
+    06 .. .. .. .. .. .. 01 .. 03 .. .. 12 04 .. 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 02 02 02 02 .. .. .. .. .. .. 03
+    06 .. .. .. .. .. .. 01 .. 03 .. 00 .. 03 .. 01 .. .. .. .. 02 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0d .. .. .. .. .. .. .. .. .. .. 02 02 02 02 02 .. .. .. .. 24 .. 03
+    06 .. .. .. .. .. .. 01 .. 00 03 03 03 .. .. 01 .. .. 84 .. .. f0 .. .. .. .. .. 23 .. .. 03 03 03 .. .. .. .. .. f0 .. .. .. .. .. .. .. .. .. .. .. .. .. 02 02 02 02 02 .. .. .. .. .. .. 03
+    06 .. .. .. .. .. .. 01 .. 52 .. 01 .. .. .. 01 .. .. .. .. .. .. f2 .. .. .. a0 .. .. 03 01 00 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 02 02 02 02 .. .. .. .. .. .. 03
+    06 .. .. .. .. .. .. 01 01 01 01 01 01 01 01 01 .. .. .. .. .. .. .. .. .. .. .. .. 03 01 01 00 03 .. .. .. .. .. .. .. .. .. 48 .. .. .. .. .. .. .. .. .. 02 02 08 02 02 .. .. .. .. .. .. 03
+    06 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0e .. .. .. .. .. .. .. .. 30 03 01 00 00 03 .. .. .. ca .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 65 .. .. .. .. .. .. .. .. .. .. 03
+    06 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 01 00 03 .. .. .. .. .. .. .. .. f0 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 .. .. .. .. .. .. 03
+    06 .. .. .. .. .. .. f0 .. .. .. .. .. .. .. .. .. .. .. .. .. 2e .. .. ae .. .. 03 03 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03
+    06 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 05 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04 04
+  </actionMap>
+  <info tileset="3" backgroundTile="98" timeFactor="128" encounterFrequency="80" lastMonster="6" maxEncounters="8" unknown0="0x35" unknown1="0x39" unknown9="0x2"/>
+  <battleStrings s0="30" s1="31" s2="32" s3="33" s4="34" s5="35" s6="36" s7="37" s8="38" s9="39" s10="38" s11="40" s12="41" s13="42" s14="38" s15="43" s16="38" s17="44" s18="38" s19="45" s20="46" s21="47" s22="48" s23="49" s24="50" s25="51" s26="52" s27="53" s28="54" s29="55" s30="56" s31="57" s32="58" s33="59" s34="60" s35="61" s36="62"/>
+  <actions actionClass="0x1">
+    <print id="0x0">
+      <message>0</message>
+    </print>
+    <print id="0x1">
+      <message>14</message>
+    </print>
+    <print id="0x2">
+      <message>13</message>
+    </print>
+    <print id="0x3">
+      <message>15</message>
+    </print>
+    <print id="0x4">
+      <message>23</message>
+    </print>
+    <print id="0x5">
+      <message>24</message>
+    </print>
+    <print id="0x6">
+      <message>25</message>
+    </print>
+    <print id="0x7" newActionClass="0x2" newAction="0x0">
+      <message>28</message>
+    </print>
+  </actions>
+  <actions actionClass="0x2">
+    <check id="0x0" passable="true" autoCheck="true" party="true" failNewActionClass="0xa" failNewAction="0x10" modifierTarget="0x0">
+      <skill value="2" difficulty="3"/>
+      <skill value="13" difficulty="3"/>
+    </check>
+    <check id="0x1" passable="true" autoCheck="true" party="true" failNewActionClass="0xa" failNewAction="0x11" modifierTarget="0x0">
+      <skill value="2" difficulty="3"/>
+      <skill value="13" difficulty="3"/>
+    </check>
+    <check id="0x2" passable="true" autoCheck="true" party="true" damageAll="true" failMessage="19" modifier="-1">
+      <attribute value="37" difficulty="1"/>
+    </check>
+    <check id="0x3" autoCheck="true" startMessage="20" modifierTarget="0x0">
+      <skill value="37" difficulty="1"/>
+    </check>
+  </actions>
+  <actions actionClass="0x4">
+    <mask id="0x0" tile="94"/>
+    <mask id="0x1" tile="95" newActionClass="0x8" newAction="0x0"/>
+    <mask id="0x2" tile="93" newActionClass="0x8" newAction="0x1"/>
+    <mask id="0x3" tile="7" newActionClass="0x6" newAction="0x6"/>
+    <mask id="0x4" tile="7" newActionClass="0x6" newAction="0x7"/>
+  </actions>
+  <actions actionClass="0x6">
+    <special id="0x0" action="0x2">0c 01 07 5f</special>
+    <special id="0x1" action="0x2">0c 02 5f 07</special>
+    <special id="0x2" action="0x2">0c 04 07 5d</special>
+    <special id="0x3" action="0x2">0c 05 5d 07</special>
+    <doctor id="0x4" name="Old Doc Bobs" message="17" healPrice="8" examinePrice="50" curePrice="80" newActionClass="0xfd" newAction="0xfd"/>
+    <library id="0x5" name="New Thoughts" message="18" newActionClass="0xfd" newAction="0xfd">
+      <skill>1</skill>
+      <skill>2</skill>
+      <skill>3</skill>
+      <skill>4</skill>
+      <skill>5</skill>
+      <skill>6</skill>
+      <skill>7</skill>
+      <skill>8</skill>
+      <skill>9</skill>
+      <skill>10</skill>
+      <skill>11</skill>
+      <skill>12</skill>
+      <skill>13</skill>
+      <skill>14</skill>
+      <skill>15</skill>
+      <skill>16</skill>
+      <skill>18</skill>
+      <skill>19</skill>
+      <skill>20</skill>
+      <skill>21</skill>
+      <skill>22</skill>
+      <skill>23</skill>
+      <skill>24</skill>
+      <skill>25</skill>
+      <skill>26</skill>
+      <skill>27</skill>
+      <skill>28</skill>
+      <skill>30</skill>
+      <skill>31</skill>
+      <skill>32</skill>
+    </library>
+    <special id="0x6" action="0xf">ff ff 06 01 0c 01 33 28</special>
+    <special id="0x7" action="0xf">ff ff 06 03 0c 04 0b 28</special>
+  </actions>
+  <actions actionClass="0x8">
+    <dialogue id="0x0" menu="true" message="7" cancelNewActionClass="0xc" cancelNewAction="0x6" otherNewActionClass="0xc" otherNewAction="0x6">
+      <answer message="8" newActionClass="0x6" newAction="0x0"/>
+    </dialogue>
+    <dialogue id="0x1" menu="true" message="7" cancelNewActionClass="0xc" cancelNewAction="0x7" otherNewActionClass="0xc" otherNewAction="0x7">
+      <answer message="8" newActionClass="0x6" newAction="0x2"/>
+    </dialogue>
+  </actions>
+  <actions actionClass="0x9">
+    <radiation id="0x0" damage="2"/>
+    <radiation id="0x1" damage="4"/>
+  </actions>
+  <actions actionClass="0xa">
+    <transition id="0x0" confirm="true" message="1" targetX="24" targetY="29" targetMap="0"/>
+    <transition id="0x1" confirm="true" message="1" targetX="25" targetY="29" targetMap="0"/>
+    <transition id="0x2" confirm="true" message="1" targetX="26" targetY="30" targetMap="0"/>
+    <transition id="0x3" confirm="true" message="1" targetX="26" targetY="31" targetMap="0"/>
+    <transition id="0x4" confirm="true" message="1" targetX="25" targetY="32" targetMap="0"/>
+    <transition id="0x5" confirm="true" message="1" targetX="24" targetY="32" targetMap="0"/>
+    <transition id="0x6" confirm="true" message="1" targetX="23" targetY="31" targetMap="0"/>
+    <transition id="0x7" confirm="true" message="1" targetX="23" targetY="30" targetMap="0"/>
+    <transition id="0x8" confirm="true" message="2" targetX="27" targetY="27" targetMap="34"/>
+    <transition id="0x9" confirm="true" message="3" targetX="1" targetY="6" targetMap="34"/>
+    <transition id="0xa" confirm="true" message="4" targetX="3" targetY="30" targetMap="34"/>
+    <transition id="0xb" relative="true" confirm="true" message="5" targetX="-30" targetY="-16" targetMap="32"/>
+    <transition id="0xc" confirm="true" message="6" targetX="16" targetY="30" targetMap="27"/>
+    <transition id="0xd" relative="true" targetX="1" targetMap="26" newActionClass="0x4" newAction="0x0"/>
+    <transition id="0xe" relative="true" targetX="-1" targetMap="26" newActionClass="0x4" newAction="0x0"/>
+    <transition id="0xf" confirm="true" message="6" targetX="30" targetY="27" targetMap="27"/>
+    <transition id="0x10" relative="true" message="16" targetX="1" targetY="1" targetMap="26" newActionClass="0xfd"/>
+    <transition id="0x11" relative="true" message="16" targetX="-1" targetY="-1" targetMap="26" newActionClass="0xfd"/>
+    <transition id="0x12" confirm="true" message="21" targetX="6" targetY="7" targetMap="31"/>
+    <transition id="0x13" confirm="true" message="22" targetX="24" targetY="11" targetMap="31"/>
+    <transition id="0x14" relative="true" confirm="true" message="5" targetX="-35" targetY="-16" targetMap="33"/>
+    <transition id="0x15" confirm="true" message="5" targetX="22" targetY="30" targetMap="33"/>
+    <transition id="0x16" relative="true" confirm="true" message="5" targetX="-36" targetY="-5" targetMap="32"/>
+    <transition id="0x17" relative="true" confirm="true" message="5" targetX="-20" targetY="-24" targetMap="33"/>
+    <transition id="0x18" confirm="true" message="5" targetX="10" targetY="30" targetMap="33"/>
+    <transition id="0x19" relative="true" confirm="true" message="26" targetMap="26" newActionClass="0x6" newAction="0x4"/>
+    <transition id="0x1a" relative="true" confirm="true" message="27" targetMap="26" newActionClass="0x6" newAction="0x5"/>
+  </actions>
+  <actions actionClass="0xb">
+    <impassable id="0x0" message="10"/>
+    <impassable id="0x1" message="11"/>
+    <impassable id="0x2" message="12"/>
+  </actions>
+  <actions actionClass="0xc">
+    <alteration id="0x1" newActionClass="0xa" newAction="0xd">
+      <alter relative="true" x="-1" newActionClass="0x1" newAction="0x0"/>
+      <alter unknown="0x40" relative="true" x="1" newActionClass="0x4" newAction="0x3"/>
+    </alteration>
+    <alteration id="0x2" newActionClass="0x4" newAction="0x0">
+      <alter x="50" y="40" newActionClass="0x4" newAction="0x2"/>
+    </alteration>
+    <alteration id="0x4" newActionClass="0xa" newAction="0xe">
+      <alter relative="true" x="1" newActionClass="0x1" newAction="0x0"/>
+      <alter unknown="0x40" relative="true" x="-1" newActionClass="0x4" newAction="0x4"/>
+    </alteration>
+    <alteration id="0x5" newActionClass="0x4" newAction="0x0">
+      <alter x="12" y="40" newActionClass="0x4" newAction="0x1"/>
+    </alteration>
+    <alteration id="0x6" message="9">
+      <alter relative="true" newActionClass="0x4" newAction="0x1"/>
+    </alteration>
+    <alteration id="0x7" message="9">
+      <alter relative="true" newActionClass="0x4" newAction="0x2"/>
+    </alteration>
+  </actions>
+  <actions actionClass="0xf">
+    <encounter id="0x0" message="29" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x1" message="29" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x2" message="29" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x3" message="29" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x4" message="29" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x5" message="29" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x6" message="29" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x7" message="29" properName="true" newActionClass="0x0" newAction="0x0"/>
+  </actions>
+  <npcs/>
+  <monsters>
+    <monster id="0"/>
+    <monster id="1" name="Sand Bum\n\ns\n" experience="10" skill="1" fixedDamage="3" randomDamage="1" maxGroupSize="4" weaponType="1" monsterType="3" picture="46"/>
+    <monster id="2" name="Desert Nomad\n\ns\n" experience="11" skill="1" fixedDamage="3" randomDamage="1" maxGroupSize="4" weaponType="1" monsterType="3" picture="38"/>
+    <monster id="3" name="Lost Soul\n\ns\n" experience="25" skill="1" fixedDamage="3" randomDamage="1" maxGroupSize="1" weaponType="1" monsterType="2" picture="7"/>
+    <monster id="4" name="Jerk\n\ns\n" experience="25" ac="1" skill="1" fixedDamage="3" randomDamage="2" maxGroupSize="1" weaponType="1" monsterType="3" picture="38"/>
+    <monster id="5" name="Leather Jerk\n\ns\n" experience="33" ac="1" skill="1" fixedDamage="3" randomDamage="4" maxGroupSize="1" weaponType="1" monsterType="3" picture="38"/>
+    <monster id="6" name="Brass Jerk\n\ns\n" experience="45" ac="1" skill="12" randomDamage="4" maxGroupSize="1" weaponType="2" monsterType="3" picture="60"/>
+  </monsters>
+  <strings>
+    <string id="0"></string>
+    <string id="1">\rLeaving Needles.\r</string>
+    <string id="2">\rEntering the Servants of the Mushroom Cloud Church.\r</string>
+    <string id="3">\rEntering Police station.\r</string>
+    <string id="4">\rEntering Gas station.\r</string>
+    <string id="5">\rGoing downtown.\r</string>
+    <string id="6">\rEntering the Temple of Blood.\r</string>
+    <string id="7">The train engineer yells, "All aboard!" Get on?\r\r\x11\x10Yes\r\x10No\r</string>
+    <string id="8">Y</string>
+    <string id="9">\rI'm always here to give you a ride. Just ask for old Ed the engineer.\r</string>
+    <string id="10">\rWhat's left of the city's defensive wall looks old and broken.\r</string>
+    <string id="11">\rThis concrete wall is old and cracked\r</string>
+    <string id="12">\rYou can't walk through walls.\r</string>
+    <string id="13">\rThis mound of sand has a strange shape, more man made than wind blown.\r</string>
+    <string id="14">\rThis railroad looks newly made, but the rails look very old.\r</string>
+    <string id="15">\rThe shifting desert sands have created a small hill.\r</string>
+    <string id="16">\rOops! The sand shifted under your feet and you slide down the hill.\r</string>
+    <string id="17">\x07Welcome to Old Doc Bob's.\r</string>
+    <string id="18">\x07"Quiet please! You are in a center of higher learning."\r</string>
+    <string id="19">\rDummy! You should be smart enough not to touch cactus.\r</string>
+    <string id="20">\rAn old, tall rusty railing surrounds the town waste pit.\r</string>
+    <string id="21">\rEntering the town waste pit.\r</string>
+    <string id="22">\rIt is cool and dark in the ammo bunker.\r</string>
+    <string id="23">\rThere are stairs here leading into a waste pit.\r</string>
+    <string id="24">\rThe remains of a wall lay here.\r</string>
+    <string id="25">\rSome heavy fighting has happened here. The town wall has been blown away.\r</string>
+    <string id="26">\rEntering Old Doc Bob's.\r</string>
+    <string id="27">\rEntering a library.\r</string>
+    <string id="28">\rWhew! Just as you make it to the top, the sand shifts and you find a note. It says, "Please help find and return REDHAWK to the Savage Village."\r</string>
+    <string id="29">You face some angry foes.\r</string>
+    <string id="30">\x0b attacks</string>
+    <string id="31">\x0b triggers</string>
+    <string id="32">\x0b discharges a burst</string>
+    <string id="33">Sub-atomic particles burst from \x0b</string>
+    <string id="34">\x0b fires full auto</string>
+    <string id="35">\x0b chucks an explosive charge</string>
+    <string id="36">\x0b lauches a shell</string>
+    <string id="37">hits \x0f </string>
+    <string id="38"> for </string>
+    <string id="39">hits \x0f </string>
+    <string id="40">\x0f </string>
+    <string id="41"> \nis\nare\n raked in a crossfire of bullets for </string>
+    <string id="42">bores through \x0f </string>
+    <string id="43">tears a jagged rent in \x0f </string>
+    <string id="44">inflames \x0f </string>
+    <string id="45"> but fail\ns\n\n to inflict any damage</string>
+    <string id="46"> drills </string>
+    <string id="47"> blazes away at </string>
+    <string id="48"> sprays </string>
+    <string id="49"> triggers a burst at </string>
+    <string id="50"> fries </string>
+    <string id="51"> toasts </string>
+    <string id="52"> and hits for </string>
+    <string id="53"> beat\ns\n\n </string>
+    <string id="54"> hammer\ns\n\n </string>
+    <string id="55"> thrashes </string>
+    <string id="56"> mauls </string>
+    <string id="57"> whomps on </string>
+    <string id="58"> pounds at </string>
+    <string id="59"> and rips \x0ehim\x0eher\x0eit\x0e to shreds</string>
+    <string id="60"> and shreds \x0ehim\x0eher\x0eit\x0e</string>
+    <string id="61"> spinning \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n into a dance of death</string>
+    <string id="62"> reducing \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n to a thin red paste</string>
+  </strings>
+  <tileMap unknown="0x3f68">
+    .. .. 66 66 66 66 63 63 63 63 .. 63 63 63 66 61 61 60 60 60 60 60 60 60 60 60 60 60 60 5c 5c 5c 66 61 61 61 60 60 60 60 60 60 60 60 60 61 61 61 61 66 63 61 61 60 60 60 61 61 66 66 63 .. .. ..
+    66 66 66 66 61 66 66 63 63 63 63 63 .. 63 63 66 66 61 60 60 60 60 60 60 61 61 61 60 60 5c 0e 5c 63 63 63 61 61 61 60 60 60 60 60 60 61 61 66 66 66 63 63 66 61 61 61 61 61 61 61 66 66 63 63 ..
+    66 61 61 61 66 61 66 66 63 63 63 63 .. 63 63 63 66 61 60 60 61 61 60 61 61 66 66 61 61 3f 0e 3d 63 66 66 66 66 61 61 60 60 60 60 61 61 66 66 66 63 63 63 66 66 66 66 66 66 66 66 66 .. .. .. 23
+    66 66 66 66 66 66 66 66 63 63 63 63 .. .. .. 63 66 66 61 60 60 60 61 61 66 66 66 61 61 3f 0e 3d 63 63 66 66 32 74 61 61 60 60 61 61 61 61 66 66 66 66 63 63 63 66 66 66 .. .. .. 32 74 .. .. 23
+    63 63 66 66 61 66 66 66 66 63 63 63 63 63 63 63 63 66 66 61 61 61 66 66 66 66 66 61 60 3f 0e 3d .. 63 63 63 73 69 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 69 68 .. 23 23
+    .. 63 63 66 66 66 61 1c 4c 4c 4c 41 61 66 63 63 63 66 66 66 66 66 66 66 66 66 66 61 60 3f 0e 3d .. .. 63 63 63 74 60 60 60 61 61 61 61 61 66 66 63 63 63 63 66 66 63 .. .. 63 63 74 .. .. 23 23
+    66 66 61 66 61 66 61 4a 5b 5b 5b 46 61 66 66 66 66 63 63 66 66 66 66 66 66 66 61 60 60 3f 0e 3d .. .. .. .. 63 74 60 60 61 61 66 66 66 66 63 63 63 66 66 66 61 61 66 63 63 66 63 74 .. 23 23 23
+    61 66 66 66 66 66 61 2b 5b 5b 5b 37 61 66 66 61 66 63 63 63 63 63 66 66 66 61 60 60 60 3f 0e 3d .. .. 23 .. 63 74 60 61 61 50 58 58 4d 63 66 66 66 66 61 61 44 45 66 63 63 66 63 74 .. 23 23 ..
+    60 61 66 66 66 66 61 29 48 39 48 42 61 66 66 66 66 63 63 63 .. .. 63 66 66 66 61 60 60 3f 0e 3d .. 23 23 23 .. 74 61 66 66 4f 54 3a 53 66 66 63 66 61 60 60 2b 46 63 63 63 66 63 74 23 23 23 ..
+    61 66 66 63 66 66 61 61 61 61 61 61 61 61 66 66 63 63 63 .. .. .. .. 63 66 66 61 60 60 3f 0e 3d .. 23 0c 23 .. 74 66 66 63 63 63 .. 66 66 66 66 66 61 60 60 4a 37 .. 63 66 66 63 74 23 23 23 ..
+    66 66 63 63 63 66 66 66 66 61 66 66 66 61 66 66 63 63 .. .. .. .. .. 63 63 66 66 61 60 3f 0e 3d .. 23 23 23 .. 74 66 63 63 66 66 63 .. 66 66 61 61 61 60 61 29 42 63 63 66 66 63 74 23 23 23 ..
+    66 63 63 63 63 .. 66 61 66 61 61 61 61 61 61 66 66 63 63 63 63 63 .. .. .. 63 63 66 61 3f 0e 3d .. 23 23 .. .. 74 66 63 66 61 61 66 63 63 66 66 61 61 60 61 63 66 63 66 66 66 63 74 23 23 .. ..
+    66 63 .. .. 63 63 66 66 61 66 66 61 60 60 61 66 66 66 66 66 66 63 63 .. .. 63 63 66 66 3f 0e 3d .. .. 23 .. .. 74 66 66 61 60 44 4c 4c 4c 45 66 66 61 60 60 61 66 66 66 66 63 63 74 23 .. .. ..
+    63 63 .. .. .. 63 63 63 61 66 61 61 61 60 61 66 66 61 61 61 61 66 66 .. 23 .. 63 66 66 3f 0e 3d .. .. .. .. .. 74 66 61 61 60 43 39 48 2a 42 66 61 60 60 60 60 61 66 66 66 63 63 55 .. .. 63 63
+    .. .. .. .. .. .. .. 63 63 63 66 66 61 61 61 66 66 61 60 60 66 61 66 63 .. .. 63 63 66 3f 0e 3d .. .. .. .. 0f 55 0d 61 61 61 61 66 66 66 66 66 61 60 0a 0a 61 66 63 66 66 .. .. 3b .. 63 63 63
+    .. 23 23 .. .. .. .. .. 63 63 63 66 66 66 66 66 66 66 61 61 61 66 66 66 63 63 63 63 66 3f 0e 3d .. .. .. 23 0f 55 0d 61 61 61 66 66 63 63 63 61 60 61 20 0a 66 63 66 66 66 63 .. .. 63 63 63 63
+    .. 23 23 23 .. .. 23 .. .. .. .. .. .. .. .. 63 61 61 60 61 66 63 66 66 66 66 66 63 66 3f 0e 3d .. 23 23 23 23 74 61 61 66 66 66 63 .. 63 63 66 61 66 66 66 66 66 0f 0d 66 63 63 63 66 66 66 63
+    23 23 24 23 23 23 23 23 .. .. .. .. .. .. .. 63 63 61 60 66 63 63 63 63 63 63 63 66 66 3f 0e 3d 23 23 .. .. .. 74 66 66 28 28 66 63 .. 63 66 0f 0d 66 63 63 66 61 61 61 66 63 66 66 66 61 66 63
+    23 24 24 23 23 23 .. .. .. 63 63 63 63 .. .. .. 63 63 66 66 63 .. .. .. 63 63 63 66 66 3f 0e 3d 23 .. .. 63 63 69 73 73 55 55 0d 63 .. .. 63 63 63 63 63 .. 66 61 66 66 63 63 66 61 61 60 61 66
+    23 24 23 23 23 .. .. .. 63 63 66 66 63 63 63 66 66 66 66 63 63 .. .. 64 .. 63 66 66 61 3f 0e 3d .. .. 63 63 61 74 24 24 3b 3b 24 24 23 23 .. .. .. .. .. .. 63 66 66 66 66 63 63 66 66 66 66 66
+    24 24 23 23 23 .. .. 63 63 66 63 63 63 63 63 66 66 61 66 63 63 .. .. .. .. 63 66 61 60 3f 0e 3d .. 63 63 61 60 74 24 24 24 24 24 24 23 .. .. .. 63 63 63 63 66 66 66 61 66 66 66 66 63 63 63 63
+    24 23 23 .. .. .. .. 63 63 63 .. .. 63 66 66 66 66 61 66 66 .. 63 63 63 63 66 66 61 60 3f 0e 3d 63 63 61 60 0f 55 0d 24 24 24 24 24 23 .. 63 63 63 63 63 63 66 61 61 66 66 66 63 63 63 .. .. ..
+    24 23 23 .. .. .. 63 63 63 63 .. 64 .. 63 66 66 61 61 61 66 66 66 66 66 66 66 61 60 60 3f 0e 3d 63 61 60 60 0f 55 0d 24 24 24 24 23 .. 63 63 66 66 66 66 66 66 66 66 66 66 63 63 .. .. .. 23 23
+    24 23 23 .. .. .. 63 63 63 63 .. .. .. 63 66 66 61 61 61 61 66 66 63 63 63 66 61 60 60 3f 0e 3d 61 61 61 61 63 63 .. 23 24 24 23 23 .. 63 66 66 61 66 66 61 66 66 61 66 63 63 .. .. .. .. 23 23
+    24 23 23 .. .. .. 63 63 63 66 63 63 63 63 66 66 61 61 61 61 61 66 66 66 63 66 66 61 60 3f 0e 3d 63 63 63 61 61 63 .. 23 23 24 23 23 63 66 61 61 60 61 61 60 61 61 60 66 63 .. .. .. 64 23 23 ..
+    24 23 23 23 .. .. .. .. 63 63 66 66 66 66 66 66 61 60 60 60 61 61 61 66 66 66 61 60 60 3f 0e 3d 61 63 61 60 50 58 58 58 58 4d 23 23 63 66 73 74 44 4c 45 40 44 4c 4c 4c 45 40 1c 4c 45 23 23 ..
+    24 24 23 23 23 .. 63 63 63 63 63 66 66 66 66 66 66 61 61 60 60 60 1c 4c 4c 45 61 61 60 3f 0e 3d 63 63 63 63 56 59 59 59 59 52 24 23 .. .. .. 68 4a 5b 46 0e 4a 5b 5b 5b 46 0e 2b 5b 46 23 .. 63
+    24 24 24 23 23 63 63 63 63 63 66 66 66 66 66 66 66 61 60 60 60 60 29 39 48 42 61 60 60 3f 0e 3d .. 63 61 63 4f 54 6a 54 3a 53 24 23 23 23 23 63 43 2a 42 0e 29 48 48 48 42 0e 43 48 42 .. 63 63
+    5c 5c 5c 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 0e 0e 1a 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 5c 5c 5c
+    5c 5c 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 5c 5c
+    5c 5c 5c 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 5c
+    5c 5c 5c 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 5c 5c
+    61 61 60 60 60 61 61 60 60 60 61 61 61 66 66 61 61 60 60 61 66 66 61 60 60 60 61 61 61 60 60 61 61 61 61 61 2c 3e 3e 2e 61 50 36 31 36 31 36 4d 1c 4c 4c 4c 4c 45 60 60 44 4c 4c 4c 45 60 60 61
+    61 61 61 60 60 61 61 61 61 61 61 66 66 66 66 66 66 66 61 66 66 66 66 61 60 61 66 66 66 61 61 66 66 66 61 61 50 58 58 4d 60 4f 54 31 54 31 54 53 4a 5b 5b 5b 5b 46 60 60 2b 5b 5b 5b 46 60 61 61
+    66 61 61 60 61 66 66 61 61 66 66 66 63 63 63 63 63 66 66 66 63 63 66 66 61 66 63 63 66 66 66 66 .. 66 66 61 56 59 59 38 60 2f 40 00 40 00 40 2d 4a 5b 5b 5b 5b 46 60 60 43 48 48 2a 42 61 61 66
+    66 66 61 61 66 66 63 66 66 66 63 63 63 63 .. .. 63 63 63 63 .. .. 63 63 66 63 66 66 63 63 63 66 63 63 66 61 4f 54 54 53 60 2c 3e 3e 3e 3e 3e 2e 29 48 48 48 2a 42 60 61 61 61 61 61 61 61 66 66
+    63 66 66 66 66 63 63 63 63 63 63 .. .. 63 63 63 63 63 63 63 63 .. .. 63 63 66 66 63 .. .. .. 63 66 63 66 61 61 60 60 60 61 61 61 61 66 63 66 61 61 61 61 61 61 61 61 61 66 66 66 66 66 66 66 ..
+    63 66 63 63 66 66 66 63 63 .. .. .. 63 63 66 66 63 66 66 66 66 66 63 63 66 66 66 63 .. 64 .. 63 66 66 66 61 61 60 60 61 61 66 66 63 63 .. 63 63 66 66 66 66 66 66 61 61 66 61 61 66 63 63 63 63
+    66 61 66 66 66 61 61 66 66 66 63 63 63 66 66 61 66 61 66 61 61 61 66 66 61 66 66 63 .. 23 .. 63 66 66 61 61 60 60 61 66 66 66 63 63 .. 64 .. 63 63 63 66 61 61 61 61 61 61 61 61 66 66 66 66 63
+    61 66 63 66 61 60 60 61 61 61 66 63 63 66 61 60 61 60 61 60 60 60 61 61 60 61 61 66 63 23 23 63 66 61 60 60 60 61 61 61 61 66 63 .. 23 .. .. .. 63 66 47 49 60 61 61 60 60 60 60 61 61 61 66 66
+    61 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 61 60
+    66 66 61 61 60 60 60 60 61 60 60 47 49 60 60 60 60 61 61 60 61 66 61 60 60 60 60 60 60 61 61 66 66 63 .. .. .. 63 66 61 61 60 60 61 60 61 61 60 60 61 66 61 66 63 63 63 63 66 61 60 60 60 60 61
+    61 61 66 66 66 61 61 61 61 60 61 61 61 61 61 61 61 66 66 61 66 66 61 61 61 60 61 61 66 66 63 66 .. .. .. 23 .. .. 63 66 61 60 61 61 61 66 66 61 61 66 66 66 63 63 .. .. .. 63 66 61 61 61 61 61
+    66 66 63 63 66 66 66 66 66 61 66 66 66 66 66 66 66 66 66 66 66 66 66 66 60 61 61 66 66 63 66 63 .. .. 23 23 23 .. 63 63 61 61 61 61 66 66 66 63 63 63 63 63 63 63 .. 64 .. .. 66 66 66 66 61 61
+    63 63 .. 63 63 66 66 66 66 66 66 66 66 66 63 63 63 63 63 63 63 63 66 66 61 66 66 61 61 66 63 .. 23 4b 4b 23 23 .. 63 63 66 61 61 66 66 66 63 63 .. .. .. .. 63 63 .. .. 23 .. .. .. 66 66 61 61
+    63 63 .. .. 63 63 63 66 66 66 66 63 63 63 63 .. .. .. 63 .. .. .. 63 63 66 66 61 61 66 63 .. 23 27 27 4b 4b 23 .. .. 63 66 61 61 66 66 63 .. .. 23 23 23 .. .. 63 63 .. .. .. 24 .. 66 66 61 61
+    63 63 63 63 63 63 63 63 63 63 63 63 .. .. .. .. .. 63 63 .. 23 23 .. .. .. 66 61 66 63 .. 23 27 25 27 27 4b 23 .. .. 63 63 66 61 66 63 .. .. 23 23 23 23 23 23 .. 63 63 .. 23 23 66 66 66 61 60
+    63 63 66 66 66 63 63 63 63 63 63 63 63 63 .. .. 63 66 63 .. 64 23 23 .. 63 66 66 63 .. 23 27 25 25 27 4b 23 .. 63 .. .. 63 66 66 66 63 .. 23 4b 4b 4b 4b 23 23 .. 63 63 .. .. 23 66 66 61 61 60
+    66 66 63 63 63 63 63 63 66 66 66 66 66 63 63 63 66 66 63 .. .. .. .. 63 66 66 66 63 23 4b 4b 27 27 4b 23 .. 63 .. .. .. .. 63 63 .. .. 23 23 4b 27 4b 4b 23 23 .. 63 63 .. .. 66 66 61 61 60 60
+    66 63 .. .. .. 63 66 66 66 61 61 61 66 66 66 66 66 66 63 63 .. .. .. 63 66 61 61 66 63 23 4b 4b 4b 23 .. 63 63 .. 23 24 .. 63 .. .. 23 4b 4b 27 25 27 4b 23 23 .. 63 63 63 66 66 66 66 61 61 61
+    66 63 .. 64 .. 63 66 61 61 60 61 66 61 61 61 66 66 66 66 63 63 63 66 66 66 61 61 61 66 23 23 23 23 .. 63 63 .. .. .. .. 63 63 .. 23 4b 4b 27 25 27 4b 23 23 23 .. 63 63 66 66 63 66 66 66 61 61
+    66 63 63 .. .. 63 66 69 73 68 60 61 60 73 73 74 61 61 66 66 66 66 66 66 66 66 66 63 .. .. .. .. .. .. 63 .. .. 23 .. 63 63 .. .. 23 4b 27 25 27 4b 23 23 .. .. 63 63 66 66 63 63 63 63 66 66 66
+    66 66 63 63 66 66 66 74 61 66 60 66 60 66 63 74 61 66 66 61 61 61 66 63 63 66 61 66 66 63 .. .. .. .. .. .. 63 .. .. 63 63 .. 23 4b 27 27 27 4b 23 23 .. 63 63 63 66 66 66 63 63 63 63 63 63 66
+    66 66 66 66 66 66 61 74 66 63 13 17 10 66 63 74 61 66 63 66 66 66 66 66 66 61 60 61 66 63 63 63 .. .. .. 63 63 .. .. 63 .. .. 23 4b 27 4b 4b 23 23 .. .. 63 63 66 66 66 63 63 .. .. .. .. 63 66
+    63 66 66 63 66 61 61 74 63 13 0a 0a 0a 10 63 74 61 66 66 63 63 63 63 66 61 61 61 66 63 63 63 63 63 63 63 66 66 63 .. 63 .. .. .. 23 4b 23 23 23 23 .. 63 63 66 61 61 61 66 63 .. 64 23 .. 63 66
+    63 63 63 63 66 61 60 74 63 16 0a 6c 0b 19 63 74 61 61 63 .. .. .. .. 63 66 66 66 63 .. .. .. .. .. 63 63 66 66 66 63 63 63 63 .. .. 23 23 .. .. .. 63 63 66 44 4c 4c 4c 41 63 .. 23 .. .. 63 63
+    .. .. 63 63 66 61 61 74 63 12 0a 0a 0a 11 63 74 61 66 63 .. 64 23 .. 63 63 63 63 .. .. 23 23 23 23 .. 63 63 66 66 66 63 63 63 63 .. .. .. .. 63 63 63 66 61 4a 5b 5b 5b 46 .. .. .. .. 63 63 63
+    .. 63 63 66 61 61 60 74 .. 63 12 0a 11 66 63 74 61 66 63 .. .. 23 .. .. .. 63 .. .. 23 23 4b 23 4b 23 .. 63 63 66 66 66 63 63 63 63 63 63 63 63 66 66 61 60 4a 5b 5b 5b 46 .. .. .. .. .. 63 63
+    63 63 66 61 61 60 60 74 .. .. .. 74 63 63 .. 74 61 61 66 63 63 .. 66 .. .. .. .. .. 23 4b 27 4b 4b 23 .. 63 63 66 66 66 66 66 66 66 63 63 63 63 63 61 61 61 2b 5b 5b 5b 46 23 .. .. .. 63 .. 23
+    63 66 66 61 60 61 61 73 73 73 73 73 73 73 73 68 66 66 66 66 61 66 66 63 .. .. .. 23 4b 27 25 27 4b 23 .. 63 66 66 66 66 66 66 66 66 66 66 63 63 63 61 63 61 29 2a 39 48 42 .. .. .. .. .. .. 23
+    66 66 61 61 61 66 61 61 61 61 61 61 60 61 61 61 61 66 63 66 61 66 63 63 .. .. 23 4b 27 25 27 4b 23 .. .. 63 66 66 66 66 66 61 66 66 66 66 66 63 63 63 63 61 61 66 63 63 63 .. .. 23 .. .. 23 23
+    66 61 61 61 61 61 66 66 66 66 66 66 61 66 66 66 66 66 63 66 66 66 66 63 .. 23 4b 27 25 27 4b 23 23 .. 63 .. 63 66 66 66 61 61 61 66 66 66 66 63 66 66 66 66 66 66 63 .. 64 23 23 23 23 23 23 24
+    66 66 66 66 66 66 66 63 63 63 66 66 66 66 66 66 63 63 63 .. 66 .. 66 63 .. .. 23 4b 27 4b 23 23 .. .. .. .. 63 63 66 66 61 60 61 61 61 66 66 66 66 66 66 66 66 66 66 63 .. .. 23 23 23 24 24 24
+    66 66 66 66 66 63 63 63 .. 63 63 66 66 66 63 63 63 63 .. .. .. .. .. 63 .. .. 23 23 4b 23 23 .. 63 .. .. .. 63 63 66 61 61 60 60 61 61 61 61 66 66 66 63 66 66 .. 63 63 63 63 .. .. 23 24 24 24
+  </tileMap>
+</map>

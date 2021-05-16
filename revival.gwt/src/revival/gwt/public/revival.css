@@ -1,0 +1,21 @@
+body {
+	background-color: #FFFFFF;
+  font-size: 13px;
+  font-family: monospace;
+  font-weight: bold;
+	color: white;
+}
+
+.revival-map td {
+	padding: 0;
+	width: 32px;
+	height: 32px;
+}
+
+.staticTextTable tr {
+	height: 16px;
+}
+
+.staticTextTable td {
+	padding: 0;
+}

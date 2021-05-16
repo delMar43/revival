@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map xmlns="http://ailis.de/wlandsuite" mapSize="32" msqSize="6933" tilemapOffset="6572" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ailis.de/wlandsuite http://www.ailis.de/~k/software/projects/wlandsuite/schemas/wlandsuite.xsd">
+  <actionClassMap>
+    bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    bbbbbbbbbbbbbbbbbbbbbb1111b111bb
+    bb...................21111b111bb
+    bb.1.1.1.1.1.1.1.1.1.b5111b111bb
+    bb.1.1.1.1.1.1.1.1.1.bbbb2b111bb
+    bb.1.131.1.1.131.1.1.b11111111bb
+    bb.1.1.1.1.1.1.1.1.1.b11111111bb
+    bb.11111111111111111.b11111111bb
+    bb.1.1.1.1.b.1.1.1.1.b11111111bb
+    bb.1.1.1.1.b.1.1.131.b11111111bb
+    bb.1.1.1.1.b.131.1.1.b11111111bb
+    bb...................b11111111bb
+    bbbbb2bbbbbbbbbbbbbbbb111bb111bb
+    bb51111116161611161611111bb111ab
+    bb11111611616111616111111bb111bb
+    bbb2bbbbbbbbbbbbbbbbbb11111111bb
+    bb................bbbb11111111bb
+    bb.1.1.1.1..1.1...1bbb11111111bb
+    bb.1.1.1.1..1.1.1141bb11111111bb
+    bb.1.1.1.1........1..b11111111bb
+    bb.1.1.1.1..bbbb...b.b11111111bb
+    bb.1.1.1.1.bbbbbb..b.b11111111bb
+    bb.1.1.1.1.bbbbbb..b.b11111111bb
+    bb.1.1.1.1.bbbbbb....b11111111bb
+    bb.1.1.1.1.bbbbbb..1.b11111111bb
+    bb.1.1.1.1..bbbb.1.1.b11111111bb
+    bb.1.1.1.1.1.....1.1.b11111111bb
+    bb.1.1.1.1.1.1.1.1.1.b11111111bb
+    bb.1.131.1.1.1.1.1.1.bbbb2b111bb
+    bb.1.1.1.1.1.1.1.1.1.b1115b111bb
+    bb...................21111b111bb
+    bbabbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  </actionClassMap>
+  <actionMap>
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 00 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 29 29 29 29 00 29 29 29 00 00
+    00 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 29 29 29 29 00 29 29 29 00 00
+    00 00 .. 00 .. 00 .. 00 .. 00 .. 01 .. 01 .. 02 .. 02 .. 05 .. 00 04 29 29 29 00 29 29 29 00 00
+    00 00 .. 00 .. 00 .. 00 .. 00 .. 01 .. 01 .. 02 .. 02 .. 05 .. 00 00 00 00 01 00 29 29 29 00 00
+    00 00 .. 00 .. 00 0f 00 .. 00 .. 01 .. 01 0e 02 .. 02 .. 05 .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 00 .. 00 .. 00 .. 00 .. 01 .. 01 .. 02 .. 02 .. 05 .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 08 08 08 08 08 08 08 08 08 08 08 08 08 08 08 08 08 .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 06 .. 06 .. 24 .. 06 .. 07 .. 07 .. 07 .. 07 .. 07 .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 06 .. 06 .. 06 .. 06 .. 07 .. 07 .. 07 .. 07 11 07 .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 06 .. 06 .. 06 .. 06 .. 07 .. 07 12 07 .. 07 .. 07 .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 29 29 29 04 04 29 29 29 00 00
+    00 00 06 29 29 29 29 29 29 01 29 01 29 00 29 29 29 00 29 00 29 29 29 29 29 04 09 15 29 0f 02 00
+    00 00 29 29 29 29 29 01 29 29 01 29 01 29 29 29 00 29 00 29 29 29 29 29 29 04 04 29 29 29 00 00
+    00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 05 05 05 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 0b .. 1e .. 09 .. 0a .. .. 13 .. 1c .. .. .. 29 05 05 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 0b .. 0c .. 09 .. 0a .. .. 25 .. 0c .. 29 29 03 29 05 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 0b .. 0c .. 09 .. 0a .. .. .. .. .. .. .. .. 29 .. .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 22 .. 0c .. 09 .. 0a .. .. 03 03 03 03 .. .. .. 06 .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 0b .. 0c .. 09 .. 0a .. 03 03 03 03 03 03 .. .. 06 .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 0b .. 0a .. 28 .. 0a .. 03 03 03 03 03 03 .. .. 06 .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 21 .. 0a .. 09 .. 0a .. 03 03 03 03 03 03 .. .. .. .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 0b .. 0a .. 09 .. 0a .. 03 03 03 03 03 03 .. .. 03 .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 0b .. 0a .. 09 .. 0a .. .. 03 03 03 03 .. 0e .. 03 .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 0b .. 1f .. 09 .. 0a .. 08 .. .. .. .. .. 0e .. 03 .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 0b .. 0a .. 09 .. 0a .. 08 .. 0d .. 26 .. 0e .. 04 .. 00 29 29 29 29 29 29 29 29 00 00
+    00 00 .. 0b .. 0a 10 09 .. 20 .. 08 .. 0d .. 0d .. 0e .. 04 .. 00 00 00 00 02 00 29 29 29 00 00
+    00 00 .. 0b .. 23 .. 09 .. 0a .. 08 .. 0d .. 0d .. 0e .. 04 .. 00 29 29 29 00 00 29 29 29 00 00
+    00 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 29 29 29 29 00 29 29 29 00 00
+    00 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+  </actionMap>
+  <info tileset="1" backgroundTile="70" timeFactor="128" encounterFrequency="50" lastMonster="4" maxEncounters="5" unknown0="0xa" unknown1="0x4" unknown9="0x2"/>
+  <battleStrings s0="69" s1="70" s2="71" s3="72" s4="73" s5="74" s6="75" s7="76" s8="77" s9="78" s10="77" s11="79" s12="80" s13="81" s14="77" s15="82" s16="77" s17="83" s18="77" s19="84" s20="85" s21="86" s22="87" s23="88" s24="89" s25="90" s26="91" s27="92" s28="93" s29="94" s30="95" s31="96" s32="97" s33="98" s34="99" s35="100" s36="101"/>
+  <actions actionClass="0x1">
+    <print id="0x0">
+      <message>17</message>
+    </print>
+    <print id="0x1">
+      <message>18</message>
+    </print>
+    <print id="0x2">
+      <message>19</message>
+    </print>
+    <print id="0x3">
+      <message>20</message>
+    </print>
+    <print id="0x4">
+      <message>21</message>
+    </print>
+    <print id="0x5">
+      <message>29</message>
+    </print>
+    <print id="0x6">
+      <message>23</message>
+    </print>
+    <print id="0x7">
+      <message>24</message>
+    </print>
+    <print id="0x8">
+      <message>25</message>
+    </print>
+    <print id="0x9">
+      <message>26</message>
+    </print>
+    <print id="0xa">
+      <message>27</message>
+    </print>
+    <print id="0xb">
+      <message>28</message>
+    </print>
+    <print id="0xc">
+      <message>33</message>
+    </print>
+    <print id="0xd">
+      <message>30</message>
+    </print>
+    <print id="0xe">
+      <message>31</message>
+    </print>
+    <print id="0xf" newActionClass="0x1" newAction="0x29">
+      <message>34</message>
+    </print>
+    <print id="0x13">
+      <message>32</message>
+    </print>
+    <print id="0x15" newActionClass="0x8" newAction="0x0">
+      <message>39</message>
+    </print>
+    <print id="0x16" newActionClass="0xc" newAction="0x8">
+      <message>46</message>
+    </print>
+    <print id="0x17" newActionClass="0xc" newAction="0x9">
+      <message>48</message>
+    </print>
+    <print id="0x18" newActionClass="0xc" newAction="0x9">
+      <message>49</message>
+    </print>
+    <print id="0x19" newActionClass="0xc" newAction="0x1">
+      <message>50</message>
+    </print>
+    <print id="0x1a" newActionClass="0x3" newAction="0x1">
+      <message>51</message>
+    </print>
+    <print id="0x1c" newActionClass="0x3" newAction="0x0">
+      <message>33</message>
+    </print>
+    <print id="0x1d" newActionClass="0x3" newAction="0x3">
+      <message>33</message>
+    </print>
+    <print id="0x1e" newActionClass="0x3" newAction="0x2">
+      <message>33</message>
+    </print>
+    <print id="0x1f" newActionClass="0x3" newAction="0x4">
+      <message>27</message>
+    </print>
+    <print id="0x20" newActionClass="0x3" newAction="0x5">
+      <message>27</message>
+    </print>
+    <print id="0x21" newActionClass="0x3" newAction="0x6">
+      <message>28</message>
+    </print>
+    <print id="0x22" newActionClass="0x3" newAction="0x7">
+      <message>28</message>
+    </print>
+    <print id="0x23" newActionClass="0x3" newAction="0x8">
+      <message>27</message>
+    </print>
+    <print id="0x24" newActionClass="0x3" newAction="0x9">
+      <message>23</message>
+    </print>
+    <print id="0x25" newActionClass="0x3" newAction="0xa">
+      <message>32</message>
+    </print>
+    <print id="0x26" newActionClass="0x3" newAction="0xb">
+      <message>30</message>
+    </print>
+    <print id="0x27" newActionClass="0x3" newAction="0xc">
+      <message>25</message>
+    </print>
+    <print id="0x28" newActionClass="0x3" newAction="0xd">
+      <message>26</message>
+    </print>
+    <print id="0x29">
+      <message>0</message>
+    </print>
+  </actions>
+  <actions actionClass="0x2">
+    <check id="0x0" passable="true" autoCheck="true" startMessage="42" passMessage="43" failMessage="44" passNewActionClass="0xc" passNewAction="0x9" failNewActionClass="0x8" failNewAction="0x1" fixedModifier="true" modifier="-1">
+      <attribute value="16" difficulty="2"/>
+      <attribute value="18" difficulty="2"/>
+    </check>
+    <check id="0x1" startMessage="7" passMessage="8" failMessage="9" passNewActionClass="0x1" passNewAction="0x29" modifierTarget="0x0">
+      <item value="9" newActionClass="0x4" newAction="0x0"/>
+      <item value="10" newActionClass="0x4" newAction="0x0"/>
+      <item value="12" newActionClass="0x4" newAction="0x0"/>
+      <item value="7" newActionClass="0x4" newAction="0x0"/>
+      <item value="11" newActionClass="0x4" newAction="0x0"/>
+      <item value="8" newActionClass="0x4" newAction="0x0"/>
+      <skill value="15" difficulty="1" newActionClass="0x4" newAction="0x1"/>
+      <attribute value="14" difficulty="1" newActionClass="0x4" newAction="0x2"/>
+      <item value="45" newActionClass="0x4" newAction="0x2"/>
+      <item value="56" newActionClass="0x4" newAction="0x2"/>
+      <item value="1" newActionClass="0x4" newAction="0x2"/>
+      <item value="53" newActionClass="0x4" newAction="0x2"/>
+      <item value="5" newActionClass="0x4" newAction="0x2"/>
+    </check>
+    <check id="0x2" startMessage="7" passMessage="8" failMessage="9" passNewActionClass="0x1" passNewAction="0x29" modifierTarget="0x0">
+      <item value="9" newActionClass="0x4" newAction="0x0"/>
+      <item value="10" newActionClass="0x4" newAction="0x0"/>
+      <item value="12" newActionClass="0x4" newAction="0x0"/>
+      <item value="7" newActionClass="0x4" newAction="0x0"/>
+      <item value="11" newActionClass="0x4" newAction="0x0"/>
+      <item value="8" newActionClass="0x4" newAction="0x0"/>
+      <skill value="15" difficulty="2" newActionClass="0x4" newAction="0x1"/>
+      <attribute value="14" difficulty="2" newActionClass="0x4" newAction="0x2"/>
+      <item value="56" newActionClass="0x4" newAction="0x2"/>
+      <item value="1" newActionClass="0x4" newAction="0x2"/>
+      <item value="53" newActionClass="0x4" newAction="0x2"/>
+      <item value="5" newActionClass="0x4" newAction="0x2"/>
+    </check>
+    <check id="0x3" passable="true" autoCheck="true" party="true" startMessage="54" passMessage="55" failMessage="56" passNewActionClass="0xc" passNewAction="0x3" failNewActionClass="0xc" failNewAction="0x3" fixedModifier="true" modifier="-1">
+      <skill value="9" difficulty="2"/>
+      <attribute value="16" difficulty="1"/>
+      <attribute value="18" difficulty="1"/>
+    </check>
+    <check id="0x4" passable="true" autoCheck="true" party="true" startMessage="54" passMessage="57" failMessage="58" passNewActionClass="0xc" passNewAction="0x4" failNewActionClass="0xc" failNewAction="0x4" fixedModifier="true" modifier="-1">
+      <skill value="9" difficulty="2"/>
+      <attribute value="16" difficulty="1"/>
+      <attribute value="18" difficulty="1"/>
+    </check>
+  </actions>
+  <actions actionClass="0x3">
+    <encounter id="0x0" visibleDistance="30" hitDistance="15" message="59" monster1="1" maxGroupSize1="3" random1="true" monster2="1" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x1" newAction="0xc"/>
+    <encounter id="0x1" visibleDistance="30" hitDistance="15" message="66" monster1="6" maxGroupSize1="1" monster2="1" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x5" newAction="0x1"/>
+    <encounter id="0x2" visibleDistance="30" hitDistance="15" message="59" monster1="1" maxGroupSize1="3" random1="true" monster2="1" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x1" newAction="0xc"/>
+    <encounter id="0x3" visibleDistance="30" hitDistance="15" message="59" monster1="1" maxGroupSize1="3" random1="true" monster2="1" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x1" newAction="0xc"/>
+    <encounter id="0x4" visibleDistance="30" hitDistance="15" message="60" monster1="5" maxGroupSize1="3" random1="true" monster2="5" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x1" newAction="0xa"/>
+    <encounter id="0x5" visibleDistance="30" hitDistance="15" message="60" monster1="5" maxGroupSize1="3" random1="true" monster2="5" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x1" newAction="0xa"/>
+    <encounter id="0x6" visibleDistance="30" hitDistance="15" message="60" monster1="5" maxGroupSize1="3" random1="true" monster2="5" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x1" newAction="0xb"/>
+    <encounter id="0x7" visibleDistance="30" hitDistance="15" message="61" monster1="3" maxGroupSize1="3" random1="true" monster2="3" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x1" newAction="0xb"/>
+    <encounter id="0x8" visibleDistance="30" hitDistance="15" message="61" monster1="3" maxGroupSize1="3" random1="true" monster2="3" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x1" newAction="0xa"/>
+    <encounter id="0x9" visibleDistance="30" hitDistance="15" message="61" monster1="3" maxGroupSize1="3" random1="true" monster2="3" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x1" newAction="0x6"/>
+    <encounter id="0xa" visibleDistance="30" hitDistance="15" message="61" monster1="3" maxGroupSize1="3" random1="true" monster2="3" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x1" newAction="0x13"/>
+    <encounter id="0xb" visibleDistance="30" hitDistance="15" message="62" monster1="4" maxGroupSize1="3" random1="true" monster2="4" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x1" newAction="0xd"/>
+    <encounter id="0xc" visibleDistance="30" hitDistance="15" message="62" monster1="4" maxGroupSize1="3" random1="true" monster2="4" maxGroupSize2="3" random2="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0xd" visibleDistance="30" hitDistance="15" message="62" monster1="4" maxGroupSize1="3" random1="true" monster2="4" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x1" newAction="0xd"/>
+    <encounter id="0xe" visibleDistance="30" hitDistance="15" message="62" monster1="4" maxGroupSize1="3" random1="true" monster2="4" maxGroupSize2="3" random2="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0xf" visibleDistance="30" hitDistance="15" message="63" monster1="7" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x10" visibleDistance="30" hitDistance="15" message="64" monster1="2" maxGroupSize1="4" random1="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x11" visibleDistance="30" hitDistance="15" message="64" monster1="2" maxGroupSize1="4" random1="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x12" visibleDistance="30" hitDistance="15" message="61" monster1="3" maxGroupSize1="3" random1="true" monster2="3" maxGroupSize2="3" random2="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+  </actions>
+  <actions actionClass="0x4">
+    <mask id="0x0" tile="55"/>
+    <mask id="0x1" tile="70"/>
+    <mask id="0x2" tile="55"/>
+    <mask id="0x3" tile="70"/>
+  </actions>
+  <actions actionClass="0x5">
+    <loot id="0x0" newActionClass="0x1" newAction="0x29">
+      <item value="45"/>
+      <item value="92" quantity="10"/>
+    </loot>
+    <loot id="0x1" newActionClass="0xc" newAction="0x2">
+      <randomMoney quantity="20"/>
+    </loot>
+    <loot id="0x4" newActionClass="0x1" newAction="0x29">
+      <item value="92" quantity="5"/>
+    </loot>
+    <loot id="0x6" newActionClass="0x1" newAction="0x29">
+      <item value="2"/>
+    </loot>
+  </actions>
+  <actions actionClass="0x6">
+    <special id="0x0" action="0x1a">02 03</special>
+    <special id="0x1" action="0x1a">02 04</special>
+    <store id="0x2" name=" AG. store  " message="22" sellFactor="2" newActionClass="0xfd" newAction="0xfd">
+      <itemType>17</itemType>
+    </store>
+  </actions>
+  <actions actionClass="0x8">
+    <dialogue id="0x0" menu="true" message="41" cancelNewActionClass="0x8" cancelNewAction="0x0" otherNewActionClass="0x8" otherNewAction="0x0">
+      <answer message="1" newActionClass="0x1" newAction="0x16"/>
+      <answer message="2" newActionClass="0x1" newAction="0x17"/>
+      <answer message="3" newActionClass="0x2" newAction="0x0"/>
+    </dialogue>
+    <dialogue id="0x1" menu="true" message="45" cancelNewActionClass="0x8" cancelNewAction="0x1" otherNewActionClass="0x8" otherNewAction="0x1">
+      <answer message="67" newActionClass="0x1" newAction="0x18"/>
+      <answer message="68" newActionClass="0xc" newAction="0x9"/>
+    </dialogue>
+    <dialogue id="0x2" menu="true" message="53">
+      <answer message="67" newActionClass="0xa" newAction="0x3"/>
+      <answer message="68" newActionClass="0xff" newAction="0xff"/>
+    </dialogue>
+  </actions>
+  <actions actionClass="0xa">
+    <transition id="0x0" relative="true" confirm="true" message="40" targetMap="9" newActionClass="0x6" newAction="0x2"/>
+    <transition id="0x1" targetX="16" targetY="18" targetMap="9" newActionClass="0x1" newAction="0x29"/>
+    <transition id="0x2" confirm="true" targetX="37" targetY="55" targetMap="0"/>
+    <transition id="0x3" targetX="30" targetY="30" targetMap="29" newActionClass="0xfd"/>
+    <transition id="0x4" confirm="true" message="47" targetX="1" targetY="2" targetMap="29"/>
+    <transition id="0x5" message="37" targetX="25" targetY="29" targetMap="9" newActionClass="0x0" newAction="0x0"/>
+  </actions>
+  <actions actionClass="0xb">
+    <impassable id="0x0" message="11"/>
+    <impassable id="0x1" message="12"/>
+    <impassable id="0x2" message="13"/>
+    <impassable id="0x3" message="14"/>
+    <impassable id="0x4" message="15"/>
+    <impassable id="0x5" message="16"/>
+    <impassable id="0x6" message="35"/>
+    <impassable id="0x7" message="36"/>
+    <impassable id="0x8"/>
+    <impassable id="0x9" message="38"/>
+  </actions>
+  <actions actionClass="0xc">
+    <alteration id="0x0" newActionClass="0x0" newAction="0x0">
+      <alter x="16" y="18" newActionClass="0x0" newAction="0x0"/>
+    </alteration>
+    <alteration id="0x1" newActionClass="0x0" newAction="0x0">
+      <alter x="5" y="19" newActionClass="0x1" newAction="0x1a"/>
+      <alter x="18" y="18" newActionClass="0x4" newAction="0x3"/>
+    </alteration>
+    <alteration id="0x2" message="52" newActionClass="0x0" newAction="0x0">
+      <alter x="7" y="14" newActionClass="0x1" newAction="0x29"/>
+      <alter x="9" y="13" newActionClass="0x1" newAction="0x29"/>
+      <alter x="10" y="14" newActionClass="0x1" newAction="0x29"/>
+      <alter x="11" y="13" newActionClass="0x1" newAction="0x29"/>
+      <alter x="12" y="14" newActionClass="0x1" newAction="0x29"/>
+      <alter x="13" y="13" newActionClass="0x1" newAction="0x29"/>
+      <alter x="16" y="14" newActionClass="0x1" newAction="0x29"/>
+      <alter x="17" y="13" newActionClass="0x1" newAction="0x29"/>
+      <alter x="18" y="14" newActionClass="0x1" newAction="0x29"/>
+      <alter x="19" y="13" newActionClass="0x1" newAction="0x29"/>
+      <alter x="26" y="13" newActionClass="0xa" newAction="0x0"/>
+      <alter x="18" y="18" newActionClass="0xb" newAction="0x8"/>
+      <alter x="18" y="17" newActionClass="0x8" newAction="0x2"/>
+      <alter x="17" y="18" newActionClass="0x8" newAction="0x2"/>
+      <alter x="18" y="19" newActionClass="0x8" newAction="0x2"/>
+      <alter unknown="0x40" x="19" y="18" newActionClass="0x8" newAction="0x2"/>
+    </alteration>
+    <alteration id="0x3">
+      <alter unknown="0x40" relative="true" newActionClass="0x6" newAction="0x0"/>
+    </alteration>
+    <alteration id="0x4">
+      <alter unknown="0x40" relative="true" newActionClass="0x6" newAction="0x1"/>
+    </alteration>
+    <alteration id="0x5" newActionClass="0xc" newAction="0x3">
+      <alter x="27" y="19" newActionClass="0x2" newAction="0x6"/>
+      <alter x="28" y="19" newActionClass="0x2" newAction="0x6"/>
+      <alter x="27" y="20" newActionClass="0x2" newAction="0x6"/>
+      <alter x="28" y="20" newActionClass="0x2" newAction="0x6"/>
+    </alteration>
+    <alteration id="0x6" newActionClass="0x2" newAction="0x7">
+      <alter x="27" y="19" newActionClass="0x2" newAction="0x7"/>
+      <alter x="28" y="19" newActionClass="0x2" newAction="0x7"/>
+      <alter x="27" y="20" newActionClass="0x2" newAction="0x7"/>
+      <alter x="28" y="20" newActionClass="0x2" newAction="0x7"/>
+    </alteration>
+    <alteration id="0x7" newActionClass="0x2" newAction="0x8">
+      <alter x="27" y="19" newActionClass="0x2" newAction="0x8"/>
+      <alter x="28" y="19" newActionClass="0x2" newAction="0x8"/>
+      <alter x="27" y="20" newActionClass="0x2" newAction="0x8"/>
+      <alter x="28" y="20" newActionClass="0x2" newAction="0x8"/>
+    </alteration>
+    <alteration id="0x8" newActionClass="0xa" newAction="0x1">
+      <alter x="29" y="13" newActionClass="0x1" newAction="0x29"/>
+      <alter x="27" y="13" newActionClass="0x1" newAction="0x29"/>
+      <alter x="18" y="18" newActionClass="0x1" newAction="0x0"/>
+      <alter x="16" y="18" newActionClass="0x1" newAction="0x19"/>
+    </alteration>
+    <alteration id="0x9">
+      <alter unknown="0x40" relative="true" newActionClass="0x8" newAction="0x0"/>
+    </alteration>
+  </actions>
+  <actions actionClass="0xf">
+    <encounter id="0x0" message="65" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x1" message="65" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x2" message="65" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x3" message="65" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x4" message="65" properName="true" newActionClass="0x0" newAction="0x0"/>
+  </actions>
+  <npcs/>
+  <monsters>
+    <monster id="0"/>
+    <monster id="1" name="Bunn\ny\nies\n" experience="10" ac="1" skill="1" randomDamage="1" maxGroupSize="4" weaponType="1" monsterType="1" picture="16"/>
+    <monster id="2" name="Desert Lizard\n\ns\n" experience="30" ac="1" skill="1" randomDamage="1" maxGroupSize="4" weaponType="1" monsterType="1" picture="54"/>
+    <monster id="3" name="Rat\n\ns\n" experience="30" skill="1" randomDamage="1" maxGroupSize="4" weaponType="1" monsterType="1" picture="16"/>
+    <monster id="4" name="Opossum\n\ns\n" experience="32" skill="1" randomDamage="1" maxGroupSize="4" weaponType="1" monsterType="1" picture="16"/>
+    <monster id="5" name="Prairie Dog\n\ns\n" experience="40" ac="1" skill="1" randomDamage="1" maxGroupSize="5" weaponType="1" monsterType="1" picture="16"/>
+    <monster id="6" name="Harry" experience="80" ac="2" skill="1" randomDamage="6" maxGroupSize="1" weaponType="1" monsterType="1" picture="55"/>
+    <monster id="7" name="Deranged Farmer\n\ns\n" experience="10" skill="15" randomDamage="2" maxGroupSize="1" weaponType="3" monsterType="3" picture="44"/>
+  </monsters>
+  <strings>
+    <string id="0"></string>
+    <string id="1">1</string>
+    <string id="2">2</string>
+    <string id="3">3</string>
+    <string id="4">4</string>
+    <string id="5">5</string>
+    <string id="6">6</string>
+    <string id="7">\rA heavy wooden door, reinforced with steel, defies you to open it.\r</string>
+    <string id="8">\rThe door is open.\r</string>
+    <string id="9">\rYou scratched the door, but it still defies you.\r</string>
+    <string id="10">\rThere seems to be a dead body here.\r</string>
+    <string id="11">\rA high wall made of adobe with several black scorch marks stands here. Barbed wire lines the top.\r</string>
+    <string id="12">\rThere is an unoccupied flamethrower at the top of  the wall.\r</string>
+    <string id="13">\rThe wall here is a mosaic of heating coils.\r</string>
+    <string id="14">\rA large satellite tracking dish, aimed to the north. The white metal struts and plates shine as if they were new.\r</string>
+    <string id="15">\rThis is the aluminum wall of the sales booth.\r</string>
+    <string id="16">\rA wall of steel with the faint outline of a door in the center. A crudely written sign reads: ROOT CELLAR.\r</string>
+    <string id="17">\rTall trees filled with oranges and lemons the size of basketballs. The air is heavy with the scent of citrus.\r</string>
+    <string id="18">\rTrees bursting with grapefruit 5 feet wide.\r</string>
+    <string id="19">\rTen foot long bananas. The locals use hardened banana peels as canoes on the river.\r</string>
+    <string id="20">\rUnusually hairy peaches, much larger than normal.\r</string>
+    <string id="21">\rFour foot tall pears, pleasingly plump, perfectly prepared possibly, to plummet perilously from their precarious perches and pummel any passing pedestrian to a pasty, putrid, pulp.\r</string>
+    <string id="22">\x07Agricultural Station general store.\r</string>
+    <string id="23">\rHundreds of six foot tall strawberries surround you.\r</string>
+    <string id="24">\rThree foot tall grapes seem to be everywhere.\r</string>
+    <string id="25">\rGiant tomatoes, hopefully not of the killer variety.\r</string>
+    <string id="26">\rBig Beans.\r</string>
+    <string id="27">\rWheat. A lot of it.\r</string>
+    <string id="28">\rEars of corn, eight feet high.\r</string>
+    <string id="29">\rPineapples in the large economy size, 15 feet tall.\r</string>
+    <string id="30">\rYou have entered a green Sequoia Broccoli Forest. The 30 foot tall stalks tower over your puny human body.\r</string>
+    <string id="31">\rPeas the size of bowling balls lie on the ground in pods.\r</string>
+    <string id="32">\rSpuds. Freshly unearthed potatoes watch you with their eyes.\r</string>
+    <string id="33">\rCarrots lay here. The 15 foot tall targets of long-eared varmints.\r</string>
+    <string id="34">\rOutside the sales booth, a group of ten men with axes, hoes, rakes, and shovels, shake their heads with despair.\r</string>
+    <string id="35">\rA catapult aimed at the north wall.\r</string>
+    <string id="36">\rA catapult aimed at the south wall.\r</string>
+    <string id="37">\rThe Old Man nods and leads you to Veggie Center, communal living quarters of the Veggies, where he smiles and leaves.\r</string>
+    <string id="38">\rThe sales booth is closed today on account of varmint attacks.\r</string>
+    <string id="39">\rRead paragraph 56.\r</string>
+    <string id="40">\rEntering the Agricultural Station general store.\r</string>
+    <string id="41">What do you say?\r\r\x11\x101) Offer to help\r\x102) Ask about payment\r\x103) Just passing through\r</string>
+    <string id="42">\rMiguel looks unhappy, nods, and walks away. The other men also seem to understand your reluctance.\r</string>
+    <string id="43">\rYou see something and duck just in time to avoid a huge tomato thrown by a small boy.\r</string>
+    <string id="44">\rYou see something and turn just in time to stop a rock with your forehead. Miguel yells at a small boy.\r</string>
+    <string id="45">Do you seek revenge (Y/N)?\r\r\x11\x10Yes\r\x10No\r</string>
+    <string id="46">\rMiguel is pleased. The other farmers smile and thank you. They lead you to the vegetable field.\r</string>
+    <string id="47">\rYou descend down a dark tunnel.\r</string>
+    <string id="48">\rPay? The farmers look at each other, then dig through their pockets and offer you several bits of colored glass and some shiny pieces of aluminum. Seeing the confused look on your face, Miguel says they will also give you food.\r</string>
+    <string id="49">\rYou reach for your weapon. The men move away. You note that a flamethrower is pointed at you. You change your mind.\r</string>
+    <string id="50">\rRead paragraph 84.\r</string>
+    <string id="51">\rA large farmer is walking around among the green leaves of this carrot patch. Sensing your approach, he stops moving and watches you with his ominous eyes, filled with hatred for you and your kind. This is Harry, the Bunny Master.\r</string>
+    <string id="52">\rThe Old Man is pleased to see that you have killed Harry. His destruction will demoralize the remaining varmints. A holiday will be declared in your honor. Farmers cheer nearby. Murdering the cute little animals has rescued their major food supply.\r</string>
+    <string id="53">The Old man asks, "Do you want to see my Root Cellar?"\r\r\x11\x10Yes\r\x10No\r</string>
+    <string id="54">\rYou hear a whistling noise overhead. It is getting louder.\r</string>
+    <string id="55">\rYou barely manage to jump aside as a giant rotten tomato explodes onto the ground, showering you with juice.\r</string>
+    <string id="56">You look up just in time to see a giant rotten tomato come down on top of you. Now you lie in a pool of tomato juice.\r</string>
+    <string id="57">\rYou leap sideways, barely avoiding a giant pineapple that plows deeply into the ground where you were standing.\r</string>
+    <string id="58">You look up as a giant banana peel slaps you to the ground.\r</string>
+    <string id="59">Armored, long-eared, pink and white lumps of fur are hopping around here. A wall of pink eyes pops up in front of you.\r</string>
+    <string id="60">Many holes surrounded by packed earth. An armored sentinel with brown fur spots you and barks an alarm.\r</string>
+    <string id="61">Three foot tall black rats race toward you with gleaming eyes and razor-sharp teeth.\r</string>
+    <string id="62">At your approach, opossums mass for an attack and waddle toward you.\r</string>
+    <string id="63">Your sharp senses detect the movement of a large white object moving among the thick stalks of wheat!\r</string>
+    <string id="64">You see what look like large chunks of the ground leaping toward you.\r</string>
+    <string id="65">Something just moved in the field.\r</string>
+    <string id="66">You see a large man.\r</string>
+    <string id="67">Y</string>
+    <string id="68">N</string>
+    <string id="69">\x0b attacks</string>
+    <string id="70">\x0b fires</string>
+    <string id="71">\x0b discharges a burst</string>
+    <string id="72">Sub-atomic particles burst from \x0b</string>
+    <string id="73">\x0b burns a clip</string>
+    <string id="74">\x0b chucks an explosive charge</string>
+    <string id="75">\x0b blasts a rocket off</string>
+    <string id="76">hits \x0f </string>
+    <string id="77"> for </string>
+    <string id="78">nails \x0f </string>
+    <string id="79">\x0f </string>
+    <string id="80"> \nis\nare\n raked in a crossfire of bullets for </string>
+    <string id="81">irradiates \x0f </string>
+    <string id="82">scores a dark chasm in \x0f </string>
+    <string id="83">incinerates \x0f </string>
+    <string id="84"> but fail\ns\n\n to inflict any damage</string>
+    <string id="85"> drills </string>
+    <string id="86"> blazes away at </string>
+    <string id="87"> sprays </string>
+    <string id="88"> triggers a burst at </string>
+    <string id="89"> fries </string>
+    <string id="90"> toasts </string>
+    <string id="91"> and hits for </string>
+    <string id="92"> brutalize\ns\n\n </string>
+    <string id="93"> hammer\ns\n\n </string>
+    <string id="94"> thrashes </string>
+    <string id="95"> bashes </string>
+    <string id="96"> bowls into </string>
+    <string id="97"> pounces on </string>
+    <string id="98"> and frags \x0ehim\x0eher\x0eit\x0e</string>
+    <string id="99"> and shreds \x0ehim\x0eher\x0eit\x0e</string>
+    <string id="100"> blasting \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n into ground round</string>
+    <string id="101"> exploding \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n like a blood sausage</string>
+  </strings>
+  <tileMap unknown="0xadf">
+    .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 8e 36 36 36 36 8e 36 36 36 90 ..
+    .. 8e 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 90 .. .. .. .. 90 .. .. .. 90 ..
+    .. 90 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 48 .. .. .. .. 90 .. .. .. 90 ..
+    .. 90 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 90 .. .. .. .. 90 .. .. .. 90 ..
+    .. 90 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 8e 36 36 36 49 8f .. .. .. 90 ..
+    .. 90 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 42 .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 41 .. 41 .. 41 .. 41 .. 18 .. 41 .. 41 .. 41 .. 41 .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 41 .. 41 .. 41 .. 41 .. 19 .. 41 .. 41 .. 41 .. 41 .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 41 .. 41 .. 41 .. 41 .. 1a .. 41 .. 41 .. 41 .. 41 .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 8e 36 36 36 49 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 8f .. .. .. 8e 8f .. .. .. 8f ..
+    .. 90 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 90 44 .. .. .. .. ..
+    .. 90 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 36 8f .. .. .. 90 ..
+    .. 8e 36 49 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 29 5e 5e 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 3f .. 40 .. 40 .. 41 .. .. 42 .. 42 .. .. .. .. 29 5e 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 3f .. 40 .. 40 .. 41 .. .. 42 .. 42 .. .. .. 43 .. 29 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 3f .. 40 .. 40 .. 41 .. .. .. .. .. .. .. .. .. .. .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 3f .. 40 .. 40 .. 41 .. .. 52 5d 5d 53 .. .. .. 18 .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 3f .. 40 .. 40 .. 41 .. 52 94 54 54 93 53 .. .. 19 .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 3f .. 40 .. 40 .. 41 .. 5d 54 57 58 54 5d .. .. 1a .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 3f .. 40 .. 40 .. 41 .. 5d 54 55 56 54 5d .. .. .. .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 3f .. 40 .. 40 .. 41 .. 50 96 54 54 95 51 .. .. 42 .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 3f .. 40 .. 40 .. 41 .. .. 50 5d 5d 51 .. 41 .. 42 .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 3f .. 40 .. 40 .. 41 .. 41 .. .. .. .. .. 41 .. 42 .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 3f .. 40 .. 40 .. 41 .. 41 .. 41 .. 41 .. 41 .. 42 .. 90 .. .. .. .. .. .. .. .. 90 ..
+    .. 90 .. 3f .. 40 .. 40 .. 41 .. 41 .. 41 .. 41 .. 41 .. 42 .. 8e 36 36 36 49 90 .. .. .. 90 ..
+    .. 90 .. 3f .. 40 .. 40 .. 41 .. 41 .. 41 .. 41 .. 41 .. 42 .. 90 .. .. .. .. 90 .. .. .. 90 ..
+    .. 90 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 48 .. .. .. .. 90 .. .. .. 90 ..
+    .. 90 .. 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 8f ..
+  </tileMap>
+</map>

@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map xmlns="http://ailis.de/wlandsuite" mapSize="32" msqSize="8895" tilemapOffset="8550" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ailis.de/wlandsuite http://www.ailis.de/~k/software/projects/wlandsuite/schemas/wlandsuite.xsd">
+  <actionClassMap>
+    bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    b21b....99.9.9bbbb.22a2a22a.b1bb
+    b11b999......9bbbb..2.bbb222b11b
+    bbbb....9..9..bbbb.2a2....a.bbbb
+    b..9.99.99.999bbbb..2b....a....b
+    b.99.9.9......bbbb..2b....2aa2ab
+    b....9...9.b22bbbbb.2b...2...b2b
+    b999.99..99b11bbbbb.a22222a2.b2b
+    b....9..9.9b21bbbbb......222..ab
+    b.99999..bbbbbbb4bbbbbb....2a2ab
+    b........b3.....1....3b......2.b
+    b.9.b1b.9b............b..b1b...b
+    b.9.b1b9.b1.........1.b..b1b...b
+    b...b1b.9b...bbb2bb...b..b1b...b
+    bbbbb2bbbb...b1111b...bbbb2bbbbb
+    bbbbb1.1.1..1b11a1b1..1...1bbbbb
+    bbbbb1...1..1b1111b1..1.1.1bbbbb
+    bbbbb2bbbb...b1111b...bbbb2bbbbb
+    b...b1b..b...bbbbbb...b..b1b...b
+    b.2.b1b..b............b..b1b.b.b
+    b...b1b..b.....1......b..b1b.b.b
+    b.2......b3..........3b........b
+    b....2..1bbbbbbbbbbbbbb..bbb2..b
+    b..2...2......bbbb.......1.....b
+    b.............bbbb...2bbb...b..b
+    b...2.12..2...bbbb........b.b..b
+    b.2...........bbbb.....b..b.bb.b
+    b....2..2..2..bbbb..2..b.......b
+    bbbbc.2.......bbbb..b..b..b.bbbb
+    b11b4c....2...bbbb..b..b..b.b11b
+    bb1bc...2.....bbbb..b..2....b1bb
+    bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  </actionClassMap>
+  <actionMap>
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 10 00 00 .. .. .. .. 01 01 .. 00 .. 02 00 00 00 00 .. 3a 27 23 24 23 24 24 23 .. 00 00 01 00
+    00 00 00 00 02 01 00 .. .. .. .. .. .. 01 00 00 00 00 .. .. 28 .. 02 02 02 34 23 32 00 00 00 00
+    00 00 00 00 .. .. .. .. 00 .. .. 00 .. .. 00 00 00 00 .. 34 13 32 .. .. .. .. 1e .. 00 00 00 00
+    00 .. .. 00 .. 02 00 .. 01 02 .. 01 01 00 00 00 00 00 .. .. 29 02 .. .. .. .. 1e .. .. .. .. 00
+    00 .. 00 01 .. 00 .. 00 .. .. .. .. .. .. 00 00 00 00 .. .. 29 02 .. .. .. .. 22 23 23 21 23 00
+    00 .. .. .. .. 01 .. .. .. 00 .. 00 18 18 00 00 00 00 02 .. 29 02 .. .. .. 31 .. .. .. 02 1f 00
+    00 01 00 00 .. 01 00 .. .. 01 00 00 00 00 00 00 00 00 02 .. 1b 2c 2d 2d 2d 30 1b 1b .. 02 1f 00
+    00 .. .. .. .. 02 .. .. 00 .. 02 00 15 00 00 00 00 00 02 .. .. .. .. .. .. 35 35 1b .. .. 1e 00
+    00 .. 00 01 00 00 01 .. .. 00 00 00 00 00 00 00 06 00 00 00 00 00 00 .. .. .. .. 1d 1b 1e 1d 00
+    00 .. .. .. .. .. .. .. .. 00 0f .. .. .. .. .. 00 .. .. .. .. 11 00 .. .. .. .. .. .. 35 .. 00
+    00 .. 00 .. 00 0f 00 .. 00 00 .. .. .. .. .. .. .. .. .. .. .. .. 00 .. .. 00 10 00 .. .. .. 00
+    00 .. 01 .. 00 00 00 00 .. 00 00 .. .. .. .. .. .. .. .. .. 00 .. 00 .. .. 00 00 00 .. .. .. 00
+    00 .. .. .. 00 00 00 .. 01 00 .. .. .. 00 00 00 17 00 00 .. .. .. 00 .. .. 00 00 00 .. .. .. 00
+    00 00 00 00 00 00 00 00 00 00 .. .. .. 00 00 00 00 00 00 .. .. .. 00 00 00 00 00 00 00 00 00 00
+    00 00 00 00 00 05 .. 00 .. 04 .. .. 09 00 00 00 00 00 00 0b .. .. 04 .. .. .. 07 00 00 00 00 00
+    00 00 00 00 00 06 .. .. .. 04 .. .. 0a 00 00 00 00 00 00 0c .. .. 04 .. 00 .. 08 00 00 00 00 00
+    00 00 00 00 00 00 00 00 00 00 .. .. .. 00 00 00 00 00 00 .. .. .. 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. 00 00 00 .. .. 00 .. .. .. 00 00 00 00 00 00 .. .. .. 00 .. .. 00 00 00 .. .. .. 00
+    00 .. 01 .. 00 00 00 .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. 00 .. .. 00 00 00 .. 04 .. 00
+    00 .. .. .. 00 12 00 .. .. 00 .. .. .. .. .. 00 .. .. .. .. .. .. 00 .. .. 00 11 00 .. 04 .. 00
+    00 .. 02 .. .. .. .. .. .. 00 10 .. .. .. .. .. .. .. .. .. .. 12 00 .. .. .. .. .. .. .. .. 00
+    00 .. .. .. .. 03 .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 .. .. 04 04 04 3d .. .. 00
+    00 .. .. 04 .. .. .. 05 .. .. .. .. .. .. 00 00 00 00 .. .. .. .. .. .. .. 00 .. .. .. .. .. 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 .. .. .. 3e 04 03 04 .. .. .. 03 .. .. 00
+    00 .. .. .. 06 .. 00 07 .. .. 08 .. .. .. 00 00 00 00 .. .. .. .. .. .. .. .. 04 .. 04 .. .. 00
+    00 .. 09 .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 .. .. .. .. .. 04 .. .. 03 .. 03 03 .. 00
+    00 .. .. .. .. 0a .. .. 0b .. .. 0c .. .. 00 00 00 00 .. .. 3f .. .. 04 .. .. .. .. .. .. .. 00
+    00 00 00 00 08 .. 0d .. .. .. .. .. .. .. 00 00 00 00 .. .. 04 .. .. 04 .. .. 03 .. 00 00 00 00
+    00 00 00 00 02 08 .. .. .. .. 0e .. .. .. 00 00 00 00 .. .. 03 .. .. 06 .. .. 04 .. 00 00 00 00
+    00 01 00 00 08 .. .. .. 0f .. .. .. .. .. 00 00 00 00 .. .. 04 .. .. 40 .. .. .. .. 00 00 01 00
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+  </actionMap>
+  <info tileset="8" timeFactor="64" encounterFrequency="70" lastMonster="6" maxEncounters="6" unknown0="0x7" unknown1="0xb" unknown9="0x1"/>
+  <battleStrings s0="97" s1="98" s2="99" s3="100" s4="101" s5="102" s6="103" s7="104" s8="105" s9="106" s10="105" s11="107" s12="108" s13="109" s14="105" s15="110" s16="105" s17="111" s18="105" s19="112" s20="113" s21="114" s22="115" s23="116" s24="117" s25="118" s26="119" s27="120" s28="121" s29="122" s30="123" s31="124" s32="125" s33="126" s34="127" s35="128" s36="129"/>
+  <actions actionClass="0x1">
+    <print id="0x0">
+      <message>0</message>
+    </print>
+    <print id="0x3" newActionClass="0x6" newAction="0x7">
+      <message>24</message>
+    </print>
+    <print id="0x4">
+      <message>27</message>
+    </print>
+    <print id="0x5">
+      <message>28</message>
+    </print>
+    <print id="0x6">
+      <message>29</message>
+    </print>
+    <print id="0x7">
+      <message>30</message>
+    </print>
+    <print id="0x8">
+      <message>31</message>
+    </print>
+    <print id="0x9">
+      <message>32</message>
+    </print>
+    <print id="0xa">
+      <message>33</message>
+    </print>
+    <print id="0xb">
+      <message>34</message>
+    </print>
+    <print id="0xc">
+      <message>35</message>
+    </print>
+    <print id="0xd">
+      <message>6</message>
+    </print>
+    <print id="0xf">
+      <message>72</message>
+    </print>
+    <print id="0x10">
+      <message>73</message>
+    </print>
+    <print id="0x11">
+      <message>74</message>
+    </print>
+    <print id="0x12">
+      <message>75</message>
+    </print>
+    <print id="0x13" newActionClass="0x0" newAction="0x0">
+      <message>79</message>
+    </print>
+    <print id="0x14" newActionClass="0x0" newAction="0x0">
+      <message>80</message>
+    </print>
+    <print id="0x15">
+      <message>82</message>
+      <message>84</message>
+      <message>83</message>
+      <message>88</message>
+    </print>
+    <print id="0x16">
+      <message>82</message>
+      <message>85</message>
+      <message>83</message>
+      <message>88</message>
+    </print>
+    <print id="0x17">
+      <message>82</message>
+      <message>86</message>
+      <message>83</message>
+      <message>88</message>
+    </print>
+    <print id="0x18" newActionClass="0xc" newAction="0x6">
+      <message>82</message>
+      <message>87</message>
+      <message>83</message>
+      <message>89</message>
+    </print>
+    <print id="0x19" newActionClass="0xc" newAction="0x6">
+      <message>94</message>
+    </print>
+    <print id="0x1a" newActionClass="0xc" newAction="0x7">
+      <message>95</message>
+      <message>84</message>
+      <message>83</message>
+      <message>96</message>
+    </print>
+    <print id="0x1b" newActionClass="0xc" newAction="0xf">
+      <message>95</message>
+      <message>85</message>
+      <message>83</message>
+      <message>96</message>
+    </print>
+    <print id="0x1c" newActionClass="0xc" newAction="0x10">
+      <message>95</message>
+      <message>86</message>
+      <message>83</message>
+      <message>96</message>
+    </print>
+    <print id="0x1d" newActionClass="0xc" newAction="0x3">
+      <message>95</message>
+      <message>87</message>
+      <message>83</message>
+      <message>11</message>
+    </print>
+  </actions>
+  <actions actionClass="0x2">
+    <check id="0x0" startMessage="15" failMessage="26" modifierTarget="0x0">
+      <attribute value="14" difficulty="30" newActionClass="0x4" newAction="0x1"/>
+      <item value="7" newActionClass="0x4" newAction="0x0"/>
+      <item value="11" newActionClass="0x4" newAction="0x0"/>
+      <item value="10" newActionClass="0x4" newAction="0x0"/>
+      <item value="12" newActionClass="0x4" newAction="0x0"/>
+    </check>
+    <check id="0x1" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x1" modifierTarget="0x0">
+      <attribute value="14" difficulty="6"/>
+      <skill value="1" difficulty="6"/>
+      <skill value="5" difficulty="6"/>
+    </check>
+    <check id="0x2" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x2" modifierTarget="0x0">
+      <attribute value="14" difficulty="6"/>
+      <skill value="1" difficulty="6"/>
+      <skill value="5" difficulty="6"/>
+    </check>
+    <check id="0x3" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x3" modifierTarget="0x0">
+      <attribute value="14" difficulty="6"/>
+      <skill value="1" difficulty="6"/>
+      <skill value="5" difficulty="6"/>
+    </check>
+    <check id="0x4" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x4" modifierTarget="0x0">
+      <attribute value="14" difficulty="6"/>
+      <skill value="1" difficulty="6"/>
+      <skill value="5" difficulty="6"/>
+    </check>
+    <check id="0x5" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x5" modifierTarget="0x0">
+      <attribute value="14" difficulty="6"/>
+      <skill value="1" difficulty="6"/>
+      <skill value="5" difficulty="6"/>
+    </check>
+    <check id="0x6" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x6" modifierTarget="0x0">
+      <attribute value="14" difficulty="6"/>
+      <skill value="1" difficulty="6"/>
+      <skill value="5" difficulty="6"/>
+    </check>
+    <check id="0x7" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x7" modifierTarget="0x0">
+      <attribute value="14" difficulty="6"/>
+      <skill value="1" difficulty="6"/>
+      <skill value="5" difficulty="6"/>
+    </check>
+    <check id="0x8" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x8" modifierTarget="0x0">
+      <attribute value="14" difficulty="6"/>
+      <skill value="1" difficulty="6"/>
+      <skill value="5" difficulty="6"/>
+    </check>
+    <check id="0x9" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x9" modifierTarget="0x0">
+      <attribute value="14" difficulty="6"/>
+      <skill value="1" difficulty="6"/>
+      <skill value="5" difficulty="6"/>
+    </check>
+    <check id="0xa" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0xa" modifierTarget="0x0">
+      <attribute value="14" difficulty="7"/>
+      <skill value="1" difficulty="7"/>
+      <skill value="5" difficulty="7"/>
+    </check>
+    <check id="0xb" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0xb" modifierTarget="0x0">
+      <attribute value="14" difficulty="7"/>
+      <skill value="1" difficulty="7"/>
+      <skill value="5" difficulty="7"/>
+    </check>
+    <check id="0xc" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0xc" modifierTarget="0x0">
+      <attribute value="14" difficulty="7"/>
+      <skill value="1" difficulty="7"/>
+      <skill value="5" difficulty="7"/>
+    </check>
+    <check id="0xd" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0xd" modifierTarget="0x0">
+      <attribute value="14" difficulty="8"/>
+      <skill value="1" difficulty="8"/>
+      <skill value="5" difficulty="8"/>
+    </check>
+    <check id="0xe" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0xe" modifierTarget="0x0">
+      <attribute value="14" difficulty="8"/>
+      <skill value="1" difficulty="8"/>
+      <skill value="5" difficulty="8"/>
+    </check>
+    <check id="0xf" autoCheck="true" party="true" passAll="true" startMessage="1" passMessage="2" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0xf" modifierTarget="0x0">
+      <attribute value="14" difficulty="8"/>
+      <skill value="1" difficulty="8"/>
+      <skill value="5" difficulty="8"/>
+    </check>
+    <check id="0x10" startMessage="4" passNewActionClass="0xc" passNewAction="0x0" modifierTarget="0x0">
+      <item value="61"/>
+    </check>
+    <check id="0x11" startMessage="7" passNewActionClass="0xc" passNewAction="0x1" modifierTarget="0x0">
+      <item value="73"/>
+    </check>
+    <check id="0x12" startMessage="9" passNewActionClass="0xc" passNewAction="0x2" modifierTarget="0x0">
+      <item value="78"/>
+    </check>
+    <check id="0x13" startMessage="10" passNewActionClass="0x1" passNewAction="0x18" modifierTarget="0x0">
+      <item value="79"/>
+    </check>
+    <check id="0x15" passable="true" startMessage="19" passMessage="20" passNewActionClass="0xc" passNewAction="0x4" modifierTarget="0x0">
+      <item value="76"/>
+    </check>
+    <check id="0x17" unknown1="true" startMessage="15" failMessage="26" modifierTarget="0x0">
+      <item value="87" newActionClass="0x4" newAction="0x4"/>
+      <attribute value="14" difficulty="30" newActionClass="0x4" newAction="0x1"/>
+      <item value="7" newActionClass="0x4" newAction="0x0"/>
+      <item value="11" newActionClass="0x4" newAction="0x0"/>
+      <item value="10" newActionClass="0x4" newAction="0x0"/>
+      <item value="12" newActionClass="0x4" newAction="0x0"/>
+    </check>
+    <check id="0x18" unknown1="true" startMessage="36" passMessage="37" failMessage="26" passNewActionClass="0xc" passNewAction="0xc" modifierTarget="0x0">
+      <attribute value="14" difficulty="30"/>
+      <item value="7"/>
+      <item value="11"/>
+      <item value="10"/>
+      <item value="12"/>
+    </check>
+    <check id="0x1b" autoCheck="true" damageAll="true" startMessage="16" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x16" modifier="-4">
+      <skill value="37"/>
+    </check>
+    <check id="0x1d" autoCheck="true" damageAll="true" startMessage="16" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x1a" modifier="-4">
+      <skill value="37"/>
+    </check>
+    <check id="0x1e" autoCheck="true" party="true" passAll="true" passMessage="21" passNewActionClass="0xa" passNewAction="0x22" failNewActionClass="0xa" failNewAction="0x1a" modifierTarget="0x0">
+      <skill value="13" difficulty="4"/>
+      <attribute value="19" difficulty="7"/>
+      <attribute value="18" difficulty="7"/>
+      <attribute value="16" difficulty="11"/>
+    </check>
+    <check id="0x1f" autoCheck="true" damageAll="true" startMessage="44" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x22" modifier="-8">
+      <skill value="37"/>
+    </check>
+    <check id="0x21" autoCheck="true" damageAll="true" startMessage="44" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x12" modifier="-8">
+      <skill value="37"/>
+    </check>
+    <check id="0x22" autoCheck="true" party="true" passAll="true" passMessage="46" passNewActionClass="0xa" passNewAction="0x12" failNewActionClass="0xa" failNewAction="0x22" modifierTarget="0x0">
+      <skill value="13" difficulty="4"/>
+      <attribute value="19" difficulty="7"/>
+      <attribute value="18" difficulty="7"/>
+      <attribute value="16" difficulty="11"/>
+    </check>
+    <check id="0x23" autoCheck="true" party="true" passAll="true" passMessage="21" passNewActionClass="0xa" passNewAction="0x12" failNewActionClass="0xa" failNewAction="0x22" modifierTarget="0x0">
+      <skill value="13" difficulty="4"/>
+      <attribute value="19" difficulty="7"/>
+      <attribute value="18" difficulty="7"/>
+      <attribute value="16" difficulty="11"/>
+    </check>
+    <check id="0x24" autoCheck="true" damageAll="true" startMessage="16" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x12" modifier="-4">
+      <skill value="37"/>
+    </check>
+    <check id="0x27" autoCheck="true" party="true" passAll="true" passMessage="46" passNewActionClass="0xa" passNewAction="0x12" failNewActionClass="0xa" failNewAction="0x16" modifierTarget="0x0">
+      <skill value="13" difficulty="4"/>
+      <attribute value="19" difficulty="7"/>
+      <attribute value="18" difficulty="7"/>
+      <attribute value="16" difficulty="11"/>
+    </check>
+    <check id="0x28" autoCheck="true" party="true" passAll="true" passMessage="21" passNewActionClass="0xa" passNewAction="0x12" failNewActionClass="0xa" failNewAction="0x16" modifierTarget="0x0">
+      <skill value="13" difficulty="4"/>
+      <attribute value="19" difficulty="7"/>
+      <attribute value="18" difficulty="7"/>
+      <attribute value="16" difficulty="11"/>
+    </check>
+    <check id="0x29" autoCheck="true" damageAll="true" startMessage="47" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x16" modifier="-12">
+      <skill value="37"/>
+    </check>
+    <check id="0x2c" autoCheck="true" party="true" passAll="true" passMessage="21" passNewActionClass="0xa" passNewAction="0x16" failNewActionClass="0xa" failNewAction="0x1a" modifierTarget="0x0">
+      <skill value="13" difficulty="4"/>
+      <attribute value="19" difficulty="7"/>
+      <attribute value="18" difficulty="7"/>
+      <attribute value="16" difficulty="11"/>
+    </check>
+    <check id="0x2d" autoCheck="true" damageAll="true" startMessage="47" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xa" failNewAction="0x1a" modifier="-12">
+      <skill value="37"/>
+    </check>
+    <check id="0x30" autoCheck="true" party="true" passAll="true" passMessage="46" passNewActionClass="0xa" passNewAction="0x16" failNewActionClass="0xa" failNewAction="0x1a" modifierTarget="0x0">
+      <skill value="13" difficulty="4"/>
+      <attribute value="19" difficulty="7"/>
+      <attribute value="18" difficulty="7"/>
+      <attribute value="16" difficulty="11"/>
+    </check>
+    <check id="0x31" autoCheck="true" party="true" passAll="true" failMessage="48" failNewActionClass="0xa" failNewAction="0x16" modifierTarget="0x0">
+      <attribute value="19" difficulty="3"/>
+      <attribute value="18" difficulty="3"/>
+    </check>
+    <check id="0x32" autoCheck="true" party="true" passAll="true" failMessage="48" failNewActionClass="0xa" failNewAction="0x12" modifierTarget="0x0">
+      <attribute value="19" difficulty="3"/>
+      <attribute value="18" difficulty="3"/>
+    </check>
+    <check id="0x34" autoCheck="true" party="true" passAll="true" failMessage="49" failNewActionClass="0xa" failNewAction="0x1a" modifierTarget="0x0">
+      <attribute value="19" difficulty="3"/>
+      <attribute value="18" difficulty="3"/>
+    </check>
+    <check id="0x35" autoCheck="true" party="true" passAll="true" failMessage="48" failNewActionClass="0xa" failNewAction="0x22" modifierTarget="0x0">
+      <attribute value="19" difficulty="3"/>
+      <attribute value="18" difficulty="3"/>
+    </check>
+    <check id="0x3a" startMessage="50" passMessage="51" passNewActionClass="0x6" passNewAction="0x8" modifierTarget="0x0">
+      <item value="45"/>
+      <item value="53"/>
+      <item value="56"/>
+      <item value="7"/>
+      <item value="6"/>
+      <item value="8"/>
+      <item value="11"/>
+      <item value="9"/>
+      <item value="10"/>
+      <item value="12"/>
+    </check>
+    <check id="0x3d" passable="true" startMessage="56" passMessage="57" failMessage="58" passNewActionClass="0x6" passNewAction="0x1" failNewActionClass="0x6" failNewAction="0x0" modifierTarget="0x0">
+      <skill value="22" difficulty="3"/>
+      <skill value="30" difficulty="5"/>
+      <attribute value="16" difficulty="7"/>
+      <attribute value="15" difficulty="8"/>
+    </check>
+    <check id="0x3e" passable="true" startMessage="53" passMessage="54" failMessage="55" passNewActionClass="0x6" passNewAction="0x3" failNewActionClass="0x6" failNewAction="0x2" modifierTarget="0x0">
+      <skill value="22" difficulty="3"/>
+      <skill value="30" difficulty="5"/>
+      <attribute value="16" difficulty="7"/>
+      <attribute value="15" difficulty="8"/>
+    </check>
+    <check id="0x3f" passable="true" unknown1="true" startMessage="59" passMessage="60" failMessage="61" passNewActionClass="0xc" passNewAction="0x9" failNewActionClass="0xc" failNewAction="0xa" modifierTarget="0x0">
+      <skill value="30" difficulty="5"/>
+      <attribute value="16" difficulty="7"/>
+      <attribute value="15" difficulty="9"/>
+    </check>
+    <check id="0x40" passable="true" autoCheck="true" party="true" passAll="true" passMessage="62" passNewActionClass="0x0" passNewAction="0x0" modifierTarget="0x0">
+      <skill value="27" difficulty="4"/>
+      <skill value="9" difficulty="8"/>
+    </check>
+    <check id="0x41" passable="true" startMessage="63" passMessage="64" failMessage="65" passNewActionClass="0xc" passNewAction="0xe" failNewActionClass="0x2" failNewAction="0x40" modifierTarget="0x0">
+      <skill value="30" difficulty="4"/>
+      <attribute value="16" difficulty="7"/>
+      <attribute value="15" difficulty="8"/>
+    </check>
+  </actions>
+  <actions actionClass="0x3">
+    <encounter id="0x0" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x1" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x2" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x3" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x4" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x5" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x6" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x7" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x8" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x9" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0xa" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0xb" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0xc" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0xd" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0xe" visibleDistance="50" hitDistance="15" message="3" monster1="3" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0xf" visibleDistance="150" hitDistance="150" message="39" monster1="12" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x10" visibleDistance="150" hitDistance="150" message="39" monster1="12" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x11" visibleDistance="150" hitDistance="150" message="39" monster1="12" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x12" visibleDistance="150" hitDistance="150" message="39" monster1="12" maxGroupSize1="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x13" visibleDistance="150" hitDistance="150" message="43" monster1="11" maxGroupSize1="1" properName="true" newActionClass="0x4" newAction="0xa"/>
+  </actions>
+  <actions actionClass="0x4">
+    <mask id="0x0" tile="72" message="66"/>
+    <mask id="0x1" tile="66" message="67"/>
+    <mask id="0x2" tile="1"/>
+    <mask id="0x4" tile="51"/>
+    <mask id="0x6" tile="96" impassable="true" message="22"/>
+    <mask id="0x9" tile="72" message="68"/>
+    <mask id="0xa" tile="51"/>
+  </actions>
+  <actions actionClass="0x6">
+    <special id="0x0" action="0x15">fd</special>
+    <special id="0x1" action="0x13">fd</special>
+    <special id="0x2" action="0x18">fd</special>
+    <special id="0x3" action="0x12">fd</special>
+    <special id="0x4" action="0x23">01 03</special>
+    <special id="0x5" action="0x1a">01 13</special>
+    <special id="0x6" action="0x1a">01 14</special>
+    <special id="0x7" action="0xe">ff</special>
+    <special id="0x8" action="0x28">0c 0b</special>
+  </actions>
+  <actions actionClass="0x8">
+    <dialogue id="0x0" menu="true" message="90" otherNewActionClass="0xc" otherNewAction="0x5">
+      <answer message="14" newActionClass="0xc" newAction="0x5"/>
+    </dialogue>
+    <dialogue id="0x1" menu="true" message="12">
+      <answer message="14" newActionClass="0x1" newAction="0x19"/>
+      <answer message="93" newActionClass="0x1" newAction="0x19"/>
+      <answer message="13" newActionClass="0x1" newAction="0x19"/>
+      <answer message="92" newActionClass="0x1" newAction="0x19"/>
+    </dialogue>
+    <dialogue id="0x2" menu="true" message="12">
+      <answer message="14" newActionClass="0x1" newAction="0x1a"/>
+      <answer message="93" newActionClass="0x1" newAction="0x19"/>
+      <answer message="13" newActionClass="0x1" newAction="0x19"/>
+      <answer message="92" newActionClass="0x1" newAction="0x19"/>
+    </dialogue>
+    <dialogue id="0x3" menu="true" message="12">
+      <answer message="14" newActionClass="0x1" newAction="0x19"/>
+      <answer message="93" newActionClass="0x1" newAction="0x1b"/>
+      <answer message="13" newActionClass="0x1" newAction="0x19"/>
+      <answer message="92" newActionClass="0x1" newAction="0x19"/>
+    </dialogue>
+    <dialogue id="0x4" menu="true" message="12">
+      <answer message="14" newActionClass="0x1" newAction="0x19"/>
+      <answer message="93" newActionClass="0x1" newAction="0x19"/>
+      <answer message="13" newActionClass="0x1" newAction="0x1c"/>
+      <answer message="92" newActionClass="0x1" newAction="0x19"/>
+    </dialogue>
+    <dialogue id="0x5" menu="true" message="12">
+      <answer message="14" newActionClass="0x1" newAction="0x19"/>
+      <answer message="93" newActionClass="0x1" newAction="0x19"/>
+      <answer message="13" newActionClass="0x1" newAction="0x19"/>
+      <answer message="92" newActionClass="0x1" newAction="0x1d"/>
+    </dialogue>
+  </actions>
+  <actions actionClass="0x9">
+    <radiation id="0x0" ignoreArmor="true" message="69" damage="2"/>
+    <radiation id="0x1" message="70" damage="3"/>
+    <radiation id="0x2" ignoreArmor="true" message="71" damage="4"/>
+  </actions>
+  <actions actionClass="0xa">
+    <transition id="0x0" confirm="true" targetX="2" targetY="30" targetMap="18"/>
+    <transition id="0x1" relative="true" targetY="-1" targetMap="20" newActionClass="0x3" newAction="0x0"/>
+    <transition id="0x2" relative="true" targetY="-1" targetMap="20" newActionClass="0x3" newAction="0x1"/>
+    <transition id="0x3" relative="true" targetY="-1" targetMap="20" newActionClass="0x3" newAction="0x2"/>
+    <transition id="0x4" relative="true" targetY="-1" targetMap="20" newActionClass="0x3" newAction="0x3"/>
+    <transition id="0x5" relative="true" targetY="-1" targetMap="20" newActionClass="0x3" newAction="0x4"/>
+    <transition id="0x6" relative="true" targetY="-1" targetMap="20" newActionClass="0x3" newAction="0x5"/>
+    <transition id="0x7" relative="true" targetY="-1" targetMap="20" newActionClass="0x3" newAction="0x6"/>
+    <transition id="0x8" relative="true" targetY="-1" targetMap="20" newActionClass="0x3" newAction="0x7"/>
+    <transition id="0x9" relative="true" targetY="-1" targetMap="20" newActionClass="0x3" newAction="0x8"/>
+    <transition id="0xa" relative="true" targetY="-1" targetMap="20" newActionClass="0x3" newAction="0x9"/>
+    <transition id="0xb" relative="true" targetX="1" targetY="-1" targetMap="20" newActionClass="0x3" newAction="0xa"/>
+    <transition id="0xc" relative="true" targetX="1" targetY="-1" targetMap="20" newActionClass="0x3" newAction="0xb"/>
+    <transition id="0xd" relative="true" targetX="1" targetY="-1" targetMap="20" newActionClass="0x3" newAction="0xc"/>
+    <transition id="0xe" relative="true" targetX="1" targetY="-1" targetMap="20" newActionClass="0x3" newAction="0xd"/>
+    <transition id="0xf" relative="true" targetX="-1" targetMap="20" newActionClass="0x3" newAction="0xe"/>
+    <transition id="0x10" confirm="true" message="8" targetX="16" targetY="8" targetMap="17"/>
+    <transition id="0x11" message="5" targetX="30" targetY="10" targetMap="20" newActionClass="0xa" newAction="0x1d"/>
+    <transition id="0x12" relative="true" targetX="-1" targetMap="20" newActionClass="0xfd"/>
+    <transition id="0x13" relative="true" targetY="1" targetMap="20"/>
+    <transition id="0x16" relative="true" targetY="1" targetMap="20" newActionClass="0xfd"/>
+    <transition id="0x1a" relative="true" targetX="1" targetMap="20" newActionClass="0xfd"/>
+    <transition id="0x1b" relative="true" targetX="1" targetMap="20"/>
+    <transition id="0x1d" relative="true" targetY="-1" targetMap="20" newActionClass="0xa" newAction="0x11"/>
+    <transition id="0x1e" relative="true" targetY="-1" targetMap="20"/>
+    <transition id="0x22" relative="true" targetY="-1" targetMap="20" newActionClass="0xfd"/>
+    <transition id="0x23" relative="true" targetX="-1" targetMap="20"/>
+  </actions>
+  <actions actionClass="0xb">
+    <impassable id="0x0" message="22"/>
+    <impassable id="0x1" message="25"/>
+    <impassable id="0x2" message="76"/>
+    <impassable id="0x3" message="77"/>
+    <impassable id="0x4" message="78"/>
+    <impassable id="0x5" message="81"/>
+    <impassable id="0x6" message="38"/>
+  </actions>
+  <actions actionClass="0xc">
+    <alteration id="0x0" newActionClass="0x1" newAction="0x15">
+      <alter unknown="0x40" x="30" y="1" newActionClass="0x2" newAction="0x11"/>
+    </alteration>
+    <alteration id="0x1" newActionClass="0x1" newAction="0x16">
+      <alter unknown="0x40" x="30" y="30" newActionClass="0x2" newAction="0x12"/>
+    </alteration>
+    <alteration id="0x2" newActionClass="0x1" newAction="0x17">
+      <alter unknown="0x40" x="1" y="30" newActionClass="0x2" newAction="0x13"/>
+    </alteration>
+    <alteration id="0x3" newActionClass="0x6" newAction="0x4">
+      <alter x="2" y="3" newActionClass="0x4" newAction="0x4"/>
+      <alter x="28" y="2" newActionClass="0x4" newAction="0xa"/>
+      <alter x="3" y="29" newActionClass="0x4" newAction="0x4"/>
+      <alter x="29" y="28" newActionClass="0x4" newAction="0xa"/>
+      <alter x="16" y="16" newActionClass="0x1" newAction="0x4"/>
+      <alter x="10" y="12" newActionClass="0x6" newAction="0x5"/>
+      <alter x="24" y="16" newActionClass="0x6" newAction="0x5"/>
+      <alter x="20" y="12" newActionClass="0x6" newAction="0x5"/>
+      <alter x="15" y="20" newActionClass="0x6" newAction="0x6"/>
+      <alter x="6" y="25" newActionClass="0x6" newAction="0x6"/>
+      <alter x="25" y="23" newActionClass="0x6" newAction="0x6"/>
+      <alter x="16" y="10" newActionClass="0x6" newAction="0x6"/>
+      <alter x="7" y="15" newActionClass="0x6" newAction="0x5"/>
+      <alter x="1" y="1" newActionClass="0x6" newAction="0x7"/>
+      <alter x="30" y="1" newActionClass="0x6" newAction="0x7"/>
+      <alter x="30" y="30" newActionClass="0x6" newAction="0x7"/>
+      <alter x="1" y="30" newActionClass="0x6" newAction="0x7"/>
+      <alter x="16" y="9" newActionClass="0xa" newAction="0x10"/>
+    </alteration>
+    <alteration id="0x4" message="23" newActionClass="0x0" newAction="0x0">
+      <alter x="2" y="3" newActionClass="0x4" newAction="0x4"/>
+      <alter x="28" y="2" newActionClass="0x4" newAction="0xa"/>
+      <alter x="3" y="29" newActionClass="0x4" newAction="0x4"/>
+      <alter x="29" y="28" newActionClass="0x4" newAction="0xa"/>
+      <alter unknown="0x40" x="23" y="29" newActionClass="0x2" newAction="0x41"/>
+    </alteration>
+    <alteration id="0x5" message="91">
+      <alter x="2" y="3" newActionClass="0xb" newAction="0x0"/>
+      <alter x="28" y="2" newActionClass="0xb" newAction="0x0"/>
+      <alter x="3" y="29" newActionClass="0xb" newAction="0x0"/>
+      <alter x="29" y="28" newActionClass="0xb" newAction="0x0"/>
+      <alter x="1" y="1" newActionClass="0x8" newAction="0x2"/>
+      <alter x="30" y="1" newActionClass="0x8" newAction="0x1"/>
+      <alter x="30" y="30" newActionClass="0x8" newAction="0x1"/>
+      <alter x="1" y="30" newActionClass="0x8" newAction="0x1"/>
+    </alteration>
+    <alteration id="0x6" newActionClass="0x8" newAction="0x0">
+      <alter x="2" y="3" newActionClass="0x4" newAction="0x4"/>
+      <alter x="28" y="2" newActionClass="0x4" newAction="0xa"/>
+      <alter x="3" y="29" newActionClass="0x4" newAction="0x4"/>
+      <alter x="29" y="28" newActionClass="0x4" newAction="0xa"/>
+      <alter x="1" y="1" newActionClass="0x8" newAction="0x0"/>
+      <alter x="30" y="1" newActionClass="0x8" newAction="0x0"/>
+      <alter x="30" y="30" newActionClass="0x8" newAction="0x0"/>
+      <alter x="1" y="30" newActionClass="0x8" newAction="0x0"/>
+    </alteration>
+    <alteration id="0x7">
+      <alter x="30" y="30" newActionClass="0x8" newAction="0x3"/>
+      <alter unknown="0x40" relative="true" newActionClass="0x8" newAction="0x1"/>
+    </alteration>
+    <alteration id="0x8" message="45" newActionClass="0x0" newAction="0x0">
+      <alter x="4" y="29" newActionClass="0x3" newAction="0x13"/>
+      <alter x="4" y="28" newActionClass="0x0" newAction="0x0"/>
+      <alter x="4" y="30" newActionClass="0x0" newAction="0x0"/>
+      <alter x="5" y="29" newActionClass="0x0" newAction="0x0"/>
+    </alteration>
+    <alteration id="0x9" newActionClass="0xfd">
+      <alter x="27" y="7" newActionClass="0xa" newAction="0x13"/>
+      <alter x="27" y="8" newActionClass="0xa" newAction="0x13"/>
+      <alter x="27" y="9" newActionClass="0xa" newAction="0x1b"/>
+      <alter x="30" y="7" newActionClass="0xa" newAction="0x1e"/>
+      <alter x="30" y="6" newActionClass="0xa" newAction="0x1e"/>
+      <alter x="29" y="5" newActionClass="0xa" newAction="0x23"/>
+      <alter x="25" y="1" newActionClass="0xa" newAction="0x23"/>
+      <alter x="24" y="1" newActionClass="0xa" newAction="0x23"/>
+      <alter x="22" y="1" newActionClass="0xa" newAction="0x23"/>
+      <alter x="20" y="4" newActionClass="0xa" newAction="0x13"/>
+      <alter x="20" y="5" newActionClass="0xa" newAction="0x13"/>
+      <alter x="20" y="6" newActionClass="0xa" newAction="0x13"/>
+      <alter x="22" y="7" newActionClass="0xa" newAction="0x1b"/>
+      <alter x="23" y="7" newActionClass="0xa" newAction="0x1b"/>
+      <alter unknown="0x40" x="24" y="7" newActionClass="0xa" newAction="0x1b"/>
+    </alteration>
+    <alteration id="0xa" newActionClass="0xfd">
+      <alter x="27" y="7" newActionClass="0x2" newAction="0x1b"/>
+      <alter x="27" y="8" newActionClass="0x2" newAction="0x1b"/>
+      <alter x="27" y="9" newActionClass="0x2" newAction="0x1b"/>
+      <alter x="30" y="7" newActionClass="0x2" newAction="0x1f"/>
+      <alter x="30" y="6" newActionClass="0x2" newAction="0x1f"/>
+      <alter x="29" y="5" newActionClass="0x2" newAction="0x21"/>
+      <alter x="25" y="1" newActionClass="0x2" newAction="0x24"/>
+      <alter x="24" y="1" newActionClass="0x2" newAction="0x24"/>
+      <alter x="22" y="1" newActionClass="0x2" newAction="0x24"/>
+      <alter x="20" y="4" newActionClass="0x2" newAction="0x29"/>
+      <alter x="20" y="5" newActionClass="0x2" newAction="0x29"/>
+      <alter x="20" y="6" newActionClass="0x2" newAction="0x29"/>
+      <alter x="22" y="7" newActionClass="0x2" newAction="0x2d"/>
+      <alter x="23" y="7" newActionClass="0x2" newAction="0x2d"/>
+      <alter unknown="0x40" x="24" y="7" newActionClass="0x2" newAction="0x2d"/>
+    </alteration>
+    <alteration id="0xb" newActionClass="0x0" newAction="0x0">
+      <alter x="20" y="1" newActionClass="0x1" newAction="0xd"/>
+      <alter x="20" y="2" newActionClass="0x1" newAction="0xd"/>
+      <alter x="20" y="3" newActionClass="0x1" newAction="0xd"/>
+      <alter x="20" y="4" newActionClass="0x1" newAction="0xd"/>
+      <alter x="20" y="5" newActionClass="0x1" newAction="0xd"/>
+      <alter x="20" y="6" newActionClass="0x1" newAction="0xd"/>
+      <alter x="20" y="7" newActionClass="0x1" newAction="0xd"/>
+      <alter x="21" y="7" newActionClass="0x1" newAction="0xd"/>
+      <alter x="22" y="7" newActionClass="0x1" newAction="0xd"/>
+      <alter x="23" y="7" newActionClass="0x1" newAction="0xd"/>
+      <alter x="24" y="7" newActionClass="0x1" newAction="0xd"/>
+      <alter x="25" y="7" newActionClass="0x1" newAction="0xd"/>
+      <alter x="26" y="7" newActionClass="0x1" newAction="0xd"/>
+      <alter x="27" y="7" newActionClass="0x1" newAction="0xd"/>
+      <alter x="27" y="8" newActionClass="0x1" newAction="0xd"/>
+      <alter x="27" y="9" newActionClass="0x1" newAction="0xd"/>
+      <alter x="28" y="9" newActionClass="0x1" newAction="0xd"/>
+      <alter x="29" y="9" newActionClass="0x1" newAction="0xd"/>
+      <alter x="30" y="9" newActionClass="0x1" newAction="0xd"/>
+      <alter x="30" y="8" newActionClass="0x1" newAction="0xd"/>
+      <alter x="30" y="7" newActionClass="0x1" newAction="0xd"/>
+      <alter x="30" y="6" newActionClass="0x1" newAction="0xd"/>
+      <alter x="30" y="5" newActionClass="0x1" newAction="0xd"/>
+      <alter x="29" y="5" newActionClass="0x1" newAction="0xd"/>
+      <alter x="28" y="5" newActionClass="0x1" newAction="0xd"/>
+      <alter x="27" y="5" newActionClass="0x1" newAction="0xd"/>
+      <alter x="26" y="5" newActionClass="0x1" newAction="0xd"/>
+      <alter x="26" y="4" newActionClass="0x1" newAction="0xd"/>
+      <alter x="26" y="3" newActionClass="0x1" newAction="0xd"/>
+      <alter x="26" y="2" newActionClass="0x1" newAction="0xd"/>
+      <alter x="26" y="1" newActionClass="0x1" newAction="0xd"/>
+      <alter x="25" y="1" newActionClass="0x1" newAction="0xd"/>
+      <alter x="24" y="1" newActionClass="0x1" newAction="0xd"/>
+      <alter x="23" y="1" newActionClass="0x1" newAction="0xd"/>
+      <alter x="22" y="1" newActionClass="0x1" newAction="0xd"/>
+      <alter x="21" y="1" newActionClass="0x1" newAction="0xd"/>
+      <alter x="25" y="2" newActionClass="0x0" newAction="0x0"/>
+      <alter x="27" y="2" newActionClass="0x0" newAction="0x0"/>
+      <alter x="25" y="6" newActionClass="0x0" newAction="0x0"/>
+      <alter x="25" y="8" newActionClass="0x0" newAction="0x0"/>
+      <alter x="26" y="8" newActionClass="0x0" newAction="0x0"/>
+      <alter x="29" y="10" newActionClass="0x0" newAction="0x0"/>
+      <alter x="21" y="3" newActionClass="0x0" newAction="0x0"/>
+      <alter x="19" y="3" newActionClass="0x0" newAction="0x0"/>
+      <alter x="20" y="27" newActionClass="0xb" newAction="0x5"/>
+      <alter unknown="0x28" x="19" y="1" newActionClass="0x0" newAction="0x0"/>
+    </alteration>
+    <alteration id="0xc">
+      <alter x="12" y="6" newActionClass="0x4" newAction="0x9"/>
+      <alter x="13" y="6" newActionClass="0x4" newAction="0x9"/>
+    </alteration>
+    <alteration id="0xe" newActionClass="0xfd">
+      <alter x="2" y="3" newActionClass="0x4" newAction="0x4"/>
+      <alter x="28" y="2" newActionClass="0x4" newAction="0xa"/>
+      <alter x="3" y="29" newActionClass="0x4" newAction="0x4"/>
+      <alter unknown="0x40" x="29" y="28" newActionClass="0x4" newAction="0xa"/>
+    </alteration>
+    <alteration id="0xf">
+      <alter x="1" y="30" newActionClass="0x8" newAction="0x4"/>
+      <alter unknown="0x40" relative="true" newActionClass="0x8" newAction="0x1"/>
+    </alteration>
+    <alteration id="0x10">
+      <alter x="30" y="1" newActionClass="0x8" newAction="0x5"/>
+      <alter unknown="0x40" relative="true" newActionClass="0x8" newAction="0x1"/>
+    </alteration>
+  </actions>
+  <actions actionClass="0xf">
+    <encounter id="0x0" message="40" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x1" message="41" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x2" message="42" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x3" message="42" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x4" message="41" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x5" message="40" properName="true" newActionClass="0x0" newAction="0x0"/>
+  </actions>
+  <npcs/>
+  <monsters>
+    <monster id="0"/>
+    <monster id="1" name="Laser Pod Blaster\n\ns\n" experience="50" ac="12" skill="30" fixedDamage="5" randomDamage="10" maxGroupSize="2" weaponType="6" monsterType="5" picture="77"/>
+    <monster id="2" name="Titanium Clawer\n\ns\n" experience="70" ac="8" skill="3" fixedDamage="12" randomDamage="14" maxGroupSize="5" weaponType="1" monsterType="5" picture="14"/>
+    <monster id="3" name="Silver Strangler\n\ns\n" experience="75" ac="10" skill="1" fixedDamage="12" randomDamage="11" maxGroupSize="5" weaponType="1" monsterType="5" picture="67"/>
+    <monster id="4" name="Silicon Sniper\n\ns\n" experience="75" ac="10" skill="30" fixedDamage="2" randomDamage="11" maxGroupSize="5" weaponType="6" monsterType="5" picture="67"/>
+    <monster id="5" name="Hunter\n\ns\n" experience="90" ac="8" skill="30" randomDamage="13" maxGroupSize="5" weaponType="6" monsterType="5" picture="77"/>
+    <monster id="6" name="Killer\n\ns\n" experience="100" ac="8" skill="30" fixedDamage="4" randomDamage="13" maxGroupSize="4" weaponType="6" monsterType="5" picture="77"/>
+    <monster id="7" name="VTOL Auto-fire Robot\n\ns\n" experience="135" ac="7" skill="30" fixedDamage="5" randomDamage="14" maxGroupSize="5" weaponType="6" monsterType="5" picture="62"/>
+    <monster id="8" name="Threshing Crawler\n\ns\n" experience="260" ac="7" skill="3" fixedDamage="5" randomDamage="18" maxGroupSize="1" weaponType="1" monsterType="5" picture="64"/>
+    <monster id="9" name="Steel Reaver\n\ns\n" experience="160" ac="10" skill="30" randomDamage="15" maxGroupSize="5" weaponType="6" monsterType="5" picture="67"/>
+    <monster id="10" name="Xenon Laser Cannon\n\ns\n" experience="250" ac="12" skill="30" randomDamage="16" maxGroupSize="1" weaponType="6" monsterType="5" picture="73"/>
+    <monster id="11" name="Fusion Octotron\n\ns\n" experience="390" ac="10" skill="30" fixedDamage="3" randomDamage="19" maxGroupSize="3" weaponType="6" monsterType="5" picture="66"/>
+    <monster id="12" name="Particle Beam Gattlin\n\ns\n" experience="150" ac="10" skill="60" fixedDamage="5" randomDamage="17" maxGroupSize="1" weaponType="6" monsterType="5" picture="73"/>
+  </monsters>
+  <strings>
+    <string id="0"></string>
+    <string id="1">\rA robot rises from the floor in front of you. It starts to wrestle with you.\r</string>
+    <string id="2">\rYour superior brawling skills defeated the robot.\r</string>
+    <string id="3">The robot pushes you back and attacks.\r</string>
+    <string id="4">\rThis is a black three foot high cylinder. There is a small slot in the side.\r</string>
+    <string id="5">\rYou are not a repairable robot. GET OFF.\r</string>
+    <string id="6">\rThe conveyor belt is not working.\r</string>
+    <string id="7">\rThis is a yellow cylinder with a slot in the top.\r</string>
+    <string id="8">\rESCAPE POD ACTIVATED. NEXT POD BEING PREPARED.\r</string>
+    <string id="9">\rThis is a purple white cylinder glowing faintly. There is a black slot on the side facing you.\r</string>
+    <string id="10">\rThis cylinder glows with a blue white light. In that glow you can see a small slot on the wall. \r</string>
+    <string id="11">\rALERT! Self destruction sequence activated. All personnel evacuate the base. This is not a test.\r</string>
+    <string id="12">A small control panel with four lights blinking out of sequence is before you.\r\r\x11\x10Red.\r\x10Yellow.\r\x10Green.\r\x10Blue.\r</string>
+    <string id="13">G</string>
+    <string id="14">R</string>
+    <string id="15">\rThe way is blocked by a heavy titanium-steel door. There is a card slot in the center.\r</string>
+    <string id="16">\rAll your dents are being pounded out of you.\r</string>
+    <string id="17">\x07The screen shows a clock counting down. It shows </string>
+    <string id="18">.\r\x06</string>
+    <string id="19">\rBefore you is the main power panel of the reactor core. It appears to have a missing part and is not functional.\r</string>
+    <string id="20">\rNothing seems to happen on the panel but in the distance you hear a low rumbling.\r</string>
+    <string id="21">\rYou got lucky and were able to slip off.\r</string>
+    <string id="22">\rThese walls are made of a shiny indestructible alloy.\r</string>
+    <string id="23">\r"All stations powered," announces a loud computer voice.\r</string>
+    <string id="24">\rSELF DESTRUCT IRREVERSIBLE!  STATION NOW DETONATING! You hear several explosions in the background.\r</string>
+    <string id="25">\rA force-field blocks you.\r</string>
+    <string id="26">\rThis door is harder to open than it appears.\r</string>
+    <string id="27">\rOn the wall in front of you are two arrows with messages. You can't read them from here.\r</string>
+    <string id="28">\rAn arrow shaped plaque on the wall points to the right. The message on it reads -REACTOR CORE ROOM-.\r</string>
+    <string id="29">\rThe arrow on the wall indicates that the OSHA room is on the left.\r</string>
+    <string id="30">\rCarved in the wall the arrow's message indicates that the Robot Maintenence Room is on the left.\r</string>
+    <string id="31">\rA neon sign on the wall points to the right. It forms the words Security Electronics.\r</string>
+    <string id="32">\rAn arrow points to the left with the message THIS WAY.\r</string>
+    <string id="33">\rAn arrow points to the right with the message THAT WAY.\r</string>
+    <string id="34">\rA sign points to the right. THIS WAY OUT.\r</string>
+    <string id="35">\rThe sign points left. The message says OTHER WAY OUT.\r</string>
+    <string id="36">\rIn front of you is a floor to ceiling glass-steel wall. Beyond are the reactor controls.\r</string>
+    <string id="37">\rThe wall has shattered into a thousand pieces! You were lucky and didn't get cut.\r</string>
+    <string id="38">\rThis section is not working.\r</string>
+    <string id="39">Intruder alert! Intruder alert!\r</string>
+    <string id="40">A security robot attacks you from a hidden door.\r</string>
+    <string id="41">This security robot doesn't like your snooping.\r</string>
+    <string id="42">Security robots are climbing out of the walls.\r</string>
+    <string id="43">The Giant Robot is so tall it touches the ceiling. You'll have to get rid of it if you want to get past.\r</string>
+    <string id="44">\rThe bolt tightening equipment has grabbed you.\r</string>
+    <string id="45">\rThe floor in front of you slowly opens and a Giant Robot rises up to block your path.\r</string>
+    <string id="46">\rYou grabbed an overhead bar and swung off the belt.\r</string>
+    <string id="47">\rYou are surrounded by the heat and flames of the welding machines.\r</string>
+    <string id="48">\rOh No! you've been caught by the machine and pulled on to the belt.\r</string>
+    <string id="49">\rOops! The repair machines thought you were a robot and have put you on the belt.\r</string>
+    <string id="50">\rThe belt machinery is very delicate here.\r</string>
+    <string id="51">\rThe conveyor belt sounds like it is destroying itself as it grinds to a halt.\r</string>
+    <string id="52">\rAs you tried to jam the belt you got caught by the machine and pulled on to the belt.\r</string>
+    <string id="53">\rThere are eleven light plates on the panel and several are lit.\r</string>
+    <string id="54">\rOne of the light panels turned off.\r</string>
+    <string id="55">\rAnother light panel has turned on.\r</string>
+    <string id="56">\rA message on a screen reads Security Check Interval.\r</string>
+    <string id="57">\rThe screen reads Interval Reduced.\r</string>
+    <string id="58">\rThe screen reads Interval Increased.\r</string>
+    <string id="59">\rYou see a gray oval with five light panels on it.\r</string>
+    <string id="60">\rThe lights are now off.\r</string>
+    <string id="61">\rThe lights are on.\r</string>
+    <string id="62">\rThe fine print reads Cylinder Closing System.\r</string>
+    <string id="63">\rYou see a square with all four corners lit up.\r</string>
+    <string id="64">\rAll four corners are lit up.\r</string>
+    <string id="65">\rAll four corners are now dark.\r</string>
+    <string id="66">\rLittle pieces of door are all over the place.\r</string>
+    <string id="67">\rThis door has been knocked over against the wall.\r</string>
+    <string id="68">\rPieces of glass crunch underfoot.\r</string>
+    <string id="69">\rOn the floor is an open container of U235.\r</string>
+    <string id="70">\rThe floor is covered with Plutonium dust.\r</string>
+    <string id="71">\rA pile of Wastelandium glows brightly here.\r</string>
+    <string id="72">\rRead paragraph 47.\r</string>
+    <string id="73">\rRead paragraph 79.\r</string>
+    <string id="74">\rRead paragraph 130.\r</string>
+    <string id="75">\rRead paragraph 118.\r</string>
+    <string id="76">\rNo one but a SUPER genius would be able to understand the workings of this machine.\r</string>
+    <string id="77">\rThis is a tall rectangle of metal and light fixtures.\r</string>
+    <string id="78">\rMany lights and wires make up this electronic system.\r</string>
+    <string id="79">\rYou hear several explosions in the background.\r</string>
+    <string id="80">\rYou feel the earth shake from the explosions.\r</string>
+    <string id="81">\rThis control panel is shorted out and smoking.\r</string>
+    <string id="82">\rStation </string>
+    <string id="83"> activated. </string>
+    <string id="84">1</string>
+    <string id="85">2</string>
+    <string id="86">3</string>
+    <string id="87">4</string>
+    <string id="88">\rWaiting for final station lock.\r</string>
+    <string id="89">\r</string>
+    <string id="90">Press button to activate safety procedure #1342-666.\r</string>
+    <string id="91">\r"Safety procedure #1342-666 activated." You hear a hissing sound followed by a loud slam. You turn around and notice that the panel behind you has been sealed shut.\r</string>
+    <string id="92">B</string>
+    <string id="93">Y</string>
+    <string id="94">\r"Incorrect activation sequence. Procedure aborted." You hear a hissing sound as the panel behind you opens.\r</string>
+    <string id="95">\rPhase </string>
+    <string id="96">Continue procedure.\r</string>
+    <string id="97">\x0b attacks</string>
+    <string id="98">\x0b fires</string>
+    <string id="99">\x0b's gun lets fly</string>
+    <string id="100">Energy blasts pulse from \x0b</string>
+    <string id="101">\x0b empties a clip</string>
+    <string id="102">\x0b hurls a handful of death</string>
+    <string id="103">\x0b fires a rocket</string>
+    <string id="104">hits \x0f </string>
+    <string id="105"> for </string>
+    <string id="106">nails \x0f </string>
+    <string id="107">\x0f </string>
+    <string id="108"> \nis\nare\n filled full of lead taking </string>
+    <string id="109">ignites \x0f </string>
+    <string id="110">blows a hole in \x0f </string>
+    <string id="111">immolates \x0f </string>
+    <string id="112"> but fail\ns\n\n to inflict any damage</string>
+    <string id="113"> drills </string>
+    <string id="114"> blazes away at </string>
+    <string id="115"> sprays </string>
+    <string id="116"> triggers a burst at </string>
+    <string id="117"> fries </string>
+    <string id="118"> toasts </string>
+    <string id="119"> and hits for </string>
+    <string id="120"> hammer\ns\n\n </string>
+    <string id="121"> brutalize\ns\n\n </string>
+    <string id="122"> claws </string>
+    <string id="123"> bashes </string>
+    <string id="124"> pounds at </string>
+    <string id="125"> rips into </string>
+    <string id="126"> and peppers \x0ehim\x0eher\x0eit\x0e</string>
+    <string id="127"> and shreds \x0ehim\x0eher\x0eit\x0e</string>
+    <string id="128"> leaving \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n in a ghastly pool of 30 weight on the floor</string>
+    <string id="129"> disintegrating \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n into a rain of silicon dust</string>
+  </strings>
+  <tileMap unknown="0xa59">
+    63 60 60 63 60 60 60 60 60 60 60 60 60 60 16 16 16 63 60 60 60 60 60 60 60 60 60 60 63 60 60 61
+    61 2d 33 61 33 33 33 33 33 33 33 33 33 33 16 16 16 61 33 3c 0e 52 1c 52 1c 1c 23 33 61 33 2d 61
+    61 33 33 61 33 33 33 33 33 33 33 33 33 33 16 16 16 61 33 33 51 33 3c 3c 3c 33 51 33 61 33 33 61
+    63 60 60 62 33 33 33 33 33 33 33 33 33 33 16 16 16 61 33 33 51 33 33 33 33 33 51 33 60 60 60 61
+    61 33 33 33 33 33 33 33 33 33 33 33 33 33 16 16 16 61 33 33 4a 3c 33 33 33 33 51 33 33 33 33 61
+    61 33 33 33 33 33 33 33 33 33 33 33 33 33 16 16 16 61 33 33 4a 3c 33 33 33 33 37 52 52 49 23 61
+    61 33 33 33 33 33 33 33 33 33 33 61 5b 5b 16 16 16 61 3a 33 4a 3c 33 33 33 33 33 33 33 3c 3d 61
+    61 33 33 33 33 33 33 33 33 33 33 61 33 33 16 16 16 61 3c 33 37 52 1d 1d 1d 52 52 2a 33 3c 3d 61
+    61 33 33 33 33 33 33 33 33 33 33 61 3a 33 16 16 16 61 3c 33 33 33 33 33 33 33 33 2a 33 33 51 61
+    61 33 33 33 33 33 33 33 33 63 60 60 60 60 60 60 1b 60 60 60 60 60 61 33 33 33 33 1c 52 52 36 61
+    61 33 33 33 33 33 33 33 33 61 33 33 33 33 33 33 33 33 33 33 33 33 61 33 33 33 33 33 33 33 33 61
+    61 33 33 33 61 33 61 33 33 61 33 33 33 33 33 33 33 33 33 33 33 33 61 33 33 61 33 61 33 33 33 61
+    61 33 33 33 61 33 61 33 33 61 33 33 33 33 33 33 33 33 33 33 33 33 61 33 33 61 33 61 33 33 33 61
+    61 33 33 33 61 33 61 33 33 61 33 33 33 63 60 60 39 60 61 33 33 33 61 33 33 61 33 61 33 33 33 61
+    63 60 60 60 63 39 60 60 60 62 33 33 33 61 29 29 29 29 61 33 33 33 60 60 60 60 39 63 60 60 60 61
+    61 33 33 33 61 33 33 33 33 33 33 33 33 61 29 29 2e 29 61 33 33 33 33 33 33 33 33 61 33 33 33 61
+    61 33 33 33 61 33 33 33 33 33 33 33 33 61 29 29 29 29 61 33 33 33 33 33 33 33 33 61 33 33 33 61
+    63 60 60 60 63 39 63 60 60 61 33 33 33 61 29 29 29 29 61 33 33 33 63 60 60 63 39 63 60 60 60 61
+    61 33 33 33 61 33 61 33 33 61 33 33 33 60 60 60 60 60 62 33 33 33 61 33 33 61 33 61 33 33 33 61
+    61 33 33 33 61 33 61 33 33 61 33 33 33 33 33 33 33 33 33 33 33 33 61 33 33 61 33 61 33 3c 33 61
+    61 33 33 33 62 33 62 33 33 61 33 33 33 33 33 33 33 33 33 33 33 33 61 33 33 62 33 62 33 3a 33 61
+    61 33 33 33 33 33 33 33 33 61 33 33 33 33 33 33 33 33 33 33 33 33 61 33 33 33 33 33 33 33 33 61
+    61 33 33 33 33 33 33 33 33 60 60 60 60 60 63 60 60 63 60 60 60 60 62 33 33 3c 3c 3c 3a 33 33 61
+    61 33 33 33 33 33 33 33 33 33 33 33 33 33 61 33 33 61 33 33 33 33 33 33 33 33 33 33 33 33 33 61
+    61 33 33 33 33 33 33 33 33 33 33 33 33 33 61 33 33 61 33 33 33 3a 3c 3b 3b 33 33 33 3c 33 33 61
+    61 33 33 33 33 33 33 33 33 33 33 33 33 33 61 33 33 61 33 33 33 33 33 33 33 33 3c 33 3c 33 33 61
+    61 33 33 33 33 33 33 33 33 33 33 33 33 33 61 33 33 61 33 33 33 33 33 3c 33 33 3a 33 3c 3b 33 61
+    61 33 33 33 33 33 33 33 33 33 33 33 33 33 61 33 33 61 33 33 3a 33 33 3b 33 33 33 33 33 33 33 61
+    63 60 60 61 33 33 33 33 33 33 33 33 33 33 61 33 33 61 33 33 3c 33 33 3c 33 33 3c 33 63 60 60 61
+    61 33 33 61 68 33 33 33 33 33 33 33 33 33 61 33 33 61 33 33 3d 33 33 3a 33 33 3d 33 61 33 33 61
+    61 2d 33 61 33 33 33 33 33 33 33 33 33 33 61 33 33 61 33 33 3c 33 33 33 33 33 33 33 61 33 2d 61
+    60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 62
+  </tileMap>
+</map>

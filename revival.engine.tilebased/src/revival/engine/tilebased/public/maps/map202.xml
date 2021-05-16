@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map xmlns="http://ailis.de/wlandsuite" mapSize="64" msqSize="12357" tilemapOffset="9664" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ailis.de/wlandsuite http://www.ailis.de/~k/software/projects/wlandsuite/schemas/wlandsuite.xsd">
+  <actionClassMap>
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    a...............1..............1...............................a
+    a...........1..................1...........1.....13...1........a
+    a.........2.........bab.bab.bab....babbbb...........bb.....bbabb
+    a.3....2............bbb.bbb.bbb....bbbbbb....bbab...abb....bbbbb
+    a.....2.........2...bab.bbb..bbb...bb2.......bbbb...bbb......bbb
+    a2.2.2.....................2.abb.3.ab.....bb...bb...bbbbb....bbb
+    a..2.2...........2.....2.....bbb...bb....bbb2bbbb...abbbb3.....a
+    a..........2........3..bb..bbbbb........bb...abbb...bbbbbbb....a
+    a2..........bb...bbbb..bb..abbba.......bbbbbbbbbb...bbbbbbb....a
+    a...........bb...babb..bb..bbbbb.......babbabbb.....bbbab......a
+    a.....1............................................1...........a
+    a.1...............................3..............1...........3.a
+    a.........2..2bbbb..bbabb.bab........baab....bab....bbbbab..baba
+    a.............bbbb..bbbbb.bbb........bbbb....bbb....bbbbbb..bbba
+    a...2.........2.....bbbbb............bbbb....bbb....abbbbb..bbba
+    a.2..........2.2.......2..............2......bbb....bbbbbb.....a
+    a2.....................2.......................................a
+    a.......2.2......2...2........................3...............2a
+    a...............2.......................................2...2..a
+    a....2..2.........22...........2.....................2.........a
+    a...2......2........2.................................22.......a
+    a.....2....2......2...................................bbbbbb...a
+    a.........2.......2...................................bbbbbb...a
+    a..............bbb..........2.........................bbaabb...a
+    a............2.bba1......................2.....................a
+    a..............bbb......2................................3.....a
+    a...2.......2.......................2.........222..............a
+    a............2............2............2......2.2..............a
+    a.........2...2.......2................bbb.....................a
+    a.2...22...bbb.........................bab......2............2.a
+    a...1......bbb..1..................1............2...........2..a
+    a...11.....bba...................1.............................a
+    a...1......bbb........bbbabbb..........bab......2.....3........a
+    a..11.....2222........bbbbbbb.2........bbb......2........bb.bb.a
+    a1111.....bbb........2......2...........................2bb.bb.a
+    a1111.....bbbb.....bb.2..2.22.......................bbbbbbb.bb.a
+    a.112..2..babb.2...ab..bbbb.....2...3...............abbbbba.ab.a
+    a...2..............bb..bbbb.........................bbbabbb.bb.a
+    a.......2.......1..................1...............1...........a
+    a..2.............................1...............1.............a
+    a....bbbb.......bab.bab.bbabbbbab............2......bbbbbbbbbbbb
+    a2...bbab....bb.bbb.bbb.bbbbbbbbb.....bbbbbbbbb.....b1111111111b
+    a.22........bba....2....bbbbb3.......bb.......bb....bb111111111b
+    a...........bbb....22...22..bbabb....b.........b..2.11111111111b
+    a2...............22.........bbbbb....b.3.......b....11111111111b
+    bb............2bbbb..bbb..2..........bb.......bb....11111111111b
+    bb...........22bbbb..bbb.bbb.bbb......bbbabbbbb.....bb111111111b
+    ba.....bbbbbb..bbbb.bbbb.bbb.bbb.....bbbbbbbbbbbb...b1111111111b
+    bb.....bbabbb..bbab.bbab.bab.bab.....bbbbabbbbbbb...bbbbbbbbbbbb
+    a...1..............................1...............1...........a
+    a.1....................2.........13..............1....3........a
+    a2....bbb..bbb..22..2...............babbbab.babbb...bbbb.......a
+    a2....bab..bab.....2..........2.....bbbbbbb.bbbbb...abbb.......a
+    a...............2.....2.................bbb22..bb...abbb..bbbbbb
+    a....bbbb..2.......22................2.2.22....bb...bbbb..b....a
+    a....abbb......................3......23222...........bbb.b....a
+    a....bbbbbbbab......................bbbbbb.bbbbbb.....bbb.b....a
+    a.......bbbbbb....2.................abbbba.abbbbb.....bbb.b.bbba
+    a.......babbbb............2.........bbbbbb.bbbabb.....bab.b2bab2
+    a...1..............................1...............1...........a
+    a.1......3.......................1...............1.............a
+    a...................22.2.2..22......22........2.....22..2......a
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  </actionClassMap>
+  <actionMap>
+    1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 1f 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 21
+    29 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 21
+    29 .. .. .. .. .. .. .. .. .. .. .. 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 .. .. .. .. .. .. .. .. .. .. .. 03 .. .. .. .. .. 04 11 .. .. .. 05 .. .. .. .. .. .. .. .. 21
+    29 .. .. .. .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. 04 08 04 .. 04 2b 04 .. 04 2c 04 .. .. .. .. 04 30 04 04 04 04 .. .. .. .. .. .. .. .. .. .. .. 04 04 .. .. .. .. .. 04 04 01 04 04
+    29 .. 15 .. .. .. .. 01 .. .. .. .. .. .. .. .. .. .. .. .. 04 04 04 .. 04 04 04 .. 04 04 04 .. .. .. .. 04 04 04 04 04 04 .. .. .. .. 04 04 35 04 .. .. .. 36 04 04 .. .. .. .. 04 04 04 04 04
+    29 .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. 00 .. .. .. 04 08 04 .. 04 04 04 .. .. 04 04 04 .. .. .. 04 04 01 .. .. .. .. .. .. .. 04 04 04 04 .. .. .. 04 04 04 .. .. .. .. .. .. 04 04 04
+    29 01 .. 00 .. 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 .. 2d 04 04 .. 12 .. 31 04 .. .. .. .. .. 04 04 .. .. .. 04 04 .. .. .. 04 04 04 04 04 .. .. .. .. 04 04 04
+    29 .. .. 01 .. 00 .. .. .. .. .. .. .. .. .. .. .. 00 .. .. .. .. .. 01 .. .. .. .. .. 04 04 04 .. .. .. 04 04 .. .. .. .. 04 04 04 01 04 04 04 04 .. .. .. 37 04 04 04 04 0a .. .. .. .. .. 21
+    29 .. .. .. .. .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. 13 .. .. 04 04 .. .. 04 04 04 04 04 .. .. .. .. .. .. .. .. 04 04 .. .. .. 34 04 04 04 .. .. .. 04 04 04 04 04 04 04 .. .. .. .. 21
+    29 01 .. .. .. .. .. .. .. .. .. .. 04 04 .. .. .. 04 04 04 04 .. .. 04 04 .. .. 2e 04 04 04 2f .. .. .. .. .. .. .. 04 04 04 04 04 04 04 04 04 04 .. .. .. 04 04 04 04 04 04 04 .. .. .. .. 21
+    29 .. .. .. .. .. .. .. .. .. .. .. 04 04 .. .. .. 04 2a 04 04 .. .. 04 04 .. .. 04 04 04 04 04 .. .. .. .. .. .. .. 04 32 04 04 33 04 04 04 .. .. .. .. .. 04 04 04 38 04 .. .. .. .. .. .. 21
+    29 .. .. .. .. .. 06 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 07 .. .. .. .. .. .. .. .. .. .. .. 21
+    29 .. 06 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0c .. .. .. .. .. .. .. .. .. .. .. .. .. .. 07 .. .. .. .. .. .. .. .. .. .. .. 10 .. 21
+    29 .. .. .. .. .. .. .. .. .. 00 .. .. 00 04 04 04 04 .. .. 04 04 3a 04 04 .. 04 3b 04 .. .. .. .. .. .. .. .. 04 3c 3c 04 .. .. .. .. 04 03 04 .. .. .. .. 04 04 04 04 3f 04 .. .. 04 40 04 21
+    29 .. .. .. .. .. .. .. .. .. .. .. .. .. 04 04 04 04 .. .. 04 04 04 04 04 .. 04 04 04 .. .. .. .. .. .. .. .. 04 04 04 04 .. .. .. .. 04 04 04 .. .. .. .. 04 04 04 04 04 04 .. .. 04 04 04 21
+    29 .. .. .. 00 .. .. .. .. .. .. .. .. .. 00 .. .. .. .. .. 04 04 04 04 04 .. .. .. .. .. .. .. .. .. .. .. .. 04 04 04 04 .. .. .. .. 04 04 04 .. .. .. .. 3e 04 04 04 04 04 .. .. 04 04 04 21
+    29 .. 00 .. .. .. .. .. .. .. .. .. .. 00 .. 01 .. .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 .. .. .. .. .. .. 04 04 04 .. .. .. .. 04 04 04 04 04 04 .. .. .. .. .. 21
+    29 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 21
+    29 .. .. .. .. .. .. .. 00 .. 02 .. .. .. .. .. .. 00 .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 09 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 21
+    29 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 .. .. .. 00 .. .. 21
+    29 .. .. .. .. 00 .. .. 00 .. .. .. .. .. .. .. .. .. 00 00 .. .. .. .. .. .. .. .. .. .. .. 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. 21
+    29 .. .. .. 00 .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 00 .. .. .. .. .. .. .. 21
+    28 .. .. .. .. .. 01 .. .. .. .. 00 .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 04 04 04 04 04 .. .. .. 22
+    28 .. .. .. .. .. .. .. .. .. 00 .. .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 04 04 04 04 04 .. .. .. 22
+    28 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 04 04 .. .. .. .. .. .. .. .. .. .. 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 04 0a 0a 04 04 .. .. .. 22
+    28 .. .. .. .. .. .. .. .. .. .. .. .. 01 .. 04 04 02 0e .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 22
+    28 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 04 04 .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0b .. .. .. .. .. 22
+    28 .. .. .. 01 .. .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. 00 00 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 22
+    28 .. .. .. .. .. .. .. .. .. .. .. .. 00 .. .. 01 .. .. .. 0a .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. 00 .. .. .. .. .. .. 00 .. 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 22
+    28 .. .. .. .. .. .. .. .. .. 00 .. .. .. 00 .. .. .. .. .. .. .. 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 04 04 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 22
+    28 .. 00 .. .. .. 00 00 .. .. .. 04 04 04 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 43 04 .. .. .. .. .. .. 01 .. .. .. .. .. .. .. .. .. .. .. .. 00 .. 22
+    28 .. .. .. 0d .. .. .. .. .. .. 04 04 04 .. .. 09 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0a .. .. .. .. .. .. .. .. .. .. .. .. 01 .. .. .. .. .. .. .. .. .. .. .. 00 .. .. 22
+    28 .. .. .. 0d 0d .. .. .. .. .. 04 04 41 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0a .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 22
+    28 .. .. .. 0d .. .. .. .. .. .. 04 04 04 .. .. .. .. .. .. .. .. 04 04 04 42 04 04 04 .. .. .. .. .. .. .. .. .. .. 04 44 04 .. .. .. .. .. .. 01 .. .. .. .. .. 03 .. .. .. .. .. .. .. .. 22
+    28 .. .. 0d 0d .. .. .. .. .. 01 01 01 01 .. .. .. .. .. .. .. .. 04 04 04 04 04 04 04 .. 00 .. .. .. .. .. .. .. .. 04 04 04 .. .. .. .. .. .. 01 .. .. .. .. .. .. .. .. 04 04 .. 04 04 .. 22
+    28 0d 0d 0d 0d .. .. .. .. .. 04 04 04 .. .. .. .. .. .. .. .. 00 .. .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 04 04 .. 04 04 .. 22
+    28 0d 0d 0d 0d .. .. .. .. .. 04 04 04 04 .. .. .. .. .. 04 04 .. 00 .. .. 00 .. 00 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 04 04 04 04 04 04 .. 04 04 .. 22
+    28 .. 0d 0d 00 .. .. 00 .. .. 04 1a 04 04 .. 01 .. .. .. 05 04 .. .. 04 04 04 04 .. .. .. .. .. 00 .. .. .. 04 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 4d 04 04 04 04 04 4f .. 50 04 .. 22
+    28 .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 04 .. .. 04 04 04 04 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 04 04 4e 04 04 04 .. 04 04 .. 22
+    28 .. .. .. .. .. .. .. 00 .. .. .. .. .. .. .. 0f .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 10 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 11 .. .. .. .. .. .. .. .. .. .. .. 22
+    28 .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 10 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 11 .. .. .. .. .. .. .. .. .. .. .. .. .. 22
+    28 .. .. .. .. 04 04 04 04 .. .. .. .. .. .. .. 04 48 04 .. 04 49 04 .. 04 04 4a 04 04 04 04 4b 04 .. .. .. .. .. .. .. .. .. .. .. .. 01 .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00
+    28 00 .. .. .. 04 04 45 04 .. .. .. .. 04 04 .. 04 04 04 .. 04 04 04 .. 04 04 04 04 04 04 04 04 04 .. .. .. .. .. 05 05 05 05 05 05 05 05 05 .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00
+    27 .. 00 00 .. .. .. .. .. .. .. .. 04 04 46 .. .. .. .. 00 .. .. .. .. 04 04 04 04 04 08 .. .. .. .. .. .. .. 05 05 .. .. .. .. .. .. .. 05 05 .. .. .. .. 06 06 00 0c 00 00 0c 00 00 0c 00 00
+    27 .. .. .. .. .. .. .. .. .. .. .. 04 04 04 .. .. .. .. 00 00 .. .. .. 00 00 .. .. 04 04 4c 04 04 .. .. .. .. 05 .. .. .. .. .. .. .. .. .. 05 .. .. 01 .. 00 00 00 00 00 00 00 00 00 00 00 00
+    27 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 00 .. .. .. .. .. .. .. .. .. 04 04 04 04 04 .. .. .. .. 05 .. 01 .. .. .. .. .. .. .. 05 .. .. .. .. 00 00 00 0b 0b 0b 0b 0b 0b 0b 0b 00
+    04 04 .. .. .. .. .. .. .. .. .. .. .. .. 00 04 04 04 04 .. .. 04 04 04 .. .. 00 .. .. .. .. .. .. .. .. .. .. 05 05 .. .. .. .. .. .. .. 05 05 .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00
+    04 04 .. .. .. .. .. .. .. .. .. .. .. 00 00 04 04 04 04 .. .. 04 04 04 .. 04 04 04 .. 04 04 04 .. .. .. .. .. .. 05 05 05 07 05 05 05 05 05 .. .. .. .. .. 06 06 00 0b 0b 0b 0b 0b 0b 0b 0b 00
+    04 51 .. .. .. .. .. 04 04 04 04 04 04 .. .. 04 04 04 04 .. 04 04 04 04 .. 04 04 04 .. 04 04 04 .. .. .. .. .. 04 04 04 04 04 04 04 04 04 04 04 04 .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00
+    04 04 .. .. .. .. .. 04 04 52 04 04 04 .. .. 04 04 08 04 .. 04 04 53 04 .. 04 54 04 .. 04 55 04 .. .. .. .. .. 04 04 04 04 06 04 04 04 04 04 04 04 .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00
+    27 .. .. .. 12 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 13 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 14 .. .. .. .. .. .. .. .. .. .. .. 23
+    27 .. 12 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 .. .. .. .. .. .. .. .. .. 13 0e .. .. .. .. .. .. .. .. .. .. .. .. .. .. 14 .. .. .. .. 05 .. .. .. .. .. .. .. .. 23
+    27 00 .. .. .. .. 04 04 04 .. .. 04 04 04 .. .. 00 00 .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 5b 04 04 04 5c 04 .. 04 5d 04 04 04 .. .. .. 04 04 04 04 .. .. .. .. .. .. .. 23
+    27 00 .. .. .. .. 04 56 04 .. .. 04 5a 04 .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. .. 01 .. .. .. .. .. 04 04 04 04 04 04 04 .. 04 04 04 04 04 .. .. .. 62 04 04 04 .. .. .. .. .. .. .. 23
+    27 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 .. .. .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 04 04 00 00 .. .. 04 04 .. .. .. 62 04 04 04 .. .. 01 01 01 01 01 01
+    27 .. .. .. .. 04 04 04 04 .. .. 01 .. .. .. .. .. .. .. 00 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 .. 00 .. 00 00 .. .. .. .. 04 04 .. .. .. 04 04 04 04 .. .. 01 .. .. .. .. 23
+    27 .. .. .. .. 57 04 04 04 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 07 .. .. .. .. .. .. 00 06 00 00 01 .. .. .. .. .. .. .. .. .. .. .. 04 04 04 .. 01 .. .. .. .. 23
+    27 .. .. .. .. 04 04 04 04 04 04 04 59 04 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 04 04 04 04 04 .. 04 04 04 04 04 04 .. .. .. .. .. 04 04 04 .. 01 .. .. .. .. 23
+    27 .. .. .. .. .. .. .. 04 04 04 04 04 04 .. .. .. .. 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 5e 04 04 04 04 5f .. 60 04 04 04 04 04 .. .. .. .. .. 04 04 04 .. 01 .. 04 04 04 23
+    27 .. .. .. .. .. .. .. 04 58 04 04 04 04 .. .. .. .. .. .. .. .. .. .. .. .. 01 .. .. .. .. .. .. .. .. .. 04 04 04 04 04 04 .. 04 04 04 04 04 04 .. .. .. .. .. 04 63 04 .. 01 01 04 09 04 01
+    27 .. .. .. 15 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 16 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 17 .. .. .. .. .. .. .. .. .. .. .. 23
+    27 .. 15 .. .. .. .. .. .. 0d .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 16 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 17 .. .. .. .. .. .. .. .. .. .. .. .. .. 23
+    27 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 00 .. 00 .. 00 .. .. 00 00 .. .. .. .. .. .. 00 00 .. .. .. .. .. .. .. .. 00 .. .. .. .. .. 00 00 .. .. 00 .. .. .. .. .. .. 23
+    27 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24
+  </actionMap>
+  <info tileset="6" backgroundTile="35" timeFactor="128" encounterFrequency="50" lastMonster="7" maxEncounters="5" unknown0="0x6" unknown1="0x12" unknown9="0x2"/>
+  <battleStrings s0="57" s1="58" s2="59" s3="60" s4="61" s5="62" s6="63" s7="64" s8="65" s9="66" s10="65" s11="67" s12="68" s13="69" s14="65" s15="70" s16="65" s17="71" s18="65" s19="72" s20="73" s21="74" s22="75" s23="76" s24="77" s25="78" s26="79" s27="80" s28="81" s29="82" s30="83" s31="84" s32="85" s33="86" s34="87" s35="88" s36="89"/>
+  <actions actionClass="0x1">
+    <print id="0x0">
+      <message>0</message>
+    </print>
+    <print id="0x1">
+      <message>52</message>
+      <message>10</message>
+      <message>53</message>
+      <message>5</message>
+      <message>54</message>
+    </print>
+    <print id="0x2">
+      <message>52</message>
+      <message>7</message>
+      <message>53</message>
+      <message>5</message>
+      <message>54</message>
+    </print>
+    <print id="0x3">
+      <message>52</message>
+      <message>6</message>
+      <message>53</message>
+      <message>5</message>
+      <message>54</message>
+    </print>
+    <print id="0x4">
+      <message>52</message>
+      <message>8</message>
+      <message>53</message>
+      <message>5</message>
+      <message>54</message>
+    </print>
+    <print id="0x5">
+      <message>52</message>
+      <message>11</message>
+      <message>53</message>
+      <message>5</message>
+      <message>54</message>
+    </print>
+    <print id="0x6">
+      <message>52</message>
+      <message>10</message>
+      <message>53</message>
+      <message>4</message>
+      <message>54</message>
+    </print>
+    <print id="0x7">
+      <message>52</message>
+      <message>8</message>
+      <message>53</message>
+      <message>4</message>
+      <message>54</message>
+    </print>
+    <print id="0x8">
+      <message>52</message>
+      <message>11</message>
+      <message>53</message>
+      <message>4</message>
+      <message>54</message>
+    </print>
+    <print id="0x9">
+      <message>52</message>
+      <message>6</message>
+      <message>53</message>
+      <message>9</message>
+      <message>54</message>
+    </print>
+    <print id="0xa">
+      <message>52</message>
+      <message>7</message>
+      <message>53</message>
+      <message>9</message>
+      <message>54</message>
+    </print>
+    <print id="0xb">
+      <message>12</message>
+    </print>
+    <print id="0xc">
+      <message>13</message>
+    </print>
+    <print id="0xd">
+      <message>23</message>
+    </print>
+    <print id="0xe" newActionClass="0x3" newAction="0x2">
+      <message>0</message>
+    </print>
+    <print id="0xf">
+      <message>52</message>
+      <message>6</message>
+      <message>53</message>
+      <message>3</message>
+      <message>54</message>
+    </print>
+    <print id="0x10">
+      <message>52</message>
+      <message>7</message>
+      <message>53</message>
+      <message>3</message>
+      <message>54</message>
+    </print>
+    <print id="0x11">
+      <message>52</message>
+      <message>8</message>
+      <message>53</message>
+      <message>3</message>
+      <message>54</message>
+    </print>
+    <print id="0x12">
+      <message>52</message>
+      <message>6</message>
+      <message>53</message>
+      <message>2</message>
+      <message>54</message>
+    </print>
+    <print id="0x13">
+      <message>52</message>
+      <message>7</message>
+      <message>53</message>
+      <message>2</message>
+      <message>54</message>
+    </print>
+    <print id="0x14">
+      <message>52</message>
+      <message>8</message>
+      <message>53</message>
+      <message>2</message>
+      <message>54</message>
+    </print>
+    <print id="0x15">
+      <message>52</message>
+      <message>6</message>
+      <message>53</message>
+      <message>1</message>
+      <message>54</message>
+    </print>
+    <print id="0x16">
+      <message>52</message>
+      <message>7</message>
+      <message>53</message>
+      <message>1</message>
+      <message>54</message>
+    </print>
+    <print id="0x17">
+      <message>52</message>
+      <message>8</message>
+      <message>53</message>
+      <message>1</message>
+      <message>54</message>
+    </print>
+  </actions>
+  <actions actionClass="0x2">
+    <check id="0x0" passable="true" autoCheck="true" party="true" startMessage="16" failMessage="19" modifier="-1">
+      <skill value="37" difficulty="2"/>
+    </check>
+    <check id="0x1" passable="true" autoCheck="true" party="true" passMessage="25" passNewActionClass="0xc" passNewAction="0x1" failNewActionClass="0x6" failNewAction="0x2" modifierTarget="0x0">
+      <skill value="9" difficulty="3"/>
+    </check>
+    <check id="0x2" passable="true" startMessage="30" passMessage="31" failMessage="32" passNewActionClass="0x2" passNewAction="0x3" modifierTarget="0x0">
+      <item value="55"/>
+    </check>
+    <check id="0x3" passable="true" autoCheck="true" startMessage="33" passMessage="34" failMessage="35" passNewActionClass="0x5" passNewAction="0x2" failNewActionClass="0x5" failNewAction="0x3" modifierTarget="0x0">
+      <attribute value="16" difficulty="4"/>
+    </check>
+    <check id="0x6" passable="true" autoCheck="true" damageAll="true" startMessage="25" failMessage="26" passNewActionClass="0x4" passNewAction="0x0" failNewActionClass="0x4" failNewAction="0x0" modifier="-2">
+      <skill value="37" difficulty="3"/>
+    </check>
+    <check id="0x7" passable="true" autoCheck="true" damageAll="true" failMessage="24" passNewActionClass="0x4" passNewAction="0x0" failNewActionClass="0x4" failNewAction="0x0" modifier="-2">
+      <skill value="37" difficulty="3"/>
+    </check>
+  </actions>
+  <actions actionClass="0x3">
+    <encounter id="0x1" visibleDistance="50" hitDistance="10" message="47" monster1="3" maxGroupSize1="3" monster2="2" maxGroupSize2="3" newActionClass="0x5" newAction="0x1"/>
+    <encounter id="0x2" visibleDistance="50" hitDistance="50" message="43" monster1="2" maxGroupSize1="2" random1="true" monster2="2" maxGroupSize2="2" random2="true" newActionClass="0x5" newAction="0x4"/>
+    <encounter id="0x3" visibleDistance="100" hitDistance="15" message="45" monster1="1" maxGroupSize1="5" random1="true" monster2="4" maxGroupSize2="5" random2="true" monster3="5" maxGroupSize3="5" random3="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x4" visibleDistance="100" hitDistance="15" message="45" monster1="1" maxGroupSize1="5" random1="true" monster2="4" maxGroupSize2="5" random2="true" monster3="5" maxGroupSize3="5" random3="true" properName="true" newActionClass="0x5" newAction="0x7"/>
+    <encounter id="0x5" visibleDistance="100" hitDistance="15" message="45" monster1="1" maxGroupSize1="5" random1="true" monster2="4" maxGroupSize2="5" random2="true" monster3="5" maxGroupSize3="5" random3="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x6" visibleDistance="100" hitDistance="15" message="45" monster1="1" maxGroupSize1="5" random1="true" monster2="4" maxGroupSize2="5" random2="true" monster3="5" maxGroupSize3="5" random3="true" properName="true" newActionClass="0x5" newAction="0x8"/>
+    <encounter id="0x7" visibleDistance="100" hitDistance="15" message="45" monster1="1" maxGroupSize1="5" random1="true" monster2="4" maxGroupSize2="5" random2="true" monster3="5" maxGroupSize3="5" random3="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x8" visibleDistance="15" hitDistance="15" message="45" monster1="1" maxGroupSize1="5" random1="true" properName="true" newActionClass="0x5" newAction="0x9"/>
+    <encounter id="0x9" visibleDistance="100" hitDistance="100" message="46" monster1="10" maxGroupSize1="5" random1="true" properName="true" newActionClass="0x5" newAction="0x5"/>
+    <encounter id="0xa" visibleDistance="100" hitDistance="100" message="47" monster1="11" maxGroupSize1="10" properName="true" newActionClass="0x5" newAction="0x6"/>
+    <encounter id="0xb" visibleDistance="30" hitDistance="30" message="48" monster1="12" maxGroupSize1="1" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0xc" visibleDistance="100" hitDistance="100" message="49" monster1="9" maxGroupSize1="1" properName="true" newActionClass="0x5" newAction="0xa"/>
+    <encounter id="0xd" visibleDistance="100" hitDistance="50" message="50" monster1="6" maxGroupSize1="5" random1="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0xe" visibleDistance="100" hitDistance="50" message="50" monster1="6" maxGroupSize1="5" random1="true" monster2="6" maxGroupSize2="5" random2="true" properName="true" newActionClass="0x5" newAction="0xb"/>
+    <encounter id="0xf" visibleDistance="100" hitDistance="50" message="50" monster1="6" maxGroupSize1="5" random1="true" monster2="6" maxGroupSize2="5" random2="true" monster3="6" maxGroupSize3="5" random3="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x10" visibleDistance="100" hitDistance="50" message="50" monster1="7" maxGroupSize1="5" random1="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x11" visibleDistance="100" hitDistance="50" message="50" monster1="7" maxGroupSize1="5" random1="true" monster2="6" maxGroupSize2="5" random2="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x12" visibleDistance="100" hitDistance="50" message="50" monster1="8" maxGroupSize1="5" random1="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x13" visibleDistance="100" hitDistance="50" message="50" monster1="6" maxGroupSize1="5" random1="true" monster2="7" maxGroupSize2="5" random2="true" monster3="8" maxGroupSize3="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x14" visibleDistance="100" hitDistance="50" message="50" monster1="7" maxGroupSize1="5" random1="true" monster2="7" maxGroupSize2="5" random2="true" monster3="8" maxGroupSize3="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x15" visibleDistance="100" hitDistance="50" message="50" monster1="8" maxGroupSize1="1" monster2="8" maxGroupSize2="1" monster3="8" maxGroupSize3="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+  </actions>
+  <actions actionClass="0x4">
+    <mask id="0x0" tile="12"/>
+  </actions>
+  <actions actionClass="0x5">
+    <loot id="0x0" newActionClass="0x0" newAction="0x0">
+      <item value="7" quantity="133"/>
+      <randomMoney quantity="500"/>
+    </loot>
+    <loot id="0x1" newActionClass="0x0" newAction="0x0">
+      <item value="2"/>
+      <item value="4"/>
+    </loot>
+    <loot id="0x2" newActionClass="0x0" newAction="0x0">
+      <item value="89"/>
+    </loot>
+    <loot id="0x3" newActionClass="0x0" newAction="0x0">
+      <item value="12" quantity="133"/>
+    </loot>
+    <loot id="0x4" newActionClass="0x0" newAction="0x0">
+      <item value="6" quantity="133"/>
+      <randomMoney quantity="500"/>
+    </loot>
+    <loot id="0x5" newActionClass="0x0" newAction="0x0">
+      <item value="23" quantity="130"/>
+      <item value="89"/>
+      <item value="31" quantity="138"/>
+    </loot>
+    <loot id="0x6" newActionClass="0x0" newAction="0x0">
+      <item value="23" quantity="130"/>
+      <item value="89"/>
+      <item value="31" quantity="134"/>
+      <item value="39"/>
+      <randomMoney quantity="500"/>
+    </loot>
+    <loot id="0x7" newActionClass="0x0" newAction="0x0">
+      <item value="11" quantity="138"/>
+      <item value="7" quantity="133"/>
+    </loot>
+    <loot id="0x8" newActionClass="0x0" newAction="0x0">
+      <item value="9" quantity="138"/>
+      <item value="7" quantity="133"/>
+    </loot>
+    <loot id="0x9" newActionClass="0x0" newAction="0x0">
+      <item value="12" quantity="133"/>
+      <item value="8" quantity="133"/>
+    </loot>
+    <loot id="0xa" newActionClass="0x0" newAction="0x0">
+      <item value="11" quantity="138"/>
+      <item value="8" quantity="133"/>
+    </loot>
+    <loot id="0xb" newActionClass="0x0" newAction="0x0">
+      <item value="12" quantity="133"/>
+      <item value="6" quantity="133"/>
+    </loot>
+  </actions>
+  <actions actionClass="0x6">
+    <doctor id="0x0" name="LV Infirmary" message="41" curePrice="200" newActionClass="0xfd" newAction="0xfd"/>
+    <library id="0x1" name=" Vegas Lib. " message="22" newActionClass="0xfd" newAction="0xfd">
+      <skill>1</skill>
+      <skill>2</skill>
+      <skill>3</skill>
+      <skill>4</skill>
+      <skill>5</skill>
+      <skill>6</skill>
+      <skill>7</skill>
+      <skill>8</skill>
+      <skill>9</skill>
+      <skill>10</skill>
+      <skill>11</skill>
+      <skill>12</skill>
+      <skill>13</skill>
+      <skill>14</skill>
+      <skill>15</skill>
+      <skill>16</skill>
+      <skill>18</skill>
+      <skill>19</skill>
+      <skill>20</skill>
+      <skill>21</skill>
+      <skill>22</skill>
+      <skill>23</skill>
+      <skill>24</skill>
+      <skill>25</skill>
+      <skill>26</skill>
+      <skill>27</skill>
+      <skill>28</skill>
+      <skill>30</skill>
+      <skill>31</skill>
+      <skill>32</skill>
+      <skill>34</skill>
+    </library>
+    <special id="0x2" action="0x1a">02 06</special>
+    <special id="0x3" action="0x1a">02 07</special>
+  </actions>
+  <actions actionClass="0xa">
+    <transition id="0x1" confirm="true" message="20" targetX="6" targetY="1" targetMap="40"/>
+    <transition id="0x2" confirm="true" message="40" targetX="11" targetY="23" targetMap="40"/>
+    <transition id="0x3" confirm="true" message="55" targetX="26" targetY="1" targetMap="40"/>
+    <transition id="0x4" confirm="true" message="55" targetX="24" targetY="30" targetMap="40"/>
+    <transition id="0x5" confirm="true" message="55" targetX="1" targetY="17" targetMap="40"/>
+    <transition id="0x6" message="21" targetX="41" targetY="46" targetMap="12"/>
+    <transition id="0x7" message="29"/>
+    <transition id="0x8" relative="true" confirm="true" message="37" targetMap="12" newActionClass="0x6" newAction="0x0"/>
+    <transition id="0x9" relative="true" confirm="true" message="38" targetMap="12" newActionClass="0x6" newAction="0x1"/>
+    <transition id="0xa" confirm="true" message="39" targetX="17" targetY="30" targetMap="38"/>
+    <transition id="0x1a" confirm="true" message="44" targetX="2" targetY="30" targetMap="41"/>
+    <transition id="0x1e" confirm="true" message="51" targetX="21" targetY="15" targetMap="0"/>
+    <transition id="0x1f" confirm="true" message="51" targetX="22" targetY="15" targetMap="0"/>
+    <transition id="0x20" confirm="true" message="51" targetX="23" targetY="15" targetMap="0"/>
+    <transition id="0x21" confirm="true" message="51" targetX="24" targetY="16" targetMap="0"/>
+    <transition id="0x22" confirm="true" message="51" targetX="24" targetY="17" targetMap="0"/>
+    <transition id="0x23" confirm="true" message="51" targetX="24" targetY="18" targetMap="0"/>
+    <transition id="0x24" confirm="true" message="51" targetX="23" targetY="19" targetMap="0"/>
+    <transition id="0x25" confirm="true" message="51" targetX="22" targetY="19" targetMap="0"/>
+    <transition id="0x26" confirm="true" message="51" targetX="21" targetY="19" targetMap="0"/>
+    <transition id="0x27" confirm="true" message="51" targetX="20" targetY="18" targetMap="0"/>
+    <transition id="0x28" confirm="true" message="51" targetX="20" targetY="17" targetMap="0"/>
+    <transition id="0x29" confirm="true" message="51" targetX="20" targetY="16" targetMap="0"/>
+    <transition id="0x2a" confirm="true" message="55" targetX="7" targetY="30" targetMap="192"/>
+    <transition id="0x2b" confirm="true" message="27" targetX="28" targetY="1" targetMap="193"/>
+    <transition id="0x2c" confirm="true" message="28" targetX="28" targetY="1" targetMap="194"/>
+    <transition id="0x2d" confirm="true" message="55" targetX="1" targetY="8" targetMap="195"/>
+    <transition id="0x2e" confirm="true" message="27" targetX="1" targetY="8" targetMap="196"/>
+    <transition id="0x2f" confirm="true" message="28" targetX="30" targetY="23" targetMap="197"/>
+    <transition id="0x30" confirm="true" message="55" targetX="28" targetY="1" targetMap="198"/>
+    <transition id="0x31" confirm="true" message="27" targetX="1" targetY="8" targetMap="199"/>
+    <transition id="0x32" confirm="true" message="28" targetX="7" targetY="30" targetMap="200"/>
+    <transition id="0x33" confirm="true" message="55" targetX="16" targetY="31" targetMap="39"/>
+    <transition id="0x34" confirm="true" message="27" targetX="1" targetY="8" targetMap="202"/>
+    <transition id="0x35" confirm="true" message="28" targetX="28" targetY="1" targetMap="203"/>
+    <transition id="0x36" confirm="true" message="55" targetX="1" targetY="8" targetMap="204"/>
+    <transition id="0x37" confirm="true" message="27" targetX="1" targetY="8" targetMap="205"/>
+    <transition id="0x38" confirm="true" message="28" targetX="7" targetY="30" targetMap="206"/>
+    <transition id="0x3a" confirm="true" message="55" targetX="28" targetY="1" targetMap="208"/>
+    <transition id="0x3b" confirm="true" message="27" targetX="28" targetY="1" targetMap="209"/>
+    <transition id="0x3c" confirm="true" message="28" targetX="28" targetY="1" targetMap="210"/>
+    <transition id="0x3e" confirm="true" message="55" targetX="1" targetY="8" targetMap="212"/>
+    <transition id="0x3f" confirm="true" message="27" targetX="28" targetY="1" targetMap="213"/>
+    <transition id="0x40" confirm="true" message="28" targetX="28" targetY="1" targetMap="214"/>
+    <transition id="0x41" confirm="true" message="55" targetX="30" targetY="23" targetMap="215"/>
+    <transition id="0x42" confirm="true" message="27" targetX="28" targetY="1" targetMap="216"/>
+    <transition id="0x43" confirm="true" message="28" targetX="7" targetY="30" targetMap="217"/>
+    <transition id="0x44" confirm="true" message="55" targetX="28" targetY="1" targetMap="218"/>
+    <transition id="0x45" confirm="true" message="27" targetX="7" targetY="30" targetMap="219"/>
+    <transition id="0x46" confirm="true" message="28" targetX="30" targetY="23" targetMap="220"/>
+    <transition id="0x48" confirm="true" message="55" targetX="28" targetY="1" targetMap="222"/>
+    <transition id="0x49" confirm="true" message="27" targetX="28" targetY="1" targetMap="223"/>
+    <transition id="0x4a" confirm="true" message="28" targetX="28" targetY="1" targetMap="224"/>
+    <transition id="0x4b" confirm="true" message="55" targetX="28" targetY="1" targetMap="225"/>
+    <transition id="0x4c" confirm="true" message="27" targetX="28" targetY="1" targetMap="226"/>
+    <transition id="0x4d" confirm="true" message="28" targetX="1" targetY="8" targetMap="227"/>
+    <transition id="0x4e" confirm="true" message="55" targetX="7" targetY="30" targetMap="228"/>
+    <transition id="0x4f" confirm="true" message="27" targetX="30" targetY="23" targetMap="229"/>
+    <transition id="0x50" confirm="true" message="28" targetX="1" targetY="8" targetMap="230"/>
+    <transition id="0x51" confirm="true" message="55" targetX="30" targetY="23" targetMap="231"/>
+    <transition id="0x52" confirm="true" message="27" targetX="7" targetY="30" targetMap="232"/>
+    <transition id="0x53" confirm="true" message="28" targetX="7" targetY="30" targetMap="233"/>
+    <transition id="0x54" confirm="true" message="55" targetX="7" targetY="30" targetMap="234"/>
+    <transition id="0x55" confirm="true" message="27" targetX="7" targetY="30" targetMap="235"/>
+    <transition id="0x56" confirm="true" message="28" targetX="7" targetY="30" targetMap="236"/>
+    <transition id="0x57" confirm="true" message="55" targetX="1" targetY="8" targetMap="237"/>
+    <transition id="0x58" confirm="true" message="27" targetX="7" targetY="30" targetMap="238"/>
+    <transition id="0x59" confirm="true" message="28" targetX="28" targetY="1" targetMap="239"/>
+    <transition id="0x5a" confirm="true" message="55" targetX="7" targetY="30" targetMap="240"/>
+    <transition id="0x5b" confirm="true" message="27" targetX="28" targetY="1" targetMap="241"/>
+    <transition id="0x5c" confirm="true" message="28" targetX="28" targetY="1" targetMap="242"/>
+    <transition id="0x5d" confirm="true" message="55" targetX="28" targetY="1" targetMap="243"/>
+    <transition id="0x5e" confirm="true" message="27" targetX="1" targetY="8" targetMap="244"/>
+    <transition id="0x5f" confirm="true" message="28" targetX="30" targetY="23" targetMap="245"/>
+    <transition id="0x60" confirm="true" message="55" targetX="1" targetY="8" targetMap="246"/>
+    <transition id="0x62" confirm="true" message="27" targetX="1" targetY="8" targetMap="248"/>
+    <transition id="0x63" confirm="true" message="28" targetX="7" targetY="30" targetMap="249"/>
+  </actions>
+  <actions actionClass="0xb">
+    <impassable id="0x0" message="14"/>
+    <impassable id="0x1" message="15"/>
+    <impassable id="0x3"/>
+    <impassable id="0x4" message="17"/>
+    <impassable id="0x5" message="18"/>
+    <impassable id="0x6" message="36"/>
+  </actions>
+  <actions actionClass="0xc">
+    <alteration id="0x0" newActionClass="0x0" newAction="0x0">
+      <alter x="59" y="15" newActionClass="0xa" newAction="0xd"/>
+    </alteration>
+    <alteration id="0x1">
+      <alter unknown="0x40" relative="true" newActionClass="0x6" newAction="0x3"/>
+    </alteration>
+  </actions>
+  <actions actionClass="0xf">
+    <encounter id="0x0" message="56" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x1" message="56" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x2" message="56" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x3" message="56" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x4" message="56" properName="true" newActionClass="0x0" newAction="0x0"/>
+  </actions>
+  <npcs/>
+  <monsters>
+    <monster id="0"/>
+    <monster id="1" name="Slicerdicer\n\ns\n" experience="30" ac="4" skill="3" fixedDamage="5" randomDamage="3" maxGroupSize="10" weaponType="1" monsterType="5" picture="39"/>
+    <monster id="2" name="Thug\n\ns\n" experience="15" ac="2" skill="15" randomDamage="3" maxGroupSize="4" weaponType="2" monsterType="3" picture="40"/>
+    <monster id="3" name="Scavenger\n\ns\n" experience="8" ac="1" skill="8" fixedDamage="5" randomDamage="1" maxGroupSize="4" weaponType="2" monsterType="3" picture="40"/>
+    <monster id="4" name="Chopter\n\ns\n" experience="10" ac="1" skill="2" fixedDamage="5" randomDamage="2" maxGroupSize="8" weaponType="1" monsterType="5" picture="39"/>
+    <monster id="5" name="Sniperdroid\n\ns\n" experience="20" ac="2" skill="15" fixedDamage="2" randomDamage="3" maxGroupSize="8" weaponType="2" monsterType="5" picture="41"/>
+    <monster id="6" name="Warroid Mark 1\n\ns\n" experience="50" ac="3" skill="15" randomDamage="5" maxGroupSize="8" weaponType="3" monsterType="5" picture="41"/>
+    <monster id="7" name="Warroid Mark 2\n\ns\n" experience="75" ac="5" skill="18" randomDamage="7" maxGroupSize="4" weaponType="3" monsterType="5" picture="41"/>
+    <monster id="8" name="Warroid Mark 3\n\ns\n" experience="120" ac="7" skill="25" randomDamage="8" maxGroupSize="2" weaponType="3" monsterType="5" picture="41"/>
+    <monster id="9" name="Scorpitron\n\ns\n" experience="200" ac="10" skill="35" randomDamage="9" maxGroupSize="1" weaponType="6" monsterType="5" picture="36"/>
+    <monster id="10" name="Gundroid\n\ns\n" experience="50" ac="5" skill="25" fixedDamage="2" randomDamage="3" maxGroupSize="5" weaponType="6" monsterType="4" picture="35"/>
+    <monster id="11" name="Cyborg Commando\n\ns\n" experience="50" ac="3" skill="30" fixedDamage="2" randomDamage="6" maxGroupSize="5" weaponType="6" monsterType="4" picture="35"/>
+    <monster id="12" name="RadAngel\n\ns\n" experience="40" ac="2" skill="20" randomDamage="6" weaponType="3" monsterType="3" picture="27"/>
+  </monsters>
+  <strings>
+    <string id="0"></string>
+    <string id="1">Tropicana Ave</string>
+    <string id="2">Flamingo Ave</string>
+    <string id="3">Desert Inn Road</string>
+    <string id="4">Sahara Ave</string>
+    <string id="5">Charleston Blvd</string>
+    <string id="6">Las Vegas Blvd</string>
+    <string id="7">Paradise Road</string>
+    <string id="8">Maryland Parkway</string>
+    <string id="9">Center Dr</string>
+    <string id="10">Old Freeway</string>
+    <string id="11">Boulder Highway</string>
+    <string id="12">\rYou're on the airport runway.\r</string>
+    <string id="13">\rYou're on the airport helipad.\r</string>
+    <string id="14">\rA high chainlink fence topped with barbed wire surrounds the airport.\r</string>
+    <string id="15">\rA high stone wall blocks you.\r</string>
+    <string id="16">\rYou've walked into a cactus.\r</string>
+    <string id="17">\rTry using a door.\r</string>
+    <string id="18">\rThese walls surround the raceway.\r</string>
+    <string id="19">\rThe spines poke holes in you.\r</string>
+    <string id="20">\rEntering the jail.\r</string>
+    <string id="21">\rA tunnel leads into the raceway.\r</string>
+    <string id="22">\x07You are in the remains of the Las Vegas library.\r</string>
+    <string id="23">\rMany errant golf balls have been hit into the pond.\r</string>
+    <string id="24">\rYou should be more careful when walking on land mines.\r</string>
+    <string id="25">\rYou spot a cleverly laid land mine.\r</string>
+    <string id="26">\rUnfortunately, not everyone spots it.\r</string>
+    <string id="27">\rEntering a hellhole.\r</string>
+    <string id="28">\rThis scumpit isn't fit for rats.\r</string>
+    <string id="29">\rThe tunnel takes you back out.\r</string>
+    <string id="30">\rIt looks like something is buried here.\r</string>
+    <string id="31">\rYou dig....\r</string>
+    <string id="32">\rYou don't have a shovel.\r</string>
+    <string id="33">\rYou've found something!\r</string>
+    <string id="34">\rIt's the Sonic Key!\r</string>
+    <string id="35">\rIt's just some garbage.\r</string>
+    <string id="36">\rTry going through the door.\r</string>
+    <string id="37">\rEntering the Vegas Hospital where the rich get well, and the poor die young.\r</string>
+    <string id="38">\rEntering the Las Vegas library.\r</string>
+    <string id="39">\rEntering the Temple of the Servants of the Mushroom Cloud.\r</string>
+    <string id="40">\rEntering Fat Freddy's Place where even low rollers can have a ball.\r</string>
+    <string id="41">\x07You are in the Vegas Hospital.\r</string>
+    <string id="42">\rSomeone inside starts shooting.\r</string>
+    <string id="43">Fat Freddy's thugs boil out of the building and attack.\r</string>
+    <string id="44">\rStep inside Spade's Casino, high roller.\r</string>
+    <string id="45">Death Machines!\r</string>
+    <string id="46">Are they robots or are they men?\r</string>
+    <string id="47">You see a party of heavily armed men.\r</string>
+    <string id="48">She's beautiful, and she glows.\r</string>
+    <string id="49">It looks like a tank with an armored warrior.\r</string>
+    <string id="50">Warroids!\r</string>
+    <string id="51">\rLeaving Las Vegas.\r</string>
+    <string id="52">\rN-S </string>
+    <string id="53">\rE-W </string>
+    <string id="54">\r</string>
+    <string id="55">\rEntering a small beat up building.\r</string>
+    <string id="56">Watch out! You're being ambushed!\r</string>
+    <string id="57">\x0b attacks</string>
+    <string id="58">\x0b snaps a shot off</string>
+    <string id="59">\x0b's gun spits lead</string>
+    <string id="60">Bright energy streams from \x0b</string>
+    <string id="61">\x0b empties a clip</string>
+    <string id="62">\x0b hurls a handful of death</string>
+    <string id="63">\x0b blasts a rocket off</string>
+    <string id="64">hits \x0f </string>
+    <string id="65"> for </string>
+    <string id="66">hits \x0f </string>
+    <string id="67">\x0f </string>
+    <string id="68"> \nis\nare\n stitched full of bullets for </string>
+    <string id="69">melts into \x0f </string>
+    <string id="70">punches a hole in \x0f </string>
+    <string id="71">immolates \x0f </string>
+    <string id="72"> but fail\ns\n\n to inflict any damage</string>
+    <string id="73"> drills </string>
+    <string id="74"> blazes away at </string>
+    <string id="75"> sprays </string>
+    <string id="76"> triggers a burst at </string>
+    <string id="77"> fries </string>
+    <string id="78"> toasts </string>
+    <string id="79"> and hits for </string>
+    <string id="80"> wallop\ns\n\n </string>
+    <string id="81"> brutally pummel\ns\n\n </string>
+    <string id="82"> pounds </string>
+    <string id="83"> thrashes </string>
+    <string id="84"> pounces on </string>
+    <string id="85"> whomps on </string>
+    <string id="86"> and peppers \x0ehim\x0eher\x0eit\x0e</string>
+    <string id="87"> and shreds \x0ehim\x0eher\x0eit\x0e</string>
+    <string id="88"> spinning \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n into a dance of death</string>
+    <string id="89"> sending \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n to meet \n\x0ehis\x0eher\x0eits\x0e\ntheir\n maker</string>
+  </strings>
+  <tileMap unknown="0x53be">
+    .. 24 5d 59 15 59 5d 5d 14 15 59 5d 14 14 1e 20 20 0f 14 5d 59 15 15 59 5d 24 .. 22 0e 20 20 1f 15 14 5d 24 .. 14 .. 22 22 .. 5d 5d 59 15 5d 14 5e 24 14 15 15 59 59 15 59 5d 24 .. 22 21 21 21
+    40 40 40 40 40 40 40 40 40 40 40 40 40 40 20 20 1a 40 40 40 40 40 40 40 40 40 40 40 40 20 20 1a 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40
+    3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 19 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 19 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 19 20 20 3e 3e 3e 19 20 20 3e 3e 19 20 20 3e 3e 3e 3e 3e 3e 3e
+    .. .. 24 5d 24 24 5d 24 5d 59 15 1e 20 20 0f 24 5d 24 .. 22 1d 35 4a 21 1d 35 4a .. 1d 35 4a 0e 20 20 1f 57 36 39 27 1d 4a 24 1e 20 20 0f 24 24 24 3f 20 3d 1d 4a 0e 20 20 1f .. 57 58 36 58 27
+    24 24 5d 5d 5d 5d 59 5d 5d 24 1e 20 20 0f 24 5d 59 5d 24 .. 4e 5b 46 21 4e 5b 46 22 2f 0d 34 22 3f 20 3d 4f 54 54 25 2f 34 1e 20 20 0f 1d 4c 35 4a 3f 20 3d 3b 5b 4a 0e 20 20 1f 4f 54 54 54 25
+    24 5d 5d 59 5d 59 15 59 24 1e 20 20 0f 24 5d 59 15 5d 5d 24 2f 4b 34 22 2f 0d 34 22 21 57 58 27 3f 20 3d 1d 4a 21 22 1e 40 20 3e 0f 5e 2f 0d 0d 34 3f 20 3d 2f 0d 34 .. 0e 20 20 1f 5e 1d 55 4a
+    5d 5d 59 15 14 24 5d 24 1e 20 20 0f .. .. 24 5d 59 59 5d 5d 24 24 .. 22 .. 22 22 21 21 3c 5c 52 3f 20 3d 3b 46 22 1e 20 20 0f 1d 4a 24 24 .. 57 27 3f 20 3d 57 58 27 57 27 0e 20 20 1f 2f 0d 34
+    5d 5d 5d 59 5d 15 24 1e 20 20 0f 5d 5d 24 5d 14 59 15 59 5d 5d 24 24 .. .. .. 22 21 22 4f 54 25 3f 20 3d 2f 34 1e 20 20 0f 2f 0d 34 .. 57 27 4f 25 3f 20 3d 3c 28 52 4f 25 22 0e 20 20 1f .. 22
+    24 5d 14 5d 14 5d 1e 20 20 0f 5d 15 14 .. 5d 59 5d 59 59 5d 24 24 .. 57 27 .. 22 1d 4a 57 58 27 3f 20 3d 22 1e 20 20 0f 57 27 .. .. 22 3c 52 57 27 3f 20 3d 4f 54 25 57 27 1d 4a 0e 20 20 1f 22
+    24 24 5d 24 5d 1e 20 20 0f 24 5d 59 10 4a 59 5d 24 10 55 4c 4a .. 22 56 52 24 .. 3b 46 56 5c 38 3f 20 3d 1e 20 20 0f 50 28 52 1d 4c 4a 56 52 4f 25 3f 20 3d 57 27 57 5c 52 2f 34 22 0e 20 20 1f
+    .. 24 24 .. 1e 20 20 0f .. 24 24 5d 2f 34 5d 59 14 2f 4b 0d 34 22 21 4f 25 24 .. 2f 34 4f 54 25 3f 20 20 20 20 0f 5a 4f 3a 25 2f 4b 34 4f 25 .. 22 3f 20 3d 4f 25 4f 3a 25 22 22 21 22 0e 20 20
+    40 40 40 40 20 20 1a 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 20 20 20 20 20 40 40 40 40 40 40 40 40 40 40 40 40 20 20 1a 40 40 40 40 40 40 40 40 40 40 20 20
+    3e 3e 19 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 20 20 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 19 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e
+    22 1e 20 20 0f 0b 0a 0b 0b 0a 15 0a 0b 15 1d 4a 10 4a 24 24 57 58 36 58 27 22 57 36 27 .. .. 1e 20 20 20 3d 14 57 36 36 27 14 0a 5d 14 57 36 27 22 3f 20 3d 57 58 58 58 36 27 22 22 57 36 27 24
+    1e 20 20 0f 0a 0b 5d 24 0a 0a 5d 24 5e 0b 2f 34 2f 34 5d 24 56 5c 5c 5c 52 .. 4f 54 25 .. 1e 20 20 20 20 3d 14 56 5c 5c 52 0a .. .. 14 56 5c 52 22 3f 20 3d 56 5c 5c 5c 5c 52 .. .. 56 5c 52 14
+    20 20 0f 0b 15 5d 24 24 13 0b 24 24 24 5d 15 59 5d 5d 5d 24 4f 54 54 54 25 .. .. 22 .. 1e 20 20 0f 3f 20 3d 24 4f 54 54 25 22 .. 0a 5e 56 5c 52 22 3f 20 3d 3c 5c 28 5c 5c 52 .. .. 4f 54 25 14
+    20 0f 15 5d 59 59 5d 24 5d 24 5e 24 5d 15 59 59 59 5d 14 14 24 5d 59 15 5d 24 .. .. 1e 20 20 0f 0b 3f 20 3d 14 14 5e 5d .. .. 24 24 5e 4f 54 25 22 3f 20 3d 4f 54 54 54 54 25 .. 24 .. 14 14 24
+    0f 15 59 5d 5d 5d 24 5d 59 5d 24 5e 13 24 59 5d 5d 14 5d 5d 59 5d 59 15 5d 24 5e 1e 20 20 0f 0a .. 3f 20 3d 24 5e 24 .. .. 0a 24 5e 24 .. .. .. 22 3f 20 3d .. 24 24 24 24 .. .. .. 14 14 14 5d
+    14 5d 13 5d 24 24 5d 5d 15 5d 5d 24 .. 5e 14 14 59 15 59 5d 59 15 59 5d 24 5e 1e 20 20 0f 0b .. 0a 3f 20 3d 5e 24 .. .. 14 .. .. .. 24 24 .. 22 22 3f 20 3d 24 5d 24 5d 5d 5d 14 24 14 24 15 59
+    0a 0a 22 0b 5d 5d 5d 5d 59 5d 5d 0a 22 .. 14 14 15 59 59 59 14 5d 5d 24 24 1e 20 20 0f 0a .. 22 .. 3f 20 3d .. .. 5e 22 22 .. 22 14 .. .. .. 22 21 3f 20 3d 5d 59 5d 59 15 5d 5d 5d 15 59 59 5d
+    14 0b 0a 14 0b 15 5d 5d 15 5d 0a 0b 14 22 21 14 5d 59 15 15 5d 14 14 .. 1e 20 20 0f 0b .. 22 22 22 3f 20 3d 5e 5e 22 22 0a 22 .. 22 0a .. 22 22 21 3f 20 3d 59 15 59 59 59 59 5d 5d 59 5d 0b 24
+    14 .. 14 5d 15 5d 5d 5d 13 5d 5d 15 14 .. 22 14 5d 59 59 59 15 5d 24 1e 20 20 0f .. .. .. .. 5e 5e 3f 20 3d 24 .. .. 22 0a 22 .. 22 0b 0a 22 21 21 3f 20 3d 5d 59 15 15 59 5d 24 5d 5d 24 24 24
+    22 .. 14 5d 5d 24 0a 24 5d 24 14 15 5d 5e .. 24 5d 5d 15 59 5d 24 1e 20 20 0f .. 22 .. 5e 24 .. 24 3f 20 3d 24 0a .. 24 24 0a .. .. .. 22 22 22 22 3f 20 3d 5d 5d 10 4c 4c 4c 4c 4a 5e 14 .. ..
+    .. 14 24 .. .. .. 0a 24 24 0b 15 59 5d 24 5e 14 14 .. 15 5d 24 1e 20 20 0f .. .. .. .. 14 .. 14 .. 3f 20 3d 24 .. .. 24 5d 24 24 .. 0b 22 .. .. 22 3f 20 3d 24 24 4e 5b 1c 51 5b 46 .. .. 14 14
+    14 14 .. 22 22 .. .. 24 24 5d 59 5d 5d 24 24 1d 55 4a 5d 24 1e 20 20 0f 5e 24 14 .. 14 14 .. 5e .. 3f 20 3d 5d 24 24 5d 5d 5d 5d 24 .. .. 24 24 .. 3f 20 3d .. 0b 2f 0d 4b 4b 0d 34 22 .. 24 24
+    22 22 13 21 21 22 0a .. .. 24 5d 14 24 24 .. 4e 5b 37 24 1e 20 20 0f 5d 5d 5d .. 14 .. .. 24 .. 22 3f 20 3d 5d 5d 5d 5d 59 15 59 5d 24 24 5d 5d 24 3f 20 3d .. 0a 22 24 3f 3d 21 22 22 .. .. ..
+    22 21 21 22 22 21 0b .. 24 13 24 24 5d 24 .. 2f 0d 34 1e 20 20 0f 5d 59 15 5d 5d .. 24 .. 5e 22 22 3f 20 3d 59 59 5d 59 59 59 5d 5d 5d 5d 59 59 5d 3f 20 20 40 40 40 40 20 3d 22 22 22 .. .. ..
+    22 22 22 .. 22 14 0b 24 24 24 24 5d 15 5d 14 24 24 1e 20 20 0f .. 14 5d 5d 14 5d .. 5e 5e 22 22 22 3f 20 3d 15 59 59 59 59 5d 5d 5d 5d 59 15 15 5d 3f 20 20 3e 3e 3e 3e 3e 2e 22 22 .. .. .. 24
+    24 22 22 5e .. 14 24 24 5d 5d 5d 5d 14 15 14 5d 1e 20 20 0f .. 14 .. 24 24 5d 15 5d .. .. 5e .. 22 3f 20 3d 59 59 59 15 5d 5d 24 24 5d 59 15 5d .. 3f 20 3d .. 0b 24 24 22 22 22 24 24 5d 5e 5e
+    5d 24 13 24 5d 59 5d 14 5d 59 15 59 59 59 15 1e 20 20 0f .. 14 14 14 .. 24 5d 59 5d 14 24 .. .. .. 3f 20 3d 5d 5d 5d 1d 55 4a .. 24 24 5d 5d 5d .. 3f 20 3d 22 0a 24 24 24 24 24 5d 5d 59 5d 5d
+    59 59 15 59 5d 59 15 15 5d 5d 59 57 58 27 1e 20 20 0f .. 14 14 14 14 .. .. 24 5d 5d .. .. 5e .. .. 3f 20 3d 0b 0b 0a 2f 4b 34 .. .. 24 24 24 0b .. 3f 20 3d 22 22 .. 24 24 24 24 5d 59 15 5d 5d
+    15 5d 5d 5d 16 5d 13 14 24 5d 5d 56 28 52 3f 20 1a 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 20 20 1a 40 40 40 40 40 2d 22 .. .. 24 5e .. .. 3f 20 3d 21 22 22 .. 5e 5e 14 14 15 5d .. 14
+    15 13 24 0a 33 17 .. 5e 5e 24 24 56 5c 38 3f 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 19 20 20 3e 3e 3e 3e 3e 2e 22 22 22 5e .. .. .. 3f 20 3d 21 21 22 .. 14 24 24 24 5d .. 14 15
+    24 0a .. 0a 62 22 .. 5e 5e 5e 5e 4f 54 25 3f 20 3d .. .. 0a 24 24 1d 4c 4c 35 4c 4c 4a 5d 59 5d 5d 3f 20 3d 0b 0a 0a 1d 4c 4a 22 .. 22 22 24 0b .. 3f 20 3d 22 22 .. .. .. .. .. 24 14 14 14 5d
+    5e 22 22 31 30 .. 0b 0a 22 .. 5e .. 22 21 3f 20 3d 0b .. 24 5d 5d 2f 0d 0d 0d 0d 0d 34 59 15 59 5d 3f 20 3d .. .. 5e 2f 0d 34 .. .. .. 22 5e .. 24 3f 20 3d 22 22 .. 24 14 57 27 14 57 27 24 5d
+    .. 16 31 32 30 5e 13 0b .. .. 57 58 27 21 3f 20 3d 24 24 24 5d 15 5d 5d 5d 5d 5d 5d 15 59 59 59 5d 3f 20 3d .. 22 .. .. .. 14 .. 14 0a .. 5e 24 24 3f 20 3d .. .. 24 5d 15 56 52 14 56 52 5d 15
+    22 61 32 32 60 24 0a 0a 24 5d 56 5c 5c 27 3f 20 3d .. .. 57 27 5d 15 59 5d 15 5d 15 15 59 59 5d 5d 3f 20 3d 0a .. 14 .. 14 14 .. .. 0b .. 5e 24 0a 3f 20 3d 1d 4c 4c 4c 4a 56 52 .. 56 52 5d 59
+    21 22 61 60 15 5d 59 15 5d 24 4f 3a 54 25 3f 20 3d 0a 22 3c 52 24 5d 57 27 57 27 59 5d 5d 59 59 15 3f 20 3d .. 14 14 14 .. 14 .. .. .. 24 5e 5e 22 3f 20 3d 3b 5b 5b 5b 46 56 38 .. 3c 52 5d 59
+    22 .. 5e 5d 15 59 59 59 59 5d 24 24 24 1e 20 20 3d 0a 0b 4f 25 .. 24 4f 25 4f 25 5d 24 5d 5d 59 59 3f 20 3d 0a 14 .. .. 22 .. .. .. 0a .. 0b .. 0a 3f 20 3d 2f 0d 0d 4b 34 4f 25 24 4f 25 5d 5d
+    .. 5e .. 5d 5d 24 5d 59 15 59 5d 5e 1e 20 20 20 1a 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 20 20 1a 40 40 40 40 40 40 40 40 40 40 40 40 40 20 20 1a 40 40 40 40 40 40 40 40 40 40 40 40
+    5e 24 5d 15 5d 24 24 5d 59 5d 24 1e 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 19 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 19 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e
+    24 5d 5d 59 5d 1d 55 4c 4a 5e 1e 20 20 0f 5e 5e 57 36 27 5d 57 36 27 .. 1d 4c 35 4c 4a 1d 4c 35 4a 3f 20 3d 21 21 21 21 21 21 21 21 21 21 21 21 21 3f 20 3d 20 20 20 20 20 20 20 20 20 20 20 3d
+    .. 15 59 59 5d 2f 0d 4b 34 1e 20 20 0f 1d 4a 24 4f 54 25 59 4f 54 25 24 4e 5b 5b 5b 46 2f 0d 0d 34 3f 20 3d 21 0b 18 5f 5f 5f 5f 5f 5f 5f 53 0a 21 3f 20 3d 3e 3e 20 3e 20 20 3e 20 20 3e 20 3d
+    59 5d 15 15 5d 5d 5d 24 1e 20 20 0f 10 5b 37 5d 5d 5d 59 15 5d 5d 5d 5d 2f 0d 0d 0d 34 24 5e 5e 24 3f 20 3d 21 18 63 41 1b 1b 1b 1b 1b 43 5f 53 21 3f 20 3d 57 27 4d 20 3f 3d 20 3f 3d 20 3f 3d
+    59 5d 5d 5d 5d 5e 5e 1e 20 20 0f 24 2f 0d 34 5d 5d 59 59 15 15 59 5d 5d 15 15 59 5d 50 58 36 58 27 3f 20 3d 21 53 45 29 21 21 21 21 21 2b 48 53 21 3f 20 3d 3c 38 3f 26 3e 3e 26 3e 3e 26 3e 3d
+    5d 15 5d 5e 24 24 1e 20 20 0f 5e 24 5d 59 59 59 59 15 15 59 59 5d 5d 5d 59 59 59 59 4f 54 54 54 25 3f 20 3d 21 53 47 2a 21 21 21 21 21 2c 49 53 21 3f 20 3d 3c 38 4d 20 20 20 20 20 20 20 20 4d
+    1d 4a 24 5e 24 1e 20 20 0f .. 5e 24 5d 59 15 57 58 58 27 5d 5d 57 58 27 5d 59 15 59 5d 24 5e .. .. 3f 20 3d 21 5f 53 42 1b 11 1b 1b 1b 44 18 63 21 3f 20 3d 3c 38 3f 26 26 26 26 26 26 26 26 3d
+    4e 46 5e 5e 1e 20 20 0f 22 .. 5e 24 5d 15 15 56 5c 5c 52 24 24 56 5c 52 5d 57 58 27 5d 1d 55 4a .. 3f 20 3d 21 0b 5f 5f 63 12 18 5f 5f 5f 63 0a 21 3f 20 3d 4f 25 4d 20 20 20 20 20 20 20 20 4d
+    4e 37 .. 1e 20 20 0f 57 58 58 58 58 27 59 59 56 28 5c 52 24 50 5c 5c 52 24 56 28 52 5d 4e 5b 46 22 3f 20 3d 21 1d 55 4a 1d 4c 4a 1d 4c 4a 57 58 27 3f 20 3d 40 40 20 40 40 40 40 40 40 40 40 3d
+    2f 34 1e 20 20 0f 22 4f 54 3a 54 54 25 59 5d 4f 54 3a 25 .. 4f 54 3a 25 .. 4f 3a 25 24 2f 4b 34 21 3f 20 3d 21 2f 0d 34 2f 4b 34 2f 0d 34 4f 54 25 3f 20 3d 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 2e
+    40 40 20 20 1a 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 20 20 1a 40 40 40 40 40 40 40 40 40 40 40 40 40 20 20 1a 40 40 40 40 40 40 40 40 40 40 40 40
+    3e 3e 19 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 19 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 19 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e
+    14 15 3f 20 3d 21 1d 4c 4a 21 22 57 58 27 21 0a 15 15 0a 14 15 0b 24 .. 0b 22 22 21 22 0a 14 14 0b 3f 20 3d 1d 35 4c 4a 57 36 27 14 57 36 58 58 27 3f 20 3d 57 58 58 27 22 22 .. 5e 14 14 14 5e
+    15 15 3f 20 3d 21 2f 4b 34 21 22 4f 3a 25 21 0b 0b 14 14 15 5e 5d 5d 14 0b 0a 0b 21 0a 0a 0b 22 0a 3f 20 3d 2f 0d 0d 34 56 5c 52 14 4f 54 54 54 25 3f 20 3d 3c 5c 5c 52 22 .. 5e 14 5e 14 14 14
+    5e 14 3f 20 3d 22 22 22 22 22 22 22 22 22 21 0a 15 14 0a 5d 14 5d 15 0b 21 21 21 21 21 21 21 0b 0b 3f 20 3d 59 59 59 14 4f 54 25 15 15 14 14 57 27 3f 20 3d 3c 28 5c 52 .. 5e 18 5f 5f 5f 5f 5f
+    14 14 3f 20 3d 1d 4c 4c 4a 22 21 22 22 21 21 0b 59 0a 0b 15 5d 24 0a 0b 21 21 21 21 21 21 21 0a 0b 3f 20 3d 59 15 59 15 14 15 15 14 59 14 5e 4f 25 3f 20 3d 4f 54 54 25 14 5e 53 0b 14 0b 0b 22
+    .. 5e 3f 20 3d 3b 5b 5b 46 21 21 21 22 22 22 0a 5d 24 5d 59 5d 14 0b 22 0a 0b 0b 22 0a 0b 0a 22 14 3f 20 3d 59 59 15 59 15 15 59 59 5d 24 5e .. 22 3f 20 3d 14 5e 1d 4c 4a 5e 53 0a 14 22 0a 22
+    22 .. 3f 20 3d 2f 0d 0d 34 57 27 57 36 27 22 0b 5d 5d 59 0b 14 22 22 22 22 22 22 22 14 22 22 22 14 3f 20 3d 57 58 58 27 1d 4a 59 1d 4a 1d 4c 4c 4a 3f 20 3d 24 5e 4e 5b 46 0b 53 14 0b 14 0a 14
+    22 22 3f 20 3d 21 21 21 50 5c 52 56 5c 52 22 0b 5d 59 15 0a 22 22 22 22 0b 22 22 22 22 22 0b 0a 14 3f 20 3d 3c 28 5c 52 4e 37 5d 3b 46 4e 5b 5b 46 3f 20 3d 5d 14 4e 5b 46 0a 53 14 57 58 27 22
+    21 22 3f 20 3d 21 21 21 4f 3a 25 4f 54 25 22 0a 24 5d 0a 22 22 22 0a 22 14 14 14 14 0b 22 0a 14 0a 3f 20 3d 4f 54 54 25 2f 34 24 2f 34 2f 4b 0d 34 3f 20 3d 15 24 2f 4b 34 .. 53 14 4f 3a 25 22
+    40 40 20 20 1a 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 20 20 1a 40 40 40 40 40 40 40 40 40 40 40 40 40 20 20 1a 40 40 40 40 40 40 40 40 40 40 40 40
+    3e 3e 19 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 19 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 19 20 20 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e 3e
+    21 21 3f 20 3d 21 21 21 21 21 22 .. 5e 24 5d 59 59 5d 5d 59 15 15 14 15 14 15 5e 14 15 15 14 14 5d 3f 20 3d 15 15 59 5d 5d 5d 59 59 59 59 15 59 59 3f 20 3d 15 15 5d 14 15 59 5d 14 5d 59 5d 24
+    21 21 3f 20 3d 21 21 21 22 22 .. 5e 24 5d 59 59 15 59 59 15 14 5d 5d 5d 14 15 15 5d 14 15 5d 5e 14 3f 20 3d 59 15 59 59 5d 59 59 15 59 59 59 59 15 3f 20 3d 59 15 14 59 59 59 15 59 59 15 59 5d
+  </tileMap>
+</map>

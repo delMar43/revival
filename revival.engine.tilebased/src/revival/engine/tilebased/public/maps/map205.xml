@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map xmlns="http://ailis.de/wlandsuite" mapSize="32" msqSize="5685" tilemapOffset="5224" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ailis.de/wlandsuite http://www.ailis.de/~k/software/projects/wlandsuite/schemas/wlandsuite.xsd">
+  <actionClassMap>
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    a....b.........................a
+    a...3b......3bbb......3........a
+    a...bbb.................bbbb...a
+    a..............2222.22....b3...a
+    a..............2..2.......bbb..a
+    a....bbbb....3.2..2............a
+    a......3b......2..2.......3....a
+    a.......b..22222..22222..222...a
+    a......bb..2..........2........a
+    a......b.2.21...b2....2....b...a
+    a..........2....2bbbb.2...3b...a
+    a.......2222.bbbb21...2..2bbb..a
+    a.......3..2....5b....2...b....a
+    a..........2..........2...b....a
+    a..bbbbb...22222bb22222...b....a
+    a...3b....2...bbaabb...3.......a
+    a....b...2....bb..bb........3..a
+    a....bbb..2...bb22bb...........a
+    a......b......b....b...........a
+    a......b......bb22bb.3.bbb.....a
+    a.........3...2.3.2.....b......a
+    a...............2.......b......a
+    a..............................a
+    a................3.............a
+    a...2...................bbbb...a
+    a..............................a
+    a..............................a
+    a..............................a
+    a..............................a
+    a...............c..............a
+    caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  </actionClassMap>
+  <actionMap>
+    0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a
+    0a .. .. .. .. 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0a
+    0a .. .. .. 0d 03 .. .. .. .. .. .. 0b 03 03 03 .. .. .. .. .. .. 0a .. .. .. .. .. .. .. .. 0a
+    0a .. .. .. 03 03 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 03 03 03 .. .. .. 0a
+    0a .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 02 02 02 .. 0c 0c .. .. .. .. 03 13 .. .. .. 0a
+    0a .. .. .. .. .. .. .. .. .. .. .. .. .. .. 02 .. .. 02 .. .. .. .. .. .. .. 03 03 03 .. .. 0a
+    0a .. .. .. .. 03 03 03 03 .. .. .. .. 11 .. 02 .. .. 02 .. .. .. .. .. .. .. .. .. .. .. .. 0a
+    0a .. .. .. .. .. .. 0c 03 .. .. .. .. .. .. 02 .. .. 02 .. .. .. .. .. .. .. 09 .. .. .. .. 0a
+    0a .. .. .. .. .. .. .. 03 .. .. 02 02 02 02 02 .. .. 02 02 02 02 02 .. .. 0c 0c 0c .. .. .. 0a
+    0a .. .. .. .. .. .. 03 03 .. .. 02 .. .. .. .. .. .. .. .. .. .. 02 .. .. .. .. .. .. .. .. 0a
+    0a .. .. .. .. .. .. 03 .. 0c .. 02 00 .. .. .. 02 03 .. .. .. .. 02 .. .. .. .. 03 .. .. .. 0a
+    0a .. .. .. .. .. .. .. .. .. .. 02 .. .. .. .. 07 02 02 02 02 .. 02 .. .. .. 08 03 .. .. .. 0a
+    0a .. .. .. .. .. .. .. 0c 0c 0c 02 .. 02 02 02 02 05 00 .. .. .. 02 .. .. 0c 03 03 03 .. .. 0a
+    0a .. .. .. .. .. .. .. 0e .. .. 02 .. .. .. .. 00 02 .. .. .. .. 02 .. .. .. 03 .. .. .. .. 0a
+    0a .. .. .. .. .. .. .. .. .. .. 02 .. .. .. .. .. .. .. .. .. .. 02 .. .. .. 03 .. .. .. .. 0a
+    0a .. .. 03 03 03 03 03 .. .. .. 02 02 02 02 02 02 02 02 02 02 02 02 .. .. .. 03 .. .. .. .. 0a
+    0a .. .. .. 10 03 .. .. .. .. 0c .. .. .. 00 00 08 08 01 01 .. .. .. 12 .. .. .. .. .. .. .. 0a
+    0a .. .. .. .. 03 .. .. .. 0c .. .. .. .. 01 01 .. .. 01 00 .. .. .. .. .. .. .. .. 07 .. .. 0a
+    0a .. .. .. .. 03 03 03 .. .. 0c .. .. .. 00 01 0b 0b 01 00 .. .. .. .. .. .. .. .. .. .. .. 0a
+    0a .. .. .. .. .. .. 03 .. .. .. .. .. .. 01 .. .. .. .. 01 .. .. .. .. .. .. .. .. .. .. .. 0a
+    0a .. .. .. .. .. .. 03 .. .. .. .. .. .. 00 00 00 00 00 00 .. 05 .. 03 03 03 .. .. .. .. .. 0a
+    0a .. .. .. .. .. .. .. .. .. 03 .. .. .. 0c .. 0f .. 0c .. .. .. .. .. 03 .. .. .. .. .. .. 0a
+    0a .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0c .. .. .. .. .. .. .. 03 .. .. .. .. .. .. 0a
+    0a .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0a
+    0a .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 06 .. .. .. .. .. .. .. .. .. .. .. .. .. 0a
+    0a .. .. .. 0c .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 03 03 03 .. .. .. 0a
+    0a .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0a
+    0a .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0a
+    0a .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0a
+    0a .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0a
+    0a .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 01 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 0a
+    00 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a 0a
+  </actionMap>
+  <info tileset="8" backgroundTile="63" timeFactor="128" encounterFrequency="75" lastMonster="8" maxEncounters="3" unknown0="0xfb" unknown1="0x16" unknown9="0x2"/>
+  <battleStrings s0="31" s1="32" s2="33" s3="34" s4="35" s5="36" s6="37" s7="38" s8="39" s9="40" s10="39" s11="41" s12="42" s13="43" s14="39" s15="44" s16="39" s17="45" s18="39" s19="46" s20="47" s21="48" s22="49" s23="50" s24="51" s25="52" s26="53" s27="54" s28="55" s29="56" s30="57" s31="58" s32="59" s33="60" s34="61" s35="62" s36="63"/>
+  <actions actionClass="0x1">
+    <print id="0x0">
+      <message>0</message>
+    </print>
+    <print id="0x1" newActionClass="0x4" newAction="0x3">
+      <message>27</message>
+    </print>
+  </actions>
+  <actions actionClass="0x2">
+    <check id="0x0" startMessage="1" passMessage="2" failMessage="3" modifierTarget="0x0">
+      <skill value="15" difficulty="4" newActionClass="0x4" newAction="0x1"/>
+      <attribute value="14" difficulty="5" newActionClass="0x4" newAction="0x2"/>
+      <item value="45" newActionClass="0x4" newAction="0x2"/>
+      <item value="53" newActionClass="0x4" newAction="0x2"/>
+      <item value="56" newActionClass="0x4" newAction="0x2"/>
+      <item value="7" newActionClass="0x4" newAction="0x0"/>
+      <item value="6" newActionClass="0x4" newAction="0x0"/>
+      <item value="8" newActionClass="0x4" newAction="0x0"/>
+      <item value="11" newActionClass="0x4" newAction="0x0"/>
+      <item value="9" newActionClass="0x4" newAction="0x0"/>
+      <item value="10" newActionClass="0x4" newAction="0x0"/>
+      <item value="12" newActionClass="0x4" newAction="0x0"/>
+    </check>
+    <check id="0x2" startMessage="12" passMessage="13" failMessage="14" modifier="-6">
+      <skill value="2" difficulty="4"/>
+      <item value="54"/>
+    </check>
+    <check id="0x3" passable="true" startMessage="15" passMessage="16" failMessage="17" passNewActionClass="0x2" passNewAction="0x4" modifierTarget="0x0">
+      <item value="7"/>
+      <item value="8"/>
+      <item value="11"/>
+      <item value="10"/>
+      <item value="12"/>
+    </check>
+    <check id="0x4" passable="true" startMessage="18" passMessage="19" passNewActionClass="0xa" passNewAction="0x0" modifierTarget="0x0">
+      <item value="54"/>
+    </check>
+    <check id="0x5" passable="true" startMessage="15" passMessage="16" failMessage="17" passNewActionClass="0x2" passNewAction="0x6" modifierTarget="0x0">
+      <item value="7"/>
+      <item value="8"/>
+      <item value="11"/>
+      <item value="10"/>
+      <item value="12"/>
+    </check>
+    <check id="0x6" passable="true" startMessage="18" passMessage="19" passNewActionClass="0xa" passNewAction="0x2" modifierTarget="0x0">
+      <item value="54"/>
+    </check>
+    <check id="0x7" passable="true" startMessage="15" passMessage="16" failMessage="17" passNewActionClass="0x2" passNewAction="0x8" modifierTarget="0x0">
+      <item value="7"/>
+      <item value="8"/>
+      <item value="11"/>
+      <item value="10"/>
+      <item value="12"/>
+    </check>
+    <check id="0x8" passable="true" startMessage="18" passMessage="19" passNewActionClass="0xa" passNewAction="0x4" modifierTarget="0x0">
+      <item value="54"/>
+    </check>
+    <check id="0xb" unknown1="true" startMessage="21" passMessage="22" failMessage="3" passNewActionClass="0x4" passNewAction="0x1" modifierTarget="0x0">
+      <item value="87"/>
+    </check>
+    <check id="0xc" modifierTarget="0x0">
+      <skill value="37"/>
+    </check>
+  </actions>
+  <actions actionClass="0x3">
+    <encounter id="0x0" visibleDistance="30" hitDistance="30" message="20" monster1="19" maxGroupSize1="1" monster2="16" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x2" newAction="0x3"/>
+    <encounter id="0x1" visibleDistance="30" hitDistance="30" message="20" monster1="18" maxGroupSize1="3" random1="true" monster2="17" maxGroupSize2="1" properName="true" unknown093="true" newActionClass="0x2" newAction="0x5"/>
+    <encounter id="0x2" visibleDistance="30" hitDistance="30" message="20" monster1="15" maxGroupSize1="1" monster2="14" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x2" newAction="0x7"/>
+    <encounter id="0x3" visibleDistance="150" hitDistance="150" message="24" monster1="13" maxGroupSize1="1" monster2="12" maxGroupSize2="3" random2="true" properName="true" unknown093="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x4" visibleDistance="40" hitDistance="40" message="24" monster1="3" maxGroupSize1="3" random1="true" properName="true" unknown093="true" newActionClass="0x5" newAction="0x0"/>
+    <encounter id="0x5" visibleDistance="120" hitDistance="120" message="24" monster1="1" maxGroupSize1="3" random1="true" properName="true" newActionClass="0x5" newAction="0x1"/>
+    <encounter id="0x6" visibleDistance="120" hitDistance="120" message="24" monster1="4" maxGroupSize1="3" random1="true" properName="true" newActionClass="0x5" newAction="0x2"/>
+    <encounter id="0x7" visibleDistance="120" hitDistance="120" message="24" monster1="2" maxGroupSize1="3" random1="true" monster2="1" maxGroupSize2="3" random2="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x8" visibleDistance="15" hitDistance="15" message="24" monster1="8" maxGroupSize1="1" monster2="1" maxGroupSize2="4" random2="true" properName="true" newActionClass="0x5" newAction="0x3"/>
+    <encounter id="0x9" visibleDistance="120" hitDistance="120" message="24" monster1="11" maxGroupSize1="1" monster2="5" maxGroupSize2="2" random2="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0xa" visibleDistance="15" hitDistance="15" message="25" monster1="6" maxGroupSize1="3" random1="true" properName="true" newActionClass="0x5" newAction="0x4"/>
+    <encounter id="0xb" visibleDistance="120" hitDistance="120" message="24" monster1="3" maxGroupSize1="2" random1="true" monster2="7" maxGroupSize2="2" random2="true" properName="true" newActionClass="0x5" newAction="0x5"/>
+    <encounter id="0xc" visibleDistance="150" hitDistance="150" message="24" monster1="9" maxGroupSize1="1" monster2="5" maxGroupSize2="1" monster3="4" maxGroupSize3="2" random3="true" properName="true" newActionClass="0x5" newAction="0x6"/>
+    <encounter id="0xd" visibleDistance="120" hitDistance="120" message="26" monster1="10" maxGroupSize1="5" random1="true" properName="true" newActionClass="0x5" newAction="0x8"/>
+    <encounter id="0xe" visibleDistance="120" hitDistance="120" message="24" monster1="11" maxGroupSize1="1" monster2="5" maxGroupSize2="2" random2="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0xf" visibleDistance="15" hitDistance="15" message="24" monster1="2" maxGroupSize1="2" random1="true" monster2="1" maxGroupSize2="2" random2="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x10" visibleDistance="120" hitDistance="120" message="24" monster1="4" maxGroupSize1="4" random1="true" properName="true" newActionClass="0x5" newAction="0x7"/>
+    <encounter id="0x11" visibleDistance="120" hitDistance="120" message="24" monster1="9" maxGroupSize1="1" monster2="11" maxGroupSize2="1" monster3="4" maxGroupSize3="1" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x12" visibleDistance="120" hitDistance="120" message="24" monster1="3" maxGroupSize1="2" random1="true" monster2="5" maxGroupSize2="2" random2="true" properName="true" newActionClass="0x5" newAction="0x9"/>
+    <encounter id="0x13" visibleDistance="120" hitDistance="120" message="24" monster1="8" maxGroupSize1="3" random1="true" properName="true" newActionClass="0x0" newAction="0x0"/>
+  </actions>
+  <actions actionClass="0x4">
+    <mask id="0x0" tile="66" message="9"/>
+    <mask id="0x1" tile="63" message="11"/>
+    <mask id="0x2" tile="72" message="10"/>
+    <mask id="0x3" tile="33"/>
+  </actions>
+  <actions actionClass="0x5">
+    <loot id="0x0" newActionClass="0x0" newAction="0x0">
+      <item value="34" quantity="133"/>
+      <item value="68" quantity="3"/>
+      <item value="11" quantity="133"/>
+    </loot>
+    <loot id="0x1" newActionClass="0x0" newAction="0x0">
+      <item value="80"/>
+      <item value="12" quantity="133"/>
+    </loot>
+    <loot id="0x2" newActionClass="0x0" newAction="0x0">
+      <item value="77"/>
+      <item value="34" quantity="133"/>
+    </loot>
+    <loot id="0x3" newActionClass="0x0" newAction="0x0">
+      <item value="11" quantity="2"/>
+    </loot>
+    <loot id="0x4" newActionClass="0x0" newAction="0x0">
+      <item value="68" quantity="2"/>
+      <item value="34" quantity="133"/>
+    </loot>
+    <loot id="0x5" newActionClass="0x0" newAction="0x0">
+      <item value="34" quantity="133"/>
+    </loot>
+    <loot id="0x6" newActionClass="0x0" newAction="0x0">
+      <item value="88"/>
+    </loot>
+    <loot id="0x7" newActionClass="0x0" newAction="0x0">
+      <item value="34" quantity="133"/>
+      <item value="76"/>
+    </loot>
+    <loot id="0x8" newActionClass="0x0" newAction="0x0">
+      <item value="34" quantity="135"/>
+    </loot>
+    <loot id="0x9" newActionClass="0x0" newAction="0x0">
+      <item value="77"/>
+    </loot>
+  </actions>
+  <actions actionClass="0xa">
+    <transition id="0x0" confirm="true" message="30" targetMap="17" newActionClass="0xa" newAction="0x1"/>
+    <transition id="0x1" confirm="true" message="30" targetX="16" targetY="16" targetMap="17"/>
+    <transition id="0x2" confirm="true" message="30" targetX="11" targetMap="17" newActionClass="0xa" newAction="0x3"/>
+    <transition id="0x3" confirm="true" message="30" targetX="17" targetY="17" targetMap="17"/>
+    <transition id="0x4" confirm="true" message="30" targetX="21" targetMap="17" newActionClass="0xa" newAction="0x5"/>
+    <transition id="0x5" confirm="true" message="30" targetX="14" targetY="17" targetMap="17"/>
+    <transition id="0x8" confirm="true" message="30" targetX="15" targetY="30" targetMap="17"/>
+    <transition id="0x9" targetX="4" targetY="25" targetMap="16"/>
+    <transition id="0xa" confirm="true" targetX="1" targetY="3" targetMap="0"/>
+    <transition id="0xb" targetX="18" targetY="12" targetMap="16" newActionClass="0xa" newAction="0xa"/>
+  </actions>
+  <actions actionClass="0xb">
+    <impassable id="0x0" message="6"/>
+    <impassable id="0x1" message="7"/>
+    <impassable id="0x2" message="8"/>
+    <impassable id="0x3" message="23"/>
+  </actions>
+  <actions actionClass="0xc">
+    <alteration id="0x0" message="29" newActionClass="0xc" newAction="0x2">
+      <alter x="21" y="20" newActionClass="0x5" newAction="0x1"/>
+      <alter x="17" y="24" newActionClass="0x5" newAction="0x2"/>
+      <alter x="28" y="17" newActionClass="0x0" newAction="0x0"/>
+      <alter x="26" y="11" newActionClass="0x5" newAction="0x3"/>
+      <alter x="27" y="7" newActionClass="0x0" newAction="0x0"/>
+      <alter x="22" y="2" newActionClass="0x5" newAction="0x4"/>
+      <alter x="12" y="2" newActionClass="0x5" newAction="0x5"/>
+      <alter x="7" y="7" newActionClass="0x5" newAction="0x6"/>
+      <alter x="4" y="2" newActionClass="0x5" newAction="0x8"/>
+      <alter x="8" y="13" newActionClass="0x0" newAction="0x0"/>
+      <alter x="16" y="21" newActionClass="0x0" newAction="0x0"/>
+      <alter x="4" y="16" newActionClass="0x5" newAction="0x7"/>
+      <alter x="13" y="6" newActionClass="0x0" newAction="0x0"/>
+      <alter x="23" y="16" newActionClass="0x5" newAction="0x9"/>
+      <alter x="27" y="4" newActionClass="0x0" newAction="0x0"/>
+      <alter unknown="0x28" x="16" y="30" newActionClass="0x0" newAction="0x0"/>
+    </alteration>
+    <alteration id="0x1" newActionClass="0x0" newAction="0x0">
+      <alter x="17" y="10" newActionClass="0x3" newAction="0x0"/>
+      <alter x="17" y="12" newActionClass="0x3" newAction="0x1"/>
+      <alter x="16" y="11" newActionClass="0x3" newAction="0x2"/>
+      <alter x="16" y="13" newActionClass="0x3" newAction="0x4"/>
+      <alter unknown="0x40" y="31" newActionClass="0xc" newAction="0x2"/>
+    </alteration>
+    <alteration id="0x2" newActionClass="0xa" newAction="0xb">
+      <alter unknown="0x40" x="18" y="12" newActionClass="0x1" newAction="0x1"/>
+    </alteration>
+  </actions>
+  <actions actionClass="0xf">
+    <encounter id="0x0" message="5" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x1" message="5" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x2" message="5" properName="true" newActionClass="0x0" newAction="0x0"/>
+  </actions>
+  <npcs/>
+  <monsters>
+    <monster id="0"/>
+    <monster id="1" name="Titanium Clawer\n\ns\n" experience="70" ac="8" skill="3" fixedDamage="8" randomDamage="12" maxGroupSize="10" weaponType="1" monsterType="5" picture="64"/>
+    <monster id="2" name="Vanadium Vulture\n\ns\n" experience="80" ac="8" skill="2" fixedDamage="7" randomDamage="17" maxGroupSize="10" weaponType="1" monsterType="5" picture="74"/>
+    <monster id="3" name="Chopter\n\ns\n" experience="60" ac="8" randomDamage="12" maxGroupSize="10" weaponType="6" monsterType="5" picture="67"/>
+    <monster id="4" name="Steel Reaver\n\ns\n" experience="160" ac="9" skill="30" randomDamage="12" maxGroupSize="7" weaponType="6" monsterType="5" picture="67"/>
+    <monster id="5" name="Silicon Sniper\n\ns\n" experience="75" ac="9" skill="30" fixedDamage="2" randomDamage="13" maxGroupSize="7" weaponType="6" monsterType="5" picture="67"/>
+    <monster id="6" name="Silver Strangler\n\ns\n" experience="75" ac="9" skill="1" fixedDamage="12" randomDamage="13" maxGroupSize="7" weaponType="1" monsterType="5" picture="14"/>
+    <monster id="7" name="VTOL Auto-fire Robot\n\ns\n" experience="135" ac="7" skill="30" fixedDamage="5" randomDamage="13" maxGroupSize="10" weaponType="6" monsterType="5" picture="62"/>
+    <monster id="8" name="Threshing Crawler\n\ns\n" experience="235" ac="7" skill="3" fixedDamage="5" randomDamage="17" maxGroupSize="1" weaponType="1" monsterType="5" picture="64"/>
+    <monster id="9" name="Laser Pod Blaster\n\ns\n" experience="200" ac="10" skill="40" fixedDamage="2" randomDamage="15" maxGroupSize="1" weaponType="6" monsterType="5" picture="77"/>
+    <monster id="10" name="Plasma Constrictor\n\ns\n" experience="250" ac="10" skill="3" fixedDamage="4" randomDamage="18" maxGroupSize="4" weaponType="1" monsterType="5" picture="64"/>
+    <monster id="11" name="Laser Hypermortar\n\ns\n" experience="350" ac="10" skill="30" fixedDamage="5" randomDamage="10" maxGroupSize="1" weaponType="6" monsterType="5" picture="77"/>
+    <monster id="12" name="Stainless Steel Flechette rifle\n\ns\n" experience="150" ac="9" skill="30" fixedDamage="2" randomDamage="10" maxGroupSize="7" weaponType="6" monsterType="5" picture="62"/>
+    <monster id="13" name="Mk 10 Turbo Meson Cannon\n\ns\n" experience="150" ac="9" skill="30" fixedDamage="3" randomDamage="12" maxGroupSize="3" weaponType="6" monsterType="5" picture="73"/>
+    <monster id="14" name="7mm Vulcan Cannon\n\ns\n" experience="100" ac="9" skill="30" fixedDamage="3" randomDamage="14" maxGroupSize="3" weaponType="6" monsterType="5" picture="73"/>
+    <monster id="15" name="Life-seeking Flamethrower\n\ns\n" experience="80" ac="9" skill="30" fixedDamage="5" randomDamage="15" maxGroupSize="3" weaponType="6" monsterType="5" picture="73"/>
+    <monster id="16" name="Sonar-targetted Proton Carbine\n\ns\n" experience="90" ac="9" skill="30" fixedDamage="5" randomDamage="12" maxGroupSize="3" weaponType="6" monsterType="5" picture="73"/>
+    <monster id="17" name="Xray Laser Projector\n\ns\n" experience="290" ac="9" skill="30" fixedDamage="7" randomDamage="16" maxGroupSize="3" weaponType="6" monsterType="5" picture="67"/>
+    <monster id="18" name="Wire-guided Anti-personel Missile\n\ns\n" experience="90" ac="9" skill="30" randomDamage="13" maxGroupSize="3" weaponType="6" monsterType="5" picture="67"/>
+    <monster id="19" name="Gauss Needle Projector\n\ns\n" experience="390" ac="9" skill="30" randomDamage="13" maxGroupSize="3" weaponType="6" monsterType="5" picture="67"/>
+  </monsters>
+  <strings>
+    <string id="0"></string>
+    <string id="1">\rA titanium gate blocks your path. Painted on it is an old sign, barely visible, denoting this as Base Cochise.\r</string>
+    <string id="2">\rYour attempt at opening the gate, however humble it may have been, is successful.\r</string>
+    <string id="3">\rThe gate resists your attempt to open it.\r</string>
+    <string id="4">\rChunks of concrete blown long ago from the base's armored shell block easy access to the base itself.\r</string>
+    <string id="5">Hit the dirt!!! You're being attacked!\r</string>
+    <string id="6">\rThe thick concrete wall was built to withstand a direct hit with a nuclear warhead. It looks like it succeeded.\r</string>
+    <string id="7">\rThough weathered and cracked in a few places, this wall still looks as strong as the day they poured it.\r</string>
+    <string id="8">\rThis section of gray, concrete wall appears pockmarked with bullet holes.\r</string>
+    <string id="9">\rFragments of partially melted titanium are welded to what once might have been a gatepost.\r</string>
+    <string id="10">\rThe badly dented shell of a gate lies smashed flat against the wall.\r</string>
+    <string id="11">\rOpen gate.\r</string>
+    <string id="12">\rThe sloped concrete walls of the base's dome are steep and are covered with metal barbs.\r</string>
+    <string id="13">\rYou scramble over this section of wall.\r</string>
+    <string id="14">\rYou slip and catch yourself on one of the barbs.\r</string>
+    <string id="15">\rThe weapons pod cover is jammed on the broken robots, so it cannot retract fully.\r</string>
+    <string id="16">\rYou waste the pod cover and now have a hole in to the base dome.\r</string>
+    <string id="17">\rThe pod cover is fairly tough. It will take something like explosive to crack it open.\r</string>
+    <string id="18">\rIt looks like a long way down. Using a rope would be prudent to facilitate descent.\r</string>
+    <string id="19">\rYour rope drops down into darkness and you descend.\r</string>
+    <string id="20">A weapon pod rises up from the base dome, and its weapons snap out and center on you.\r</string>
+    <string id="21">\rA massive titanium door fixed with the Base Cochise seal stands before you. There is a slot in the center of it.\r</string>
+    <string id="22">\rThe door slides silently into the base roof.\r</string>
+    <string id="23">\rFragments of old buildings dot the landscape and obscure clear lines of sight.\r</string>
+    <string id="24">You hear a clicking of metal and the hum of energy as a mechanical horror attacks!\r</string>
+    <string id="25">Striking quicker than lightning, several skeletal, Silver Stranglers leap at you from ambush.\r</string>
+    <string id="26">A glowing ball of energy unfolds and several Plasma Constrictors writhe forth. Ozone fills the air as they come flying at you!\r</string>
+    <string id="27">\rThe helicopter swerves uncontrollably and crashes onto the concrete dome below. The smoke clears and you seem to be ok. Despite the carnage wreaked by the copter, the concrete dome is still intact.\r</string>
+    <string id="28">\rYou have found the hostile base. The territory around it seethes with metal warriors.\r</string>
+    <string id="29">\rYou arrive at the base and the copter's defense system reacts and strikes back at the robots guarding the base.\r</string>
+    <string id="30">\rClimbing down.\r</string>
+    <string id="31">\x0b attacks</string>
+    <string id="32">\x0b shoots</string>
+    <string id="33">\x0b's gun spits lead</string>
+    <string id="34">Gobs of quarks lance out from \x0b</string>
+    <string id="35">\x0b fires full auto</string>
+    <string id="36">\x0b throws a deadly charge</string>
+    <string id="37">\x0b ignites a rocket</string>
+    <string id="38">hits \x0f </string>
+    <string id="39"> for </string>
+    <string id="40">hits \x0f </string>
+    <string id="41">\x0f </string>
+    <string id="42"> \nis\nare\n stitched full of bullets for </string>
+    <string id="43">irradiates \x0f </string>
+    <string id="44">scores a dark chasm in \x0f </string>
+    <string id="45">torches \x0f </string>
+    <string id="46"> but fail\ns\n\n to inflict any damage</string>
+    <string id="47"> drills </string>
+    <string id="48"> blazes away at </string>
+    <string id="49"> sprays </string>
+    <string id="50"> triggers a burst at </string>
+    <string id="51"> fries </string>
+    <string id="52"> toasts </string>
+    <string id="53"> and hits for </string>
+    <string id="54"> wallop\ns\n\n </string>
+    <string id="55"> beat\ns\n\n </string>
+    <string id="56"> pounds </string>
+    <string id="57"> mauls </string>
+    <string id="58"> bowls </string>
+    <string id="59"> rips into </string>
+    <string id="60"> and peppers \x0ehim\x0eher\x0eit\x0e</string>
+    <string id="61"> and shreds \x0ehim\x0eher\x0eit\x0e</string>
+    <string id="62"> blowing \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n in a shower of sparks and smashed sprockets</string>
+    <string id="63"> blasting \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n into platinum shards</string>
+  </strings>
+  <tileMap unknown="0xdff">
+    .. .. 40 40 80 80 80 40 .. .. .. .. 40 40 80 80 80 80 .. .. .. .. .. .. .. 80 80 .. .. .. .. ..
+    .. .. 80 43 41 2f 41 80 40 40 .. 80 80 80 80 41 41 80 80 40 .. .. .. 40 80 80 80 80 40 .. .. ..
+    .. 80 80 43 41 59 80 80 80 40 80 80 48 7d 7c 2f 48 80 80 80 40 40 80 80 80 80 48 80 80 80 .. ..
+    80 80 80 41 7d 7c 2f 48 80 40 40 40 80 41 41 41 41 41 80 80 80 80 80 48 2f 2f 59 2f 48 80 80 ..
+    .. 80 80 80 41 80 41 80 80 40 40 .. 40 80 41 63 60 60 61 41 53 54 80 80 80 48 59 80 80 80 80 80
+    .. 80 80 43 41 41 41 41 80 80 40 40 80 41 41 61 19 18 61 80 80 41 41 80 80 80 7d 7c 2f 48 80 80
+    .. .. 80 41 48 7c 2f 7d 59 41 80 80 41 41 41 61 19 18 61 41 41 41 44 40 80 80 41 80 80 80 80 ..
+    .. .. 80 43 41 41 41 41 59 41 41 41 41 41 41 61 19 18 61 41 41 41 41 44 40 80 80 80 80 80 .. ..
+    .. .. .. 40 80 43 41 80 59 80 80 63 60 60 60 62 19 18 60 60 60 60 61 41 80 53 54 53 80 80 .. ..
+    .. .. .. 40 80 43 41 7d 7c 80 80 61 19 19 19 19 19 18 18 18 18 18 61 41 80 43 41 80 80 80 80 ..
+    .. .. .. 80 80 43 41 2f 41 53 80 61 19 19 19 19 62 1a 18 18 18 18 61 41 41 80 80 48 80 80 80 ..
+    .. .. .. 80 80 43 41 48 80 80 80 61 19 19 19 19 1a 60 60 60 62 18 61 41 41 80 80 2f 80 80 80 80
+    .. .. 80 80 80 80 43 80 54 53 54 61 18 60 60 60 62 1a 19 19 19 19 61 41 41 54 7d 7c 2f 48 80 80
+    .. 80 80 80 80 43 41 41 41 80 80 61 18 18 18 18 18 62 19 19 19 19 61 41 41 41 2f 80 80 80 80 80
+    80 80 48 48 41 41 41 41 41 41 80 61 18 18 18 18 18 19 19 19 19 19 61 41 41 80 7c 80 44 80 80 ..
+    80 43 48 2f 7d 7b 7c 2f 48 41 80 60 60 60 16 63 60 60 16 63 60 60 62 41 41 80 48 80 80 80 .. ..
+    80 80 43 41 48 59 48 41 80 80 54 41 41 41 16 61 2e 2e 16 61 41 41 41 80 80 80 80 80 80 .. .. ..
+    .. 80 80 43 41 7c 48 41 80 53 80 44 43 41 16 61 40 40 16 61 41 80 80 80 40 40 40 40 .. .. .. ..
+    .. .. 40 80 80 2f 7d 7c 48 80 53 80 41 41 63 62 7f 7f 60 61 41 80 40 40 40 40 40 40 .. .. .. ..
+    .. .. 40 40 40 80 41 2f 48 41 80 80 80 41 61 40 40 40 40 61 41 80 80 80 80 80 80 40 .. .. .. ..
+    .. .. .. 40 40 40 80 2f 41 41 41 44 80 80 60 60 7f 7f 60 62 80 80 48 2f 7b 7c 48 80 40 .. .. ..
+    .. .. 40 .. 40 40 40 80 80 41 44 80 40 80 53 41 41 41 54 80 80 40 80 80 7c 48 80 40 40 .. .. ..
+    .. 80 80 40 40 40 40 40 40 80 80 80 40 80 80 80 54 41 80 80 40 40 43 80 2f 80 80 40 .. .. .. ..
+    .. 80 80 80 80 40 40 40 40 40 40 40 40 40 40 80 80 80 40 40 40 40 40 80 48 80 40 40 .. .. .. ..
+    .. 80 80 80 80 80 80 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 80 80 80 80 80 80 80 40 .. ..
+    .. .. 80 80 53 80 80 80 40 40 40 .. .. 40 40 40 40 40 40 40 40 40 80 80 2f 7d 7c 2f 48 48 80 ..
+    .. .. .. 80 80 80 80 80 80 .. .. .. .. .. 40 40 40 40 40 40 40 40 40 80 80 80 80 80 80 80 80 ..
+    .. .. 40 40 80 80 80 80 80 80 .. .. .. .. 40 40 40 40 40 .. 40 40 40 40 40 80 80 80 80 80 .. ..
+    .. .. .. 40 40 40 80 80 80 80 .. .. .. .. .. 40 40 40 .. .. .. .. 40 40 40 40 80 80 80 .. .. ..
+    .. .. .. .. 40 40 40 .. .. .. .. .. .. .. .. .. 40 .. .. .. .. .. .. .. 40 40 40 40 .. .. .. ..
+    .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+    .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+  </tileMap>
+</map>

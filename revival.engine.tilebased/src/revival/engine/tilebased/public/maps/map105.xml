@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map xmlns="http://ailis.de/wlandsuite" mapSize="32" msqSize="4530" tilemapOffset="4175" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ailis.de/wlandsuite http://www.ailis.de/~k/software/projects/wlandsuite/schemas/wlandsuite.xsd">
+  <actionClassMap>
+    bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    b.2...b....bbbbbbbbb....b......b
+    b.....b..2.bbbbbbbbb2..........b
+    b.....b....bbbbbbbbb....b......b
+    b.....b....bbbbbbbbb....b2..1..b
+    b...1.bb1bbbbbbbbbbbbbbbbbbb1bbb
+    bbbb1bb....bbbbbbbbb....b......b
+    a1.....1...bbbbbbbbb..1.....1.1a
+    b.....b....bbbbbbbbb....b......b
+    bbbbb.bb1bbbbbbbbbbb....bb1bbbbb
+    b...b.b.1..bbbbbbbbb1bbbb.1.b.2b
+    b...b.b....bbbbbbbbb1...b...b..b
+    b...b.b....bbbbbbbbb....b...b..b
+    b..11.b.112bbbbbbbbb....b2..1..b
+    bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    b.1.b11....bbbbbbbbbbbbbbaabbbbb
+    b2..b....1.bbbbbbbbb112.b11b...b
+    b..1bbbbb1bbbbbbbbbb....b..b2..b
+    b..1b...b..bbbbbbbbb1..2b..b..1b
+    bbb1b..11..bbbbbbbbb1bbbb..bbb1b
+    b...b...b..bbbbbbbbb...........b
+    b...b..2b..bbbbbbbbb...........b
+    bbb1bbbbb1bbbbbbbbbb1bbbb..bbb1b
+    b..........bbbbbbbbb....b..b..1b
+    bbb......bbbbbbbbbbb....b..b.b.b
+    b.1.bbbb.1.bbbbbbbbbbbb1b..b.b.b
+    bbb......bbbbbbbbbbb....b..b...b
+    b.....1..12bbbbbbbbb2...b..11..b
+    bbbbbbabbbbbbbbbbbbbbbbbbbbbbbbb
+  </actionClassMap>
+  <actionMap>
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 02 02 02 02 02 02 02 02 02 02 02 02
+    00 .. 0b .. .. .. 00 .. .. .. .. 00 00 00 00 00 00 00 00 02 .. .. .. .. 02 .. .. .. .. .. .. 02
+    00 .. .. .. .. .. 00 .. .. 15 .. 00 00 00 00 00 00 00 00 02 0f .. .. .. .. .. .. .. .. .. .. 02
+    00 .. .. .. .. .. 00 .. .. .. .. 00 00 00 00 00 00 00 00 02 .. .. .. .. 02 .. .. .. .. .. .. 02
+    00 .. .. .. .. .. 00 .. .. .. .. 00 00 00 00 00 00 00 00 02 .. .. .. .. 02 03 .. .. 05 .. .. 02
+    00 .. .. .. 07 .. 00 00 0f 00 00 00 00 00 00 00 00 00 00 02 02 02 02 02 02 02 02 02 0a 02 02 02
+    00 00 00 00 09 00 00 .. .. .. .. 04 00 00 00 00 00 00 00 02 .. .. .. .. 02 .. .. .. .. .. .. 02
+    00 01 .. .. .. .. .. 05 .. .. .. 04 00 00 00 00 00 00 00 02 .. .. 07 .. .. .. .. .. 06 .. 02 00
+    00 .. .. .. .. .. 00 .. .. .. .. 04 00 00 00 00 00 00 00 02 .. .. .. .. 02 .. .. .. .. .. .. 02
+    00 00 00 00 00 .. 00 00 10 00 00 00 00 00 00 00 00 00 00 02 .. .. .. .. 02 02 10 02 02 02 02 02
+    00 .. .. .. 00 .. 00 .. 08 .. .. 00 00 00 00 00 00 00 00 02 09 02 02 02 02 .. 0b .. 02 .. 11 02
+    00 .. .. .. 00 .. 00 .. .. .. .. 00 00 00 00 00 00 00 00 02 0b .. .. .. 02 .. .. .. 02 .. .. 02
+    00 .. .. .. 00 .. 00 .. .. .. .. 00 00 00 00 00 00 00 00 02 .. .. .. .. 02 .. .. .. 02 .. .. 02
+    00 .. .. 0b 10 .. 00 .. 0d 0c 0d 00 00 00 00 00 00 00 00 02 .. .. .. .. 02 07 .. .. 10 .. .. 02
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 02 02 02 02 02 02 02 02 02 02 02 02
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    01 01 01 01 01 01 01 01 01 01 01 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    01 .. 0d .. 01 0d 0c .. .. .. .. 01 00 00 00 00 00 00 00 03 03 03 03 03 03 00 00 03 03 03 03 03
+    01 13 .. .. 01 .. .. .. .. 08 .. 01 00 00 00 00 00 00 00 03 0c 0d 03 .. 03 03 03 03 .. .. .. 03
+    01 .. .. 0c 01 01 01 01 01 10 01 01 00 00 00 00 00 00 00 03 .. .. .. .. 03 .. .. 03 07 .. .. 03
+    01 .. .. 0e 01 .. .. .. 01 .. .. 01 00 00 00 00 00 00 00 03 0e .. .. 09 03 .. .. 03 .. .. 06 03
+    01 01 01 10 01 .. .. 06 10 .. .. 01 00 00 00 00 00 00 00 03 10 03 03 03 03 .. .. 03 03 03 0a 03
+    01 .. .. .. 01 .. .. .. 01 .. .. 01 00 00 00 00 00 00 00 03 .. .. .. .. .. .. .. .. .. .. .. 03
+    01 .. .. .. 01 .. .. 05 01 .. .. 01 00 00 00 00 00 00 00 03 .. .. .. .. .. .. .. .. .. .. .. 03
+    01 01 01 0f 01 01 01 01 01 10 01 01 00 00 00 00 00 00 00 03 10 03 03 03 03 .. .. 03 03 03 10 03
+    01 .. .. .. .. .. .. .. .. .. .. 01 00 00 00 00 00 00 00 03 .. .. .. .. 03 .. .. 03 .. .. 05 04
+    01 01 01 .. .. .. .. .. .. 01 01 01 00 00 00 00 00 00 00 03 .. .. .. .. 03 .. .. 03 .. 04 .. 04
+    01 .. 0f .. 01 01 01 01 .. 10 .. 01 00 00 00 00 00 00 00 03 03 03 03 0f 03 .. .. 03 .. 04 .. 04
+    01 01 01 .. .. .. .. .. .. 01 01 01 00 00 00 00 00 00 00 03 .. .. .. .. 03 .. .. 03 .. .. .. 05
+    01 .. .. .. .. .. 04 .. .. 10 01 01 00 00 00 00 00 00 00 03 01 .. .. .. 03 .. .. 10 05 .. .. 04
+    01 01 01 01 01 01 00 01 01 01 01 01 00 00 00 00 00 00 00 03 03 03 03 03 03 03 03 03 04 04 04 04
+  </actionMap>
+  <info tileset="2" timeFactor="64" lastMonster="0" maxEncounters="0" unknown0="0x4" unknown1="0xfd" unknown9="0x1"/>
+  <battleStrings s0="46" s1="47" s2="48" s3="49" s4="50" s5="51" s6="52" s7="53" s8="54" s9="55" s10="54" s11="56" s12="57" s13="58" s14="54" s15="59" s16="54" s17="60" s18="54" s19="61" s20="62" s21="63" s22="64" s23="65" s24="66" s25="67" s26="68" s27="69" s28="70" s29="71" s30="72" s31="73" s32="74" s33="75" s34="76" s35="77" s36="78"/>
+  <actions actionClass="0x1">
+    <print id="0x0">
+      <message>0</message>
+    </print>
+    <print id="0x1">
+      <message>6</message>
+    </print>
+    <print id="0x2">
+      <message>7</message>
+    </print>
+    <print id="0x3">
+      <message>8</message>
+    </print>
+    <print id="0x4">
+      <message>9</message>
+    </print>
+    <print id="0x5">
+      <message>10</message>
+    </print>
+    <print id="0x6">
+      <message>11</message>
+    </print>
+    <print id="0x7">
+      <message>12</message>
+    </print>
+    <print id="0x8">
+      <message>13</message>
+    </print>
+    <print id="0x9">
+      <message>14</message>
+    </print>
+    <print id="0xa">
+      <message>15</message>
+    </print>
+    <print id="0xb">
+      <message>27</message>
+    </print>
+    <print id="0xc">
+      <message>28</message>
+    </print>
+    <print id="0xd">
+      <message>29</message>
+    </print>
+    <print id="0xe">
+      <message>30</message>
+    </print>
+    <print id="0xf">
+      <message>42</message>
+    </print>
+    <print id="0x10">
+      <message>26</message>
+    </print>
+  </actions>
+  <actions actionClass="0x2">
+    <check id="0x1" passable="true" autoCheck="true" bypassArmor="true" passMessage="16" failMessage="17" passNewActionClass="0x2" passNewAction="0x2" failNewActionClass="0x6" failNewAction="0x0" modifier="-1">
+      <skill value="9" difficulty="1"/>
+      <attribute value="16" difficulty="3"/>
+    </check>
+    <check id="0x2" passable="true" autoCheck="true" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xc" failNewAction="0x0" fixedModifier="true" modifierTarget="0x21" modifier="5">
+      <skill value="37" difficulty="1"/>
+    </check>
+    <check id="0x3" passable="true" autoCheck="true" bypassArmor="true" passMessage="18" failMessage="19" passNewActionClass="0x2" passNewAction="0x4" failNewActionClass="0x6" failNewAction="0x1" modifier="-1">
+      <skill value="9" difficulty="1"/>
+      <attribute value="16" difficulty="3"/>
+    </check>
+    <check id="0x4" passable="true" autoCheck="true" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xc" failNewAction="0x1" fixedModifier="true" modifierTarget="0x21" modifier="5">
+      <skill value="37" difficulty="1"/>
+    </check>
+    <check id="0x5" passable="true" autoCheck="true" bypassArmor="true" passMessage="20" failMessage="21" passNewActionClass="0x2" passNewAction="0x6" failNewActionClass="0xc" failNewAction="0x2" modifier="-1">
+      <skill value="9" difficulty="1"/>
+      <attribute value="16" difficulty="3"/>
+    </check>
+    <check id="0x6" passable="true" autoCheck="true" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xc" failNewAction="0x2" fixedModifier="true" modifierTarget="0x21" modifier="5">
+      <skill value="37" difficulty="1"/>
+    </check>
+    <check id="0x7" passable="true" autoCheck="true" bypassArmor="true" passMessage="22" failMessage="23" passNewActionClass="0x2" passNewAction="0x8" failNewActionClass="0xc" failNewAction="0x3" modifier="-1">
+      <skill value="9" difficulty="1"/>
+      <attribute value="16" difficulty="3"/>
+    </check>
+    <check id="0x8" passable="true" autoCheck="true" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xc" failNewAction="0x3" fixedModifier="true" modifierTarget="0x21" modifier="5">
+      <skill value="37" difficulty="1"/>
+    </check>
+    <check id="0x9" passable="true" autoCheck="true" bypassArmor="true" passMessage="33" failMessage="34" passNewActionClass="0x2" passNewAction="0xa" failNewActionClass="0x6" failNewAction="0x3" modifier="-1">
+      <skill value="9" difficulty="1"/>
+      <attribute value="16" difficulty="3"/>
+    </check>
+    <check id="0xa" passable="true" autoCheck="true" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xc" failNewAction="0x4" fixedModifier="true" modifierTarget="0x21" modifier="5">
+      <skill value="37" difficulty="1"/>
+    </check>
+    <check id="0xb" passable="true" autoCheck="true" bypassArmor="true" passMessage="24" failMessage="25" passNewActionClass="0x2" passNewAction="0xc" failNewActionClass="0x6" failNewAction="0x2" modifier="-1">
+      <skill value="9" difficulty="1"/>
+      <attribute value="16" difficulty="3"/>
+    </check>
+    <check id="0xc" passable="true" autoCheck="true" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xc" failNewAction="0x5" fixedModifier="true" modifierTarget="0x21" modifier="5">
+      <skill value="37" difficulty="1"/>
+    </check>
+    <check id="0xd" passable="true" autoCheck="true" bypassArmor="true" passMessage="31" failMessage="32" passNewActionClass="0x2" passNewAction="0xe" failNewActionClass="0xc" failNewAction="0x6" modifier="-1">
+      <skill value="9" difficulty="1"/>
+      <attribute value="16" difficulty="3"/>
+    </check>
+    <check id="0xe" passable="true" autoCheck="true" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xc" failNewAction="0x6" fixedModifier="true" modifierTarget="0x21" modifier="5">
+      <skill value="37" difficulty="1"/>
+    </check>
+    <check id="0xf" passable="true" autoCheck="true" bypassArmor="true" passMessage="37" failMessage="45" passNewActionClass="0x2" passNewAction="0x10" failNewActionClass="0xc" failNewAction="0x7" modifier="-1">
+      <skill value="9" difficulty="1"/>
+      <attribute value="16" difficulty="3"/>
+    </check>
+    <check id="0x10" passable="true" autoCheck="true" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xc" failNewAction="0x7" fixedModifier="true" modifierTarget="0x21" modifier="5">
+      <skill value="37" difficulty="1"/>
+    </check>
+    <check id="0x11" passable="true" autoCheck="true" bypassArmor="true" passMessage="35" failMessage="36" passNewActionClass="0x2" passNewAction="0x12" failNewActionClass="0xc" failNewAction="0x8" modifier="-1">
+      <skill value="9" difficulty="1"/>
+      <attribute value="16" difficulty="3"/>
+    </check>
+    <check id="0x12" passable="true" autoCheck="true" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xc" failNewAction="0x8" fixedModifier="true" modifierTarget="0x21" modifier="5">
+      <skill value="37" difficulty="1"/>
+    </check>
+    <check id="0x13" passable="true" autoCheck="true" bypassArmor="true" passMessage="38" failMessage="39" passNewActionClass="0x2" passNewAction="0x14" failNewActionClass="0xc" failNewAction="0x9" modifier="-1">
+      <skill value="9" difficulty="1"/>
+      <attribute value="16" difficulty="3"/>
+    </check>
+    <check id="0x14" passable="true" autoCheck="true" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xc" failNewAction="0x9" fixedModifier="true" modifierTarget="0x21" modifier="5">
+      <skill value="37" difficulty="1"/>
+    </check>
+    <check id="0x15" passable="true" autoCheck="true" bypassArmor="true" passMessage="40" failMessage="41" passNewActionClass="0x2" passNewAction="0x16" failNewActionClass="0xc" failNewAction="0xa" modifier="-1">
+      <skill value="9" difficulty="1"/>
+      <attribute value="16" difficulty="3"/>
+    </check>
+    <check id="0x16" passable="true" autoCheck="true" passNewActionClass="0x0" passNewAction="0x0" failNewActionClass="0xc" failNewAction="0xa" fixedModifier="true" modifierTarget="0x21" modifier="5">
+      <skill value="37" difficulty="1"/>
+    </check>
+  </actions>
+  <actions actionClass="0x6">
+    <special id="0x0" action="0xb">0c 00 04</special>
+    <special id="0x1" action="0xb">0c 01 02</special>
+    <special id="0x2" action="0xb">0c 05 05</special>
+    <special id="0x3" action="0xb">0c 04 02</special>
+  </actions>
+  <actions actionClass="0xa">
+    <transition id="0x0" confirm="true" message="5"/>
+  </actions>
+  <actions actionClass="0xb">
+    <impassable id="0x0" message="1"/>
+    <impassable id="0x1" message="2"/>
+    <impassable id="0x2" message="3"/>
+    <impassable id="0x3" message="4"/>
+    <impassable id="0x4" message="43"/>
+    <impassable id="0x5" message="44"/>
+  </actions>
+  <actions actionClass="0xc">
+    <alteration id="0x0">
+      <alter relative="true" newActionClass="0x2" newAction="0x1"/>
+    </alteration>
+    <alteration id="0x1">
+      <alter relative="true" newActionClass="0x2" newAction="0x3"/>
+    </alteration>
+    <alteration id="0x2">
+      <alter relative="true" newActionClass="0x2" newAction="0x5"/>
+    </alteration>
+    <alteration id="0x3">
+      <alter relative="true" newActionClass="0x2" newAction="0x7"/>
+    </alteration>
+    <alteration id="0x4">
+      <alter relative="true" newActionClass="0x2" newAction="0x9"/>
+    </alteration>
+    <alteration id="0x5">
+      <alter relative="true" newActionClass="0x2" newAction="0xb"/>
+    </alteration>
+    <alteration id="0x6">
+      <alter relative="true" newActionClass="0x2" newAction="0xd"/>
+    </alteration>
+    <alteration id="0x7">
+      <alter relative="true" newActionClass="0x2" newAction="0xf"/>
+    </alteration>
+    <alteration id="0x8">
+      <alter relative="true" newActionClass="0x2" newAction="0x11"/>
+    </alteration>
+    <alteration id="0x9">
+      <alter relative="true" newActionClass="0x2" newAction="0x13"/>
+    </alteration>
+    <alteration id="0xa">
+      <alter relative="true" newActionClass="0x2" newAction="0x15"/>
+    </alteration>
+  </actions>
+  <npcs/>
+  <monsters/>
+  <strings>
+    <string id="0"></string>
+    <string id="1">\rThe brick walls are chipped and crumbly.\r</string>
+    <string id="2">\rThe wood walls are breaking apart.\r</string>
+    <string id="3">\rOuch!\r</string>
+    <string id="4">\rDo you always walk into walls?\r</string>
+    <string id="5">\rGetting out of here.\r</string>
+    <string id="6">\rThis building hasn't been used in almost a hundred years.\r</string>
+    <string id="7">\rThe dirt and leaves that have drifted into this building are almost a foot deep.\r</string>
+    <string id="8">\rIt looks like you have walked into the local trash dump.\r</string>
+    <string id="9">\rThis small business has been closed a long time.\r</string>
+    <string id="10">\rThe walls in this room are covered with graffiti.\r</string>
+    <string id="11">\rYou can hear the shuffling of small feet in the trash all around you.\r</string>
+    <string id="12">\rThe squeak of many rats echo hollowly in this empty room.\r</string>
+    <string id="13">\rAll the furniture in this room looks old and fragile.\r</string>
+    <string id="14">\rThere once was a door here, but...\r</string>
+    <string id="15">\rYou are walking on what is left of the door.\r</string>
+    <string id="16">\rWatch it! You almost stepped on that snake. Good thing it was leaving the room.\r</string>
+    <string id="17">\rOuch! You just got bit by a hit and slither desert snake. You are going to need help.\r</string>
+    <string id="18">\rGlowing desert tarantulas scatter away from your footsteps.\r</string>
+    <string id="19">\rA desert spider falls from the ceiling and bites you. It looks like it was poisonous.\r</string>
+    <string id="20">\rGood job! You stepped on and killed that scorpion. Be very careful. There may be more.\r</string>
+    <string id="21">\rThat scorpion bit you before scuttling off.\r</string>
+    <string id="22">\rThose mutant snapping turtles sure can move fast. Look at all of them scatter.\r</string>
+    <string id="23">\rMutant snapping turtles sure byte hard. And they hide good, too.\r</string>
+    <string id="24">\rRatts everywhere. All of them looking at you with beady red eyes.\r</string>
+    <string id="25">\rYou've been bitten by a dying rat. Too bad it was rabid.\r</string>
+    <string id="26">\rThe door opens.\r</string>
+    <string id="27">\rThe garbage in this room is knee deep, and it feels like it is moving.\r</string>
+    <string id="28">\rCareful, this table is so old and rickety it will fall apart if you sneeze on it.\r</string>
+    <string id="29">\rNo bouncing on this chair. It is going to break any second now.\r</string>
+    <string id="30">\rYuck! This has got to be the worst smelling room you have ever been in.\r</string>
+    <string id="31">\rYou can almost see that transparent snake as it slides off through the floorboards. Another mutant of the war.\r</string>
+    <string id="32">\rYou have just been bit by a transparent snake. You will need all the luck you have to find it.\r</string>
+    <string id="33">\rHey! Look at that. A bunch of flying scorpions.\r</string>
+    <string id="34">\rYou're going to need medical attention fast. You've just been stung by a flying scorpion.\r</string>
+    <string id="35">\rCrunch! Well that's one less mutant turtle in the world.\r</string>
+    <string id="36">\rCrunch! You killed that turtle, but it bit you first.\r</string>
+    <string id="37">\rMutant rats have no guts. Look at these run away.\r</string>
+    <string id="38">\rTen-legged blackwidows sure can run fast.\r</string>
+    <string id="39">\rOuch! You were just bit by a ten-legged blackwidow. Too bad for you.\r</string>
+    <string id="40">\rThese cute little yellow spiders don't look dangerous at all.\r</string>
+    <string id="41">\rFor cute little yellow spiders these guys sure bite hard. Lucky for you they don't live very long.\r</string>
+    <string id="42">\rSurprisingly the old swinging door opens at your touch. Old as it is it still works.\r</string>
+    <string id="43">\rThis wall is covered with spray-painted gang names, ugly pictures, bullet holes and blood.\r</string>
+    <string id="44">\rThis wall has WHITE BOY RULES and TIN MAN WAS HERE! written on it.\r</string>
+    <string id="45">\rAn old feeble rat just fell on your foot and died. Too bad he landed teeth first.\r</string>
+    <string id="46"></string>
+  </strings>
+  <tileMap unknown="0xaa9">
+    61 62 62 62 62 62 61 62 62 62 62 5a 5a 5a 5a 5a 5a 5a 5a 61 62 62 62 62 61 62 62 62 62 62 62 63
+    63 3d 3d 3d 3d 3d 63 3a 3a 3a 3a 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 60 3a 3a 3a 3a 3a 3a 63
+    63 3d 3d 3d 3d 3d 63 3a 3a 3a 3a 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 3a 3a 3a 3a 3a 3a 3a 63
+    63 3d 3d 3d 3d 3d 63 3a 3a 3a 3a 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 63 3a 3a 3a 3a 3a 3a 63
+    63 3d 3d 3d 3d 3d 63 3a 3a 3a 3a 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 63 3a 3a 3a 3a 3a 3a 63
+    63 3d 3d 3d 3d 3d 61 62 4e 62 62 5a 5a 5a 5a 5a 5a 5a 5a 61 62 62 62 62 61 62 62 60 3a 62 62 63
+    61 62 62 60 3d 62 60 3d 3d 3d 3d 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 60 3a 3a 3a 3a 3a 3a 63
+    72 3d 3d 3d 3d 3d 3d 3d 3d 3d 3d 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 3a 3a 3a 3a 3a 3a 3a 72
+    63 3d 3d 3d 3d 3d 63 3d 3d 3d 3d 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 63 3a 3a 3a 3a 3a 3a 63
+    61 62 62 62 63 3d 61 62 4e 62 62 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 61 62 4e 62 61 62 62 63
+    63 3a 3a 3a 63 3d 63 3a 3a 3a 3a 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 62 62 62 63 3a 3a 3a 63 3a 3a 63
+    63 3a 3a 3a 63 3d 63 3a 3a 3a 3a 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 63 3a 3a 3a 63 3a 3a 63
+    63 3a 3a 3a 63 3d 63 3a 3a 3a 3a 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 63 3a 3a 3a 63 3a 3a 63
+    63 3a 3a 3a 72 3d 63 3a 4f 52 3a 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 63 3a 3a 3a 72 3a 3a 63
+    5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 63
+    5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 63
+    5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 63
+    61 62 62 62 61 62 62 62 62 62 62 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 63
+    63 3a 4f 3a 63 4f 52 3a 3a 3a 3a 5a 5a 5a 5a 5a 5a 5a 5a 61 62 62 62 62 61 4e 4e 61 62 62 62 63
+    63 3a 3a 3a 63 3a 3a 3a 3a 3a 3a 5a 5a 5a 5a 5a 5a 5a 5a 63 52 3a 3a 3a 63 3a 3a 63 3a 3a 3a 63
+    63 3a 3a 52 61 62 62 62 61 4e 62 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 63 3a 3a 63 3a 3a 3a 63
+    63 3a 3a 3a 63 3d 3d 3d 63 3d 3d 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 63 3a 3a 63 3a 3a 3a 63
+    61 62 62 4e 63 3d 3d 3d 72 3d 3d 5a 5a 5a 5a 5a 5a 5a 5a 61 4e 62 62 62 60 3a 3a 62 62 60 3a 63
+    63 3d 3d 3d 63 3d 3d 3d 63 3d 3d 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 3a 3a 3a 3a 3a 3a 3a 63
+    63 3d 3d 3d 63 3d 3d 3d 63 3d 3d 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 3a 3a 3a 3a 3a 3a 3a 63
+    61 62 62 4e 62 62 62 62 62 4e 62 5a 5a 5a 5a 5a 5a 5a 5a 61 4e 62 62 62 63 3a 3a 61 62 62 4e 63
+    63 3a 3a 3a 3a 3a 3a 3a 3a 3a 3a 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 63 3a 3a 63 3a 3a 3a 63
+    61 62 63 3a 3a 3a 3a 3a 3a 61 62 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 63 3a 3a 63 3a 63 3a 63
+    63 3a 72 3a 62 62 62 60 3a 72 3a 5a 5a 5a 5a 5a 5a 5a 5a 61 62 62 62 4e 63 3a 3a 63 3a 60 3a 63
+    61 62 60 3a 3a 3a 3a 3a 3a 61 62 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 63 3a 3a 63 3a 3a 3a 63
+    63 3a 3a 3a 3a 3a 3a 3a 3a 72 3a 5a 5a 5a 5a 5a 5a 5a 5a 63 3a 3a 3a 3a 63 3a 3a 72 3a 3a 3a 63
+    62 62 62 62 62 62 4e 62 62 62 62 62 62 62 62 62 62 62 62 62 62 62 62 62 62 62 62 62 62 62 62 60
+  </tileMap>
+</map>

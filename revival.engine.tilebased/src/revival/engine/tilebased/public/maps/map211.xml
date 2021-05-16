@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map xmlns="http://ailis.de/wlandsuite" mapSize="64" msqSize="11143" tilemapOffset="9680" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ailis.de/wlandsuite http://www.ailis.de/~k/software/projects/wlandsuite/schemas/wlandsuite.xsd">
+  <actionClassMap>
+    bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaabbbbbbbbbbb
+    b81111111111111111111111111bbbbbbbbbbbbb11111111111111111111bbbb
+    bbb111111111111111111111111bbbbbbbbbbbbb11111111111111111111bbbb
+    b11111111111111111111111111bbbbbbbbbbbbb11111111111111111111bbbb
+    b11111111111111111111111111bbbbbbbbbbbbb11111111111111111111bbbb
+    b11111111111111111111111111bbbbbbbbbbbbb11111111111111111111bbbb
+    b11111111111111111111111111bbbbbbbbbbbbb11111111111111111111bbbb
+    b11111111111111111111111111bbbbbbbbbbbbb11111111111111111111bbbb
+    bbbbbbb1bb11111111111111111bbbbbbbbbbbbbbbbbbbb111111bbbbbbbbbbb
+    bbbbbbb2bb11111111111111111bbbbbbbbbbbbbbbbbbbbbbb2bbbbbbbbbbbbb
+    b111111cbbbbbbbbbbbb2bbbbbbbbbbbbbbbbbbbbbbbbbb111111bbbbbbbbbbb
+    b1111111bb1111111111111bbbbbbbbbbbbbbbbbbbbbbbb111111bbbbbbbbbbb
+    b1111111bb11111111111112c12bbbbbbbbb8111111111b111111b11b111b11b
+    b14b1111bb1111111111111bbbbbbbbbbbbbbbb11111112111111b1111b1111b
+    bbbbb111bbbbbbbbbbbbbbbbbbbbbbbbbbbb1111111111b1111112111b1b111b
+    bbbbb111bbbbbbbbbbbbbbbbbbbbbbbbbbbb111bbbbbbbbbbbbbbb1b1b1b1b1b
+    bbbbb111bbbbbbbbbbbbbbbbbbbbbbbbbbbb111b1211b11b11b11b1b1b1b1b1b
+    baaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb111b1b11b11211211b111b1b111b
+    bcccb111...................bbbbbbbbb11121bbbbbbbb1b2bb1111b1111b
+    b444b...........b..........bbbbbbbbb111b1b1111b121b11b111111111b
+    b111b......................bbbbbbbbb111b1bbb2bbbb1bbbb1111bb1bbb
+    b..........................bbbbbbbbb111b111111111111121111b111bb
+    b.......b..................bbbbbbbbb111b2bbb2bbbb2b2bb1111bb11bb
+    b..............22..........bbbbbbbbb111b11b1111b11b11b1111b1111b
+    b.............2..2.........bbbbbbbbb111b11b1111b11b11b1111b1bbbb
+    b.......222222....2........bbbbbbbbbaaabbbbbbbbbbbbbbbbbbbbbbbbb
+    b......2...........2.......bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    b.....2.........b...2......bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    b....2.b..222.......2......bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    b...2....2...2......2......bbbbbbbbbbbbbbbbbbbbbbb21bbbbbbbbb21b
+    b...2...2.222.2.....2......bbbbbbbbbb8111bbbbbbbbb11bbbbbbbbb11b
+    b...2..2..2a2.2.....2......bbbbbbbbbbbb11bbbbbbbbb11bbbbbbbbb11b
+    b..2.b..2.212.2...b.2......bbbbbbbbbb1111bbbbbbbbb11bbbbbbbbb11a
+    b.2......2222.2.....2......bbbbbbbbba1b2bbbbbbbbbb11bbbbbbbbb11b
+    b..2.....2...2.....2.......bbbbbbbbba1b11bbbbbbbbbbabbbbbbbbbbbb
+    b...2....2222.....2........bbbbbbbbba1b11bbbbbbbbbbbbbbbbbbbbbbb
+    b....2...........2.........bbbbbbbbbbbb11bbbbbbbbbbbbbbbbbbbbbbb
+    b....2....b.....2..........bbbbbbbbbbbb11bbbbbbbbbbbbbbbbbbbbbbb
+    b.....2........2.....bbb...bbbbbbbbb11111bbbbbbbbbbbbbbbbbbbb11b
+    b.....222222222............bbbbbbbbbbbbbbbbbbbbbbb21bbbbbbbbb11a
+    b..........................bbbbbbbbbbbbbbbbbbbbbbb11bbbbbbbbb11b
+    b..b.......................bbbbbbbbbbbbbbbbbbbbbbb11bbbbbbbbb11b
+    b.........b................bbbbbbbbbbbbbbbbbbbbbbb11bbbbbbbbb11b
+    b..........................bbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbb
+    b..........................bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    b.........2222.............bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    b........2....2............bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    b........2.22..2...........bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    b........2.212..2..........................................2222b
+    b........2.2a2...2..................222222222222...........2222b
+    b........2.212b...22222222.........2............2....b.....2222b
+    b...222222.222............2.......2.....222222...2.........2222b
+    b..2.............b.....b..2..b...2.....222222222..2........2221a
+    b..2.b..2222.............12......2.b...22.....222..2....b..2221a
+    b..2...222222.............2......21....22.222..22...2......2221a
+    b..2...22a122..b......2222.......2.....22.2a12.22....2.....2222b
+    b...2..222222........2.....222b..2.b...22.2222.22....2.....2222b
+    b....2..2222......b.2....1.....22......2222222222....2.....2222b
+    b.....2............2.......22222........22222222.....2.....2222b
+    b......222222222222......22...........b..............2.....2222b
+    b..........b............2..................b...b.....2......222b
+    b.................b....2....b.......................2........22b
+    b......................2...........................2..........2b
+    bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  </actionClassMap>
+  <actionMap>
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 07 07 07 07 07 07 07 16 16 16 16 16 16 07 07 07 07 07 07 07 07 00 00 00
+    00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 07 07 07 07 07 07 07 00 00 00 00 00 00 07 07 07 07 07 07 07 07 00 00 00
+    02 02 02 02 02 02 02 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 07 07 07 00 07 07 07 00 00 00 00 00 00 00 00 00 00
+    02 00 00 00 00 00 00 0b 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    02 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    02 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0a 0c 00 0b 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 09 00 00 00 09 00 00 00
+    02 00 05 09 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 09 00 00 00 00 00
+    02 02 02 02 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 09 00 09 00 00 00 00
+    00 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 09 00 09 00 09 00 09 00 00
+    00 00 00 00 02 04 04 04 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 06 00 01 00 00 01 00 00 00 00 00 00 00 09 00 09 00 09 00 09 00 00
+    00 07 07 07 00 06 06 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 06 00 00 00 00 00 09 00 09 00 00 00 00
+    00 02 02 02 00 05 05 05 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 01 01 01 01 01 00 00 00 00 00 00 00 00 00 00 09 00 00 00 00 00
+    00 04 04 04 00 .. .. .. .. .. .. .. .. .. .. .. 03 .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 06 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 00
+    00 00 00 00 00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 07 00 00 00 00 00 08 00 09 00
+    00 .. .. .. .. .. .. .. 04 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 09 00 00 09 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 03 .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 06 00 01 00 06 00 00 01 00 06 01 06 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. 03 .. .. 03 .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 01 00 00 01 00 00 00 00 00 00 00 00 00 09 09 09 00
+    00 .. .. .. .. .. .. .. 03 03 03 03 03 03 .. .. .. .. 03 .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 06 06 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. .. .. 03 .. .. .. .. .. .. .. .. .. .. .. 03 .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. .. 03 .. .. .. .. .. .. .. .. .. 03 .. .. .. 03 .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. 03 .. 04 .. .. 03 03 03 .. .. .. .. .. .. .. 03 .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. 03 .. .. .. .. 03 .. .. .. 03 .. .. .. .. .. .. 03 .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 07 00 00
+    00 .. .. .. 03 .. .. .. 03 .. 04 04 04 .. 03 .. .. .. .. .. 03 .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 03 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. 03 .. .. 03 .. .. 04 04 04 .. 03 .. .. .. .. .. 03 .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 01 01 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. 03 .. 03 .. .. 03 .. 04 00 04 .. 03 .. .. .. 03 .. 03 .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0b
+    00 .. 03 .. .. .. .. .. .. 03 04 04 04 .. 03 .. .. .. .. .. 03 .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 0f 00 01 02 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. 03 .. .. .. .. .. 03 .. .. .. 03 .. .. .. .. .. 03 .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 0f 00 01 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. 03 .. .. .. .. 03 03 03 03 .. .. .. .. .. 03 .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 0f 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. 03 .. .. .. .. .. .. .. .. .. .. .. 03 .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 01 01 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. 03 .. .. .. .. 04 .. .. .. .. .. 03 .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. .. 03 .. .. .. .. .. .. .. .. 03 .. .. .. .. .. 03 04 03 .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. .. 03 03 03 03 03 03 03 03 03 .. .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 00 00 00 00 0d
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. .. .. .. .. .. 04 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 09 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. .. .. .. .. .. 03 03 03 03 .. .. .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. .. .. .. .. 03 .. .. .. .. 03 .. .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. .. .. .. .. 03 .. 04 04 .. .. 03 .. .. .. .. .. .. .. .. .. .. .. 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    00 .. .. .. .. .. .. .. .. 03 .. 04 00 04 .. .. 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 04 04 04 00
+    00 .. .. .. .. .. .. .. .. 03 .. 04 08 04 .. .. .. 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 04 04 04 04 04 04 04 04 04 04 04 .. .. .. .. .. .. .. .. .. .. .. 04 04 04 04 00
+    00 .. .. .. .. .. .. .. .. 03 .. 04 00 04 03 .. .. .. 03 03 03 03 03 03 03 03 .. .. .. .. .. .. .. .. .. 04 .. .. .. .. .. .. .. .. .. .. .. .. 04 .. .. .. .. 04 .. .. .. .. .. 04 04 04 04 00
+    00 .. .. .. 03 03 03 03 03 03 .. 04 04 04 .. .. .. .. .. .. .. .. .. .. .. .. 03 .. .. .. .. .. .. .. 04 .. .. .. .. .. 04 04 04 04 04 04 .. .. .. 04 .. .. .. .. .. .. .. .. .. 04 04 04 04 00
+    00 .. .. 03 .. .. .. .. .. .. .. .. .. .. .. .. .. 04 .. .. .. .. .. 03 .. .. 03 .. .. 03 .. .. .. 04 .. .. .. .. .. 04 04 04 04 04 04 04 04 04 .. .. 03 .. .. .. .. .. .. .. .. 04 04 04 00 0e
+    00 .. .. 03 .. 03 .. .. 04 04 04 04 .. .. .. .. .. .. .. .. .. .. .. .. .. 00 03 .. .. .. .. .. .. 04 .. 03 .. .. .. 04 04 .. .. .. .. .. 04 04 04 .. .. 03 .. .. .. .. 03 .. .. 04 04 04 00 0e
+    00 .. .. 03 .. .. .. 04 04 04 04 04 04 .. .. .. .. .. .. .. .. .. .. .. .. .. 03 .. .. .. .. .. .. 04 00 .. .. .. .. 04 04 .. 04 04 04 .. .. 04 04 .. .. .. 03 .. .. .. .. .. .. 04 04 04 00 0e
+    00 .. .. 03 .. .. .. 04 04 0a 00 04 04 .. .. 03 .. .. .. .. .. .. 03 03 03 03 .. .. .. .. .. .. .. 04 .. .. .. .. .. 04 04 .. 04 0c 00 04 .. 04 04 .. .. .. .. 03 .. .. .. .. .. 04 04 04 04 00
+    00 .. .. .. 03 .. .. 04 04 04 04 04 04 .. .. .. .. .. .. .. .. 03 .. .. .. .. .. 05 05 05 03 .. .. 04 .. 04 .. .. .. 04 04 .. 04 04 04 04 .. 04 04 .. .. .. .. 03 .. .. .. .. .. 04 04 04 04 00
+    00 .. .. .. .. 03 .. .. 04 04 04 04 .. .. .. .. .. .. 04 .. 03 .. .. .. .. 00 .. .. .. .. .. 05 03 .. .. .. .. .. .. 04 04 04 04 04 04 04 04 04 04 .. .. .. .. 03 .. .. .. .. .. 04 04 04 04 00
+    00 .. .. .. .. .. 03 .. .. .. .. .. .. .. .. .. .. .. .. 03 .. .. .. .. .. .. .. 03 03 03 03 03 .. .. .. .. .. .. .. .. 04 04 04 04 04 04 04 04 .. .. .. .. .. 03 .. .. .. .. .. 04 04 04 04 00
+    00 .. .. .. .. .. .. 03 03 03 03 03 03 03 03 03 03 03 03 .. .. .. .. .. .. 03 03 .. .. .. .. .. .. .. .. .. .. .. 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 .. .. .. .. .. 04 04 04 04 00
+    00 .. .. .. .. .. .. .. .. .. .. 04 .. .. .. .. .. .. .. .. .. .. .. .. 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 .. .. .. 03 .. .. .. .. .. 03 .. .. .. .. .. .. 04 04 04 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 .. .. .. .. 03 .. .. .. .. 04 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 .. .. .. .. .. .. .. .. 04 04 00
+    00 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 03 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 04 .. .. .. .. .. .. .. .. .. .. 04 00
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+  </actionMap>
+  <info tileset="8" timeFactor="128" encounterFrequency="30" lastMonster="7" maxEncounters="4" unknown0="0x10" unknown1="0x3" unknown9="0x2"/>
+  <battleStrings s0="61" s1="62" s2="63" s3="64" s4="65" s5="66" s6="67" s7="68" s8="69" s9="70" s10="69" s11="71" s12="72" s13="73" s14="69" s15="74" s16="69" s17="75" s18="69" s19="76" s20="77" s21="78" s22="79" s23="80" s24="81" s25="82" s26="83" s27="84" s28="85" s29="86" s30="87" s31="88" s32="89" s33="90" s34="91" s35="92" s36="93"/>
+  <actions actionClass="0x1">
+    <print id="0x0">
+      <message>0</message>
+    </print>
+    <print id="0x1" newActionClass="0xfe">
+      <message>18</message>
+      <message>15</message>
+      <message>19</message>
+    </print>
+    <print id="0x2" newActionClass="0xfe">
+      <message>18</message>
+      <message>16</message>
+      <message>19</message>
+    </print>
+    <print id="0x3" newActionClass="0xfe">
+      <message>18</message>
+      <message>17</message>
+      <message>19</message>
+    </print>
+    <print id="0x4">
+      <message>4</message>
+    </print>
+    <print id="0x5">
+      <message>60</message>
+    </print>
+    <print id="0x6">
+      <message>52</message>
+    </print>
+    <print id="0x7">
+      <message>53</message>
+    </print>
+    <print id="0x8">
+      <message>54</message>
+    </print>
+  </actions>
+  <actions actionClass="0x2">
+    <check id="0x0" startMessage="1" passMessage="2" failMessage="3" passNewActionClass="0x4" passNewAction="0x1" modifierTarget="0x0">
+      <item value="85"/>
+    </check>
+    <check id="0x2" startMessage="23" passMessage="2" failMessage="3" passNewActionClass="0xc" passNewAction="0x0" modifierTarget="0x0">
+      <item value="7"/>
+      <item value="8"/>
+      <item value="11"/>
+      <item value="9"/>
+      <item value="10"/>
+      <item value="12"/>
+      <item value="85"/>
+      <item value="84"/>
+      <attribute value="14" difficulty="3"/>
+      <item value="45"/>
+      <item value="56"/>
+      <item value="1"/>
+      <item value="53"/>
+    </check>
+    <check id="0x3" startMessage="27" passMessage="28" failMessage="29" fixedModifier="true" modifier="-2">
+      <skill value="2" difficulty="2"/>
+      <attribute value="18" difficulty="3"/>
+      <item value="54"/>
+    </check>
+    <check id="0x4" startMessage="27" passMessage="28" failMessage="29" fixedModifier="true" modifier="-4">
+      <skill value="2" difficulty="3"/>
+      <attribute value="18" difficulty="4"/>
+      <item value="54"/>
+    </check>
+    <check id="0x5" passable="true" autoCheck="true" party="true" failNewActionClass="0xc" failNewAction="0x4" modifierTarget="0x0">
+      <skill value="16" difficulty="4"/>
+    </check>
+    <check id="0x6" passable="true" startMessage="38" modifierTarget="0x0">
+      <item value="7" newActionClass="0x6" newAction="0x2"/>
+      <item value="8" newActionClass="0x6" newAction="0x2"/>
+      <item value="11" newActionClass="0x6" newAction="0x2"/>
+      <item value="9" newActionClass="0x6" newAction="0x2"/>
+      <item value="10" newActionClass="0x6" newAction="0x2"/>
+      <item value="12" newActionClass="0x6" newAction="0x2"/>
+      <attribute value="14" difficulty="3" newActionClass="0x3" newAction="0x5"/>
+      <item value="45" newActionClass="0x3" newAction="0x5"/>
+      <item value="56" newActionClass="0x3" newAction="0x5"/>
+    </check>
+    <check id="0x7" passable="true" startMessage="38" modifierTarget="0x0">
+      <item value="7" newActionClass="0x6" newAction="0x2"/>
+      <item value="8" newActionClass="0x6" newAction="0x2"/>
+      <item value="11" newActionClass="0x6" newAction="0x2"/>
+      <item value="9" newActionClass="0x6" newAction="0x2"/>
+      <item value="10" newActionClass="0x6" newAction="0x2"/>
+      <item value="12" newActionClass="0x6" newAction="0x2"/>
+      <attribute value="14" difficulty="3" newActionClass="0x3" newAction="0x6"/>
+      <item value="45" newActionClass="0x3" newAction="0x6"/>
+      <item value="56" newActionClass="0x3" newAction="0x6"/>
+    </check>
+    <check id="0x8" passable="true" startMessage="38" modifierTarget="0x0">
+      <item value="7" newActionClass="0x6" newAction="0x2"/>
+      <item value="8" newActionClass="0x6" newAction="0x2"/>
+      <item value="11" newActionClass="0x6" newAction="0x2"/>
+      <item value="9" newActionClass="0x6" newAction="0x2"/>
+      <item value="10" newActionClass="0x6" newAction="0x2"/>
+      <item value="12" newActionClass="0x6" newAction="0x2"/>
+      <attribute value="14" difficulty="3" newActionClass="0x3" newAction="0x7"/>
+      <item value="45" newActionClass="0x3" newAction="0x7"/>
+      <item value="56" newActionClass="0x3" newAction="0x7"/>
+    </check>
+    <check id="0xa" passable="true" autoCheck="true" failMessage="43" passNewActionClass="0xa" passNewAction="0x10" failNewActionClass="0xa" failNewAction="0x11" modifierTarget="0x0">
+      <members value="1"/>
+    </check>
+    <check id="0xb" passable="true" unknown1="true" startMessage="45" passMessage="46" failMessage="47" failNewActionClass="0xc" failNewAction="0x7" modifierTarget="0x0">
+      <item value="60" newActionClass="0x2" newAction="0xc"/>
+      <item value="58" newActionClass="0x2" newAction="0x11"/>
+    </check>
+    <check id="0xc" passable="true" autoCheck="true" passMessage="48" failMessage="49" passNewActionClass="0xa" passNewAction="0x15" modifierTarget="0x0">
+      <attribute value="15" difficulty="5"/>
+      <skill value="35" difficulty="2"/>
+    </check>
+    <check id="0xf" passable="true" startMessage="42" passNewActionClass="0x6" passNewAction="0x2" modifierTarget="0x0">
+      <item value="7"/>
+      <item value="8"/>
+      <item value="11"/>
+      <item value="9"/>
+      <item value="10"/>
+      <item value="12"/>
+    </check>
+    <check id="0x10" startMessage="56" passMessage="57" failMessage="56" passNewActionClass="0xc" passNewAction="0xa" modifierTarget="0x0">
+      <attribute value="19" difficulty="4"/>
+      <attribute value="18" difficulty="4"/>
+    </check>
+    <check id="0x11" autoCheck="true" bypassArmor="true" failMessage="41" passNewActionClass="0xc" passNewAction="0x7" failNewActionClass="0xc" failNewAction="0x7" modifier="-4">
+      <skill value="37" difficulty="1"/>
+    </check>
+  </actions>
+  <actions actionClass="0x3">
+    <encounter id="0x0" visibleDistance="120" hitDistance="120" message="26" monster1="8" maxGroupSize1="1" properName="true" newActionClass="0x5" newAction="0x1"/>
+    <encounter id="0x1" visibleDistance="120" hitDistance="120" monster1="7" maxGroupSize1="3" random1="true" properName="true" newActionClass="0x1" newAction="0x0"/>
+    <encounter id="0x2" visibleDistance="120" hitDistance="120" monster1="7" maxGroupSize1="3" random1="true" properName="true" newActionClass="0x5" newAction="0x2"/>
+    <encounter id="0x3" visibleDistance="120" hitDistance="120" monster1="1" maxGroupSize1="1" random1="true" monster2="1" maxGroupSize2="3" random2="true" monster3="1" maxGroupSize3="5" random3="true" properName="true" newActionClass="0x1" newAction="0x0"/>
+    <encounter id="0x5" visibleDistance="120" hitDistance="120" message="40" monster1="1" maxGroupSize1="7" random1="true" properName="true" unknown093="true" newActionClass="0x2" newAction="0xf"/>
+    <encounter id="0x6" visibleDistance="120" hitDistance="120" message="40" monster1="7" maxGroupSize1="1" properName="true" unknown093="true" newActionClass="0x2" newAction="0xf"/>
+    <encounter id="0x7" visibleDistance="120" hitDistance="120" message="40" monster1="7" maxGroupSize1="1" properName="true" unknown093="true" newActionClass="0x2" newAction="0xf"/>
+  </actions>
+  <actions actionClass="0x4">
+    <mask id="0x0" tile="72" message="10"/>
+    <mask id="0x1" tile="51" message="12"/>
+    <mask id="0x2" tile="72" message="39"/>
+    <mask id="0x4" tile="40" impassable="true" message="33"/>
+    <mask id="0x5" tile="7" impassable="true"/>
+  </actions>
+  <actions actionClass="0x5">
+    <loot id="0x1" newActionClass="0x1" newAction="0x0">
+      <item value="60"/>
+      <randomMoney quantity="1000"/>
+    </loot>
+    <loot id="0x2" newActionClass="0x1" newAction="0x0">
+      <item value="27" quantity="2"/>
+      <item value="34" quantity="6"/>
+      <item value="68"/>
+      <item value="40"/>
+    </loot>
+  </actions>
+  <actions actionClass="0x6">
+    <special id="0x2" action="0x1c">04 02</special>
+  </actions>
+  <actions actionClass="0x8">
+    <dialogue id="0x0" menu="true" message="5">
+      <answer message="6" newActionClass="0xa" newAction="0x0"/>
+      <answer message="13" newActionClass="0x1" newAction="0x1"/>
+    </dialogue>
+    <dialogue id="0x1" menu="true" message="59">
+      <answer message="6" newActionClass="0x1" newAction="0x2"/>
+      <answer message="13" newActionClass="0xa" newAction="0x1"/>
+      <answer message="14" newActionClass="0x8" newAction="0x2"/>
+    </dialogue>
+    <dialogue id="0x2" message="20" cancelNewActionClass="0x8" cancelNewAction="0x1" otherNewActionClass="0x8" otherNewAction="0x4">
+      <answer message="21" newActionClass="0xa" newAction="0x3"/>
+    </dialogue>
+    <dialogue id="0x3" menu="true" message="59">
+      <answer message="6" newActionClass="0xa" newAction="0x0"/>
+      <answer message="13" newActionClass="0xa" newAction="0x1"/>
+      <answer message="14" newActionClass="0x1" newAction="0x3"/>
+    </dialogue>
+    <dialogue id="0x4" message="22" cancelNewActionClass="0x8" cancelNewAction="0x1" otherNewActionClass="0x8" otherNewAction="0x5">
+      <answer message="21" newActionClass="0xa" newAction="0x3"/>
+    </dialogue>
+    <dialogue id="0x5" message="22" cancelNewActionClass="0x8" cancelNewAction="0x1" otherNewActionClass="0xc" otherNewAction="0x5">
+      <answer message="21" newActionClass="0xa" newAction="0x3"/>
+    </dialogue>
+    <dialogue id="0x6" menu="true" message="59">
+      <answer message="6" newActionClass="0x1" newAction="0x2"/>
+      <answer message="13" newActionClass="0xa" newAction="0x1"/>
+      <answer message="14" newActionClass="0x8" newAction="0x7"/>
+    </dialogue>
+    <dialogue id="0x7" message="20" cancelNewActionClass="0x8" cancelNewAction="0x6" otherNewActionClass="0x8" otherNewAction="0x8">
+      <answer message="21" newActionClass="0xa" newAction="0x3"/>
+    </dialogue>
+    <dialogue id="0x8" message="22" cancelNewActionClass="0x8" cancelNewAction="0x6" otherNewActionClass="0x8" otherNewAction="0x6">
+      <answer message="21" newActionClass="0xa" newAction="0x3"/>
+    </dialogue>
+  </actions>
+  <actions actionClass="0xa">
+    <transition id="0x0" targetX="2" targetY="1" targetMap="22" newActionClass="0xfe"/>
+    <transition id="0x1" targetX="37" targetY="12" targetMap="22" newActionClass="0xfe"/>
+    <transition id="0x2" targetX="36" targetY="38" targetMap="22" newActionClass="0x8" newAction="0x6"/>
+    <transition id="0x3" targetX="38" targetY="30" targetMap="22" newActionClass="0x8" newAction="0x1"/>
+    <transition id="0x4" targetX="51" targetY="33" targetMap="22"/>
+    <transition id="0x5" targetX="11" targetY="32" targetMap="22"/>
+    <transition id="0x6" relative="true" targetX="-35" targetY="-7" targetMap="22"/>
+    <transition id="0x7" relative="true" targetX="35" targetY="7" targetMap="22"/>
+    <transition id="0x8" targetX="51" targetY="42" targetMap="22"/>
+    <transition id="0x9" targetX="12" targetY="50" targetMap="22"/>
+    <transition id="0xa" targetX="62" targetY="32" targetMap="22"/>
+    <transition id="0xb" targetX="10" targetY="55" targetMap="22"/>
+    <transition id="0xc" targetX="62" targetY="39" targetMap="22"/>
+    <transition id="0xd" targetX="44" targetY="55" targetMap="22"/>
+    <transition id="0xe" relative="true" targetX="-26" targetY="-19" targetMap="22"/>
+    <transition id="0xf" relative="true" targetX="26" targetY="19" targetMap="22"/>
+    <transition id="0x10" targetX="25" targetY="12" targetMap="22" newActionClass="0xb" newAction="0x5"/>
+    <transition id="0x11" targetX="22" targetY="12" targetMap="22" newActionClass="0x2" newAction="0xa"/>
+    <transition id="0x13" targetX="22" targetY="12" targetMap="22" newActionClass="0x2" newAction="0xb"/>
+    <transition id="0x14" targetX="22" targetY="12" targetMap="22" newActionClass="0x2" newAction="0xc"/>
+    <transition id="0x15" message="50" targetX="10" targetY="16" targetMap="23" newActionClass="0xc" newAction="0x1"/>
+    <transition id="0x16" confirm="true" targetX="15" targetY="28" targetMap="21"/>
+    <transition id="0x17" targetX="22" targetY="12" targetMap="22" newActionClass="0x2" newAction="0xc"/>
+    <transition id="0x18" targetX="22" targetY="12" targetMap="22" newActionClass="0xc" newAction="0xc"/>
+  </actions>
+  <actions actionClass="0xb">
+    <impassable id="0x0" message="7"/>
+    <impassable id="0x1" message="8"/>
+    <impassable id="0x2" message="9"/>
+    <impassable id="0x3" message="31"/>
+    <impassable id="0x4" message="32"/>
+    <impassable id="0x5" message="33"/>
+    <impassable id="0x6"/>
+    <impassable id="0x7" message="51"/>
+    <impassable id="0x8" message="56"/>
+    <impassable id="0x9" message="44"/>
+  </actions>
+  <actions actionClass="0xc">
+    <alteration id="0x0" message="24" newActionClass="0x4" newAction="0x1">
+      <alter x="2" y="13" newActionClass="0x3" newAction="0x0"/>
+      <alter x="7" y="10" newActionClass="0x1" newAction="0x0"/>
+      <alter x="1" y="1" newActionClass="0x8" newAction="0x6"/>
+    </alteration>
+    <alteration id="0x1" newActionClass="0xa" newAction="0x17">
+      <alter unknown="0x40" x="23" y="12" newActionClass="0x2" newAction="0xa"/>
+    </alteration>
+    <alteration id="0x2" message="34">
+      <alter x="1" y="18" newActionClass="0x1" newAction="0x0"/>
+      <alter x="2" y="18" newActionClass="0x1" newAction="0x0"/>
+      <alter x="3" y="18" newActionClass="0x1" newAction="0x0"/>
+      <alter x="1" y="19" newActionClass="0x1" newAction="0x0"/>
+      <alter x="2" y="19" newActionClass="0x1" newAction="0x0"/>
+      <alter x="3" y="19" newActionClass="0x1" newAction="0x0"/>
+      <alter x="1" y="20" newActionClass="0xc" newAction="0x3"/>
+      <alter x="2" y="20" newActionClass="0xc" newAction="0x3"/>
+      <alter x="3" y="20" newActionClass="0xc" newAction="0x3"/>
+    </alteration>
+    <alteration id="0x3" message="35">
+      <alter x="1" y="18" newActionClass="0xc" newAction="0x2"/>
+      <alter x="2" y="18" newActionClass="0xc" newAction="0x2"/>
+      <alter x="3" y="18" newActionClass="0xc" newAction="0x2"/>
+      <alter x="1" y="19" newActionClass="0x4" newAction="0x4"/>
+      <alter x="2" y="19" newActionClass="0x4" newAction="0x4"/>
+      <alter x="3" y="19" newActionClass="0x4" newAction="0x4"/>
+      <alter x="1" y="20" newActionClass="0x1" newAction="0x0"/>
+      <alter x="2" y="20" newActionClass="0x1" newAction="0x0"/>
+      <alter x="3" y="20" newActionClass="0x1" newAction="0x0"/>
+    </alteration>
+    <alteration id="0x4" message="36">
+      <alter x="25" y="53" newActionClass="0x3" newAction="0x1"/>
+      <alter x="34" y="54" newActionClass="0x3" newAction="0x2"/>
+      <alter x="25" y="57" newActionClass="0x3" newAction="0x3"/>
+      <alter x="27" y="56" newActionClass="0x1" newAction="0x0"/>
+      <alter x="28" y="56" newActionClass="0x1" newAction="0x0"/>
+      <alter x="29" y="56" newActionClass="0x1" newAction="0x0"/>
+      <alter x="31" y="57" newActionClass="0x1" newAction="0x0"/>
+    </alteration>
+    <alteration id="0x5" newActionClass="0xa" newAction="0x2">
+      <alter x="37" y="38" newActionClass="0xb" newAction="0x8"/>
+      <alter x="38" y="38" newActionClass="0xc" newAction="0x9"/>
+      <alter x="36" y="38" newActionClass="0x2" newAction="0x10"/>
+    </alteration>
+    <alteration id="0x7" newActionClass="0xa" newAction="0x13">
+      <alter unknown="0x40" x="23" y="12" newActionClass="0x2" newAction="0xa"/>
+    </alteration>
+    <alteration id="0x8" newActionClass="0xa" newAction="0x14">
+      <alter unknown="0x40" x="23" y="12" newActionClass="0x2" newAction="0xa"/>
+    </alteration>
+    <alteration id="0x9" message="58" newActionClass="0x1" newAction="0x0">
+      <alter x="37" y="38" newActionClass="0x1" newAction="0x0"/>
+      <alter x="36" y="38" newActionClass="0x1" newAction="0x0"/>
+    </alteration>
+    <alteration id="0xa" newActionClass="0x1" newAction="0x0">
+      <alter x="38" y="38" newActionClass="0x1" newAction="0x0"/>
+      <alter x="37" y="38" newActionClass="0x1" newAction="0x0"/>
+    </alteration>
+    <alteration id="0xb" message="25" newActionClass="0x1" newAction="0x0">
+      <alter x="2" y="13" newActionClass="0x1" newAction="0x0"/>
+    </alteration>
+    <alteration id="0xc" newActionClass="0xa" newAction="0x18">
+      <alter unknown="0x40" x="23" y="12" newActionClass="0x2" newAction="0xa"/>
+    </alteration>
+  </actions>
+  <actions actionClass="0xf">
+    <encounter id="0x0" message="36" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x1" message="36" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x2" message="36" properName="true" newActionClass="0x0" newAction="0x0"/>
+    <encounter id="0x3" message="36" properName="true" newActionClass="0x0" newAction="0x0"/>
+  </actions>
+  <npcs/>
+  <monsters>
+    <monster id="0"/>
+    <monster id="1" name="Spawn Wol\nf\nves\n" experience="50" ac="2" skill="2" fixedDamage="10" randomDamage="5" maxGroupSize="6" weaponType="1" monsterType="1" picture="61"/>
+    <monster id="2" name="Rodento Gross\no\ni\n" experience="30" skill="2" fixedDamage="6" randomDamage="5" maxGroupSize="7" weaponType="1" monsterType="1" picture="61"/>
+    <monster id="3" name="Spineback Puma\n\ns\n" experience="70" ac="4" skill="3" randomDamage="5" maxGroupSize="4" weaponType="1" monsterType="1" picture="61"/>
+    <monster id="4" name="Shadow Panther\n\ns\n" experience="80" ac="6" skill="3" fixedDamage="4" randomDamage="9" maxGroupSize="5" weaponType="1" monsterType="1" picture="61"/>
+    <monster id="5" name="Carapaced Coyote\n\ns\n" experience="45" ac="7" skill="2" fixedDamage="8" randomDamage="4" maxGroupSize="9" weaponType="1" monsterType="1" picture="61"/>
+    <monster id="6" name="Humongous Coyote\n\ns\n" experience="200" ac="8" skill="4" fixedDamage="14" randomDamage="10" maxGroupSize="2" weaponType="1" monsterType="1" picture="61"/>
+    <monster id="7" name="Spawnmaster\n\ns\n" experience="60" ac="6" skill="25" fixedDamage="2" randomDamage="6" maxGroupSize="5" weaponType="6" monsterType="5" picture="77"/>
+    <monster id="8" name="Irwin John Finster\n\ns\n" experience="150" ac="5" skill="30" randomDamage="8" weaponType="6" monsterType="5" picture="65"/>
+  </monsters>
+  <strings>
+    <string id="0"></string>
+    <string id="1">\rA titanium door with a slot in it blocks you.\r</string>
+    <string id="2">\rThe door opens.\r</string>
+    <string id="3">\rStill closed.\r</string>
+    <string id="4">\rA steel balcony stops you. Beyond is Finster's mad vision of Earth transformed.\r</string>
+    <string id="5">Elevator Control:\r\r\x11\x10Upper Level\r\x10Ground Level\r</string>
+    <string id="6">U</string>
+    <string id="7">\rThe steel walls look old.\r</string>
+    <string id="8">\rThe walls are covered with 100 year old pictures.\r</string>
+    <string id="9">\rFinster's office has many paintings.\r</string>
+    <string id="10">\rFire-blackened walls surround the door way.\r</string>
+    <string id="11">\rA broken door lays here.\r</string>
+    <string id="12">\rOpen door.\r</string>
+    <string id="13">G</string>
+    <string id="14">L</string>
+    <string id="15">Ground </string>
+    <string id="16">Upper </string>
+    <string id="17">Lower </string>
+    <string id="18">\rYou are on the </string>
+    <string id="19">Level.\r</string>
+    <string id="20">A keyboard pops out, "Input security code."\r</string>
+    <string id="21">PROTEUS</string>
+    <string id="22">ACCESS DENIED.\r</string>
+    <string id="23">\rThe door is made of steel bars.\r</string>
+    <string id="24">\rA prisoner runs out crying, "Finster's a heartless android. He'll kill us if we try to leave!"\r</string>
+    <string id="25">\rYou enter Finster's office. He rises to greet you. Read paragraph 14. He then leaves.\r</string>
+    <string id="26">"No!" Finster shouts. "You meddlers! You freed them."\r</string>
+    <string id="27">\rA slope of red rock makes this a tough climb.\r</string>
+    <string id="28">\rYou made it.\r</string>
+    <string id="29">\rYou slipped.\r</string>
+    <string id="30">\rA sheer cliff blocks you.\r</string>
+    <string id="31">\rA boulder is in your way.\r</string>
+    <string id="32">\rA dead tree blocks you.\r</string>
+    <string id="33">\rA steel door blocks you.\r</string>
+    <string id="34">\rA steel door slides open.\r</string>
+    <string id="35">\rA steel door slides shut behind you.\r</string>
+    <string id="36">Ambush! Enemies pop up from every side!\r</string>
+    <string id="37">A Spawnmaster whirls at you.\r</string>
+    <string id="38">\rA small closed hatch is in the floor.\r</string>
+    <string id="39">\rThe hatch has been sealed shut.\r</string>
+    <string id="40">\rAs you open the hatch mutants attack.\r</string>
+    <string id="41">\rIt sparks and smokes, blowing itself to pieces.\r</string>
+    <string id="42">\rAn open hatch is in the floor.\r</string>
+    <string id="43">\rOnly one person can fit here.\r</string>
+    <string id="44">\rStay off the tables!\r</string>
+    <string id="45">\rIt seems possible to connect to the Mindlink with an android's head.\r</string>
+    <string id="46">\rThe android's head fits, turning the machine on. You put on the Cyber helmet.\r</string>
+    <string id="47">\rYou must use an android's head to link with the machine.\r</string>
+    <string id="48">\rYou blank your mind and picture a red/blue pattern.\r</string>
+    <string id="49">\rYou do not know enough about cyborgs to link with the android's brain. You unhitch yourself.\r</string>
+    <string id="50">\r\rThe real world fades from your sight.\r</string>
+    <string id="51">\rThese are strong rock walls.\r</string>
+    <string id="52">\rIt appears that no one lives here.\r</string>
+    <string id="53">\rThis mess hall is clean.\r</string>
+    <string id="54">\rThis kitchen has never been used.\r</string>
+    <string id="55">\rYou see a machine with an android head and a cyber helmet.\r</string>
+    <string id="56">\rYou are tied up and can't move.\r</string>
+    <string id="57">\rYou untie yourself and your party.\r</string>
+    <string id="58">\rYou see your party tied up and free them.\r</string>
+    <string id="59">Elevator Control:\r\r\x11\x10Upper Level\r\x10Ground Level\r\x10Lower Level\r</string>
+    <string id="60">\rThere is a balcony out of reach high above.\r</string>
+    <string id="61">\x0b attacks</string>
+    <string id="62">\x0b snaps a shot off</string>
+    <string id="63">\x0b's gun spits lead</string>
+    <string id="64">Bright energy streams from \x0b</string>
+    <string id="65">\x0b empties a clip</string>
+    <string id="66">\x0b hurls a handful of death</string>
+    <string id="67">\x0b blasts a rocket off</string>
+    <string id="68">hits \x0f </string>
+    <string id="69"> for </string>
+    <string id="70">hits \x0f </string>
+    <string id="71">\x0f </string>
+    <string id="72"> \nis\nare\n stitched full of bullets for </string>
+    <string id="73">melts into \x0f </string>
+    <string id="74">punches a hole in \x0f </string>
+    <string id="75">immolates \x0f </string>
+    <string id="76"> but fail\ns\n\n to inflict any damage</string>
+    <string id="77"> drills </string>
+    <string id="78"> blazes away at </string>
+    <string id="79"> sprays </string>
+    <string id="80"> triggers a burst at </string>
+    <string id="81"> fries </string>
+    <string id="82"> toasts </string>
+    <string id="83"> and hits for </string>
+    <string id="84"> wallop\ns\n\n </string>
+    <string id="85"> brutally pummel\ns\n\n </string>
+    <string id="86"> pounds </string>
+    <string id="87"> thrashes </string>
+    <string id="88"> pounces on </string>
+    <string id="89"> whomps on </string>
+    <string id="90"> and peppers \x0ehim\x0eher\x0eit\x0e</string>
+    <string id="91"> and shreds \x0ehim\x0eher\x0eit\x0e</string>
+    <string id="92"> spinning \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n into a dance of death</string>
+    <string id="93"> sending \n\x0ehim\x0eher\x0eit\x0e\n\x0f of them\n to meet \n\x0ehis\x0eher\x0eits\x0e\ntheir\n maker</string>
+  </strings>
+  <tileMap unknown="0x2d4f">
+    17 67 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 65 33 33 33 33 33 33 33 33 33 33 33 7b 7d 7d 7d 7d 7d 7d 7c 33 33 33 33 33 33 7d 7d 7d 7d 7d 7d 7d 59 64 64 65
+    17 28 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 33 33 33 33 33 59 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 59 33 33 65
+    67 64 66 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 33 33 33 33 33 59 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 59 33 33 65
+    65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 33 33 33 33 33 59 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 59 33 33 65
+    65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 33 33 33 33 33 59 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 59 33 33 65
+    65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 33 33 33 33 33 59 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 59 33 33 65
+    65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 33 33 33 33 33 59 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 59 33 33 65
+    65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 33 33 33 33 33 59 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 59 33 33 65
+    17 17 17 17 17 17 65 33 17 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 33 33 33 33 33 7d 7d 7d 7d 7d 7d 7d 59 33 33 33 33 33 33 7b 7d 7d 7d 7d 7d 7d 7c 33 33 65
+    67 64 64 64 64 64 64 7f 17 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 7b 7d 7d 7d 39 7d 7d 59 33 33 33 33 33 33 33 33 33 65
+    65 33 33 33 33 33 33 33 17 67 64 64 64 64 64 64 64 64 64 64 7f 64 64 17 17 17 17 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 65 33 33 33 33 33 33 33 33 33 65
+    65 33 33 33 33 33 33 33 17 65 33 33 33 33 33 33 33 33 33 33 33 33 33 67 64 64 64 65 33 33 33 33 33 33 33 17 67 64 64 64 64 64 64 64 64 64 65 33 33 33 33 33 33 67 64 64 64 64 64 64 64 64 64 65
+    65 33 33 33 33 33 33 33 17 65 33 33 33 33 33 33 33 33 33 33 33 33 33 7e 33 33 3a 65 33 33 33 33 33 33 33 17 28 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 65 33 33 0f 33 33 33 0f 33 33 65
+    65 33 24 10 33 33 33 33 17 65 33 33 33 33 33 33 33 33 33 33 33 33 33 17 67 64 64 66 33 33 33 33 33 33 33 67 64 64 66 33 33 33 33 33 33 33 7e 33 33 33 33 33 33 65 33 33 33 33 0f 33 33 33 33 65
+    67 64 64 64 65 33 33 33 17 67 64 64 64 64 64 64 64 64 64 67 64 64 64 64 66 33 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 7e 33 33 33 8a 33 8a 33 33 33 65
+    65 33 33 33 65 33 33 33 17 65 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 33 33 33 67 64 67 64 64 67 64 64 67 64 64 67 64 64 65 33 8a 33 8a 33 8a 33 8a 33 65
+    67 64 64 64 65 33 33 33 17 65 33 33 33 33 33 33 33 33 33 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 33 33 33 65 33 7e 33 33 65 33 33 65 33 33 65 33 33 65 33 12 33 8a 33 8a 33 12 33 65
+    65 1f 1f 1f 65 50 50 50 17 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 65 33 33 33 33 33 33 33 65 33 33 33 65 33 65 33 33 65 33 33 7e 33 33 7e 33 33 65 33 33 33 12 33 12 33 33 33 65
+    65 33 33 33 65 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 65 33 33 33 7e 33 67 64 64 64 64 67 64 65 33 67 7f 64 65 33 33 33 33 0f 33 33 33 33 65
+    65 33 33 33 65 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 30 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 65 33 33 33 65 33 65 33 33 33 33 65 33 7e 33 65 33 33 65 33 33 33 33 33 33 33 33 33 65
+    65 5a 5a 5a 66 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 65 33 33 33 65 33 64 64 64 7f 64 64 64 66 33 64 64 64 65 33 33 33 33 67 66 33 64 64 65
+    65 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 65 33 33 33 65 33 33 33 33 33 33 33 33 33 33 33 33 33 7e 33 33 33 33 65 33 33 33 13 65
+    65 5a 5a 5a 5a 5a 5a 5a 8d 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 65 33 33 33 67 7f 64 67 64 7f 64 64 67 64 7f 67 7f 17 65 33 33 33 33 65 15 33 33 13 65
+    65 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 65 33 33 33 65 33 33 65 33 33 33 33 65 33 33 65 33 33 65 33 33 33 33 65 33 33 33 33 65
+    65 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 65 33 33 33 65 33 33 65 33 33 33 33 65 33 33 65 33 33 65 33 33 33 33 65 33 0f 14 14 65
+    65 5a 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 65 1f 1f 1f 67 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 66
+    65 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 64 64 64 64 66 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33
+    65 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 30 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33
+    65 5a 5a 5a 5a 4d 4d 8d 4d 4d 31 31 31 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 67 64 64 65 33 33 33 33 33 33 33 67 64 64 65
+    65 5a 5a 5a 4d 4d 4d 4d 4d 31 31 31 31 31 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 33 17 67 64 64 64 65 33 33 33 33 33 33 33 65 45 31 65 33 33 33 33 33 33 33 65 45 5a 65
+    65 5a 5a 5a 4d 4d 4d 4d 31 31 8c 8c 8c 31 31 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 33 17 28 33 33 33 65 33 33 33 33 33 33 33 65 31 31 65 33 33 33 33 33 33 33 65 5a 5a 65
+    65 5a 5a 5a 4d 4d 4d 31 31 31 8c 0c 8c 31 31 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 33 67 64 66 33 33 65 33 33 33 33 33 33 33 65 4d 4d 65 33 33 33 33 33 33 33 65 4d 5a 66
+    65 5a 5a 4d 4d 30 4d 4d 31 31 8c 31 8c 31 31 4d 4d 4d 30 4d 4d 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 67 66 33 33 33 33 65 33 33 33 33 33 33 33 65 5a 5a 65 33 33 33 33 33 33 33 65 31 4d 0c
+    65 5a 4d 4d 4d 4d 4d 4d 4d 31 8c 8c 8c 31 31 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 65 1f 33 67 0d 64 65 33 33 33 33 33 33 33 65 5a 5a 65 33 33 33 33 33 33 33 65 8c 4d 65
+    65 5a 5a 4d 4d 4d 4d 4d 4d 31 31 31 31 31 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 65 1f 33 65 33 33 65 33 33 33 33 33 33 33 64 65 0c 65 33 33 33 33 33 33 33 64 64 64 66
+    65 5a 5a 5a 4d 4d 4d 4d 4d 31 31 31 31 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 65 1f 33 65 33 33 65 33 33 33 33 33 33 33 33 64 64 66 33 33 33 33 33 33 33 33 33 33 33
+    65 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 17 17 17 65 33 33 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33
+    65 5a 5a 5a 5a 4d 4d 4d 4d 4d 8d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 67 64 64 66 33 33 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 67 64 64 65
+    65 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 30 8d 30 5a 5a 5a 65 33 33 33 33 33 33 33 65 33 33 33 33 33 65 33 33 33 33 33 33 33 67 64 64 65 33 33 33 33 33 33 33 65 5a 4d 66
+    65 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 64 64 64 64 64 64 66 33 33 33 33 33 33 33 65 45 5a 65 33 33 33 33 33 33 33 65 31 5a 0c
+    65 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 5a 5a 65 33 33 33 33 33 33 33 65 4d 5a 65
+    65 5a 5a 30 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 5a 5a 65 33 33 33 33 33 33 33 65 5a 4d 65
+    65 5a 5a 5a 5a 5a 5a 5a 5a 5a 8d 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 65 4d 5a 65 33 33 33 33 33 33 33 65 5a 4d 65
+    65 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 64 65 0c 65 33 33 33 33 33 33 33 64 64 64 66
+    65 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 64 64 66 33 33 33 33 33 33 33 33 33 33 33
+    65 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33
+    65 5a 5a 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33
+    65 5a 5a 5a 5a 5a 5a 5a 5a 4d 4d 31 31 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 65
+    65 5a 5a 5a 5a 5a 5a 5a 5a 4d 4d 31 4d 31 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 4d 31 8c 65
+    65 5a 5a 5a 5a 5a 5a 5a 5a 4d 4d 31 0c 31 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 4d 31 31 65
+    65 5a 5a 5a 5a 5a 5a 5a 5a 4d 4d 31 4d 31 30 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 8d 5a 5a 5a 5a 5a 5a 4d 31 8c 65
+    65 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 31 31 31 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 31 31 31 31 31 31 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 4d 31 8c 66
+    65 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 8d 4d 4d 4d 4d 4d 30 4d 4d 4d 5a 5a 30 5a 5a 5a 4d 4d 4d 4d 4d 4d 31 8c 8c 8c 8c 8c 8c 31 31 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 4d 31 8c 5a
+    65 5a 5a 4d 4d 8d 4d 4d 31 31 31 31 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 4d 4d 30 4d 4d 4d 31 8c 4d 4d 4d 4d 4d 8c 8c 31 5a 5a 5a 5a 5a 5a 5a 30 5a 5a 5a 4d 31 8c 5a
+    65 5a 5a 4d 4d 4d 4d 31 8c 8c 8c 8c 31 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 31 8c 4d 8c 8c 8c 4d 4d 8c 31 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 4d 31 8c 5a
+    65 5a 5a 4d 4d 4d 4d 31 8c 0c 4d 8c 31 4d 4d 30 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 31 8c 4d 8c 0c 8c 8c 4d 8c 31 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 4d 31 8c 65
+    65 5a 5a 5a 4d 4d 4d 31 8c 8c 8c 8c 31 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 30 5a 5a 4d 4d 8d 4d 4d 4d 31 8c 4d 8c 8c 8c 8c 4d 8c 31 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 4d 31 8c 65
+    65 5a 5a 5a 5a 4d 4d 4d 31 31 31 31 4d 4d 4d 4d 4d 4d 8d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 31 8c 8c 8c 8c 8c 8c 8c 8c 31 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 4d 31 8c 65
+    65 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 31 31 31 31 31 31 31 8c 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 4d 31 8c 65
+    65 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 30 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 4d 31 8c 65
+    65 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 8d 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 8d 4d 4d 4d 30 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 4d 8c 65
+    65 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 30 5a 5a 5a 5a 4d 4d 4d 4d 4d 8d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 4d 65
+    65 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 4d 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 5a 65
+    64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 66
+  </tileMap>
+</map>
